@@ -1,0 +1,913 @@
+./custom_character_voice/Taffy/processed_0.wav|0|no↓o bɯ↑Nja ɯ↓N.
+./custom_character_voice/Taffy/processed_1.wav|0|p⁼u↓la↓ p⁼u↓la↓ p⁼u↓la↓s`əŋ→ tʰjɛn→ʃiɑŋ↓↑ pʰjɛn↓ ɹ`ən↑ pʰjɛn↓ pʰjɛn↓k⁼eɪ↓↑ ts`⁼ə↓ʃiɛ→.
+./custom_character_voice/Taffy/processed_2.wav|0|iɛ↓↑ʃɥ↓↑ tʃ⁼joʊ↓s`ɹ`↓ njɛn↑tʃʰiŋ→ fa→ʃjɛn↓ t⁼ə tʃʰi↑tʃ⁼i↓ ts`⁼ə↓k⁼ə↓ s`ɹ`↓p⁼u↑s`ɹ`↓ i↓↑tʃ⁼iŋ→ s`ɹ`↓ s`ɹ`↑njɛn↑ tʃʰjɛn↑ t⁼ə t⁼ʊŋ↓xwa↓ lə.
+./custom_character_voice/Taffy/processed_4.wav|0|p⁼ən↓↑laɪ↑ tʰa→mən p⁼u↓ tʃ⁼ɥɛ↑t⁼ə a nə ni↓↑mən s`wo→ tʰa→mən iɛ↓↑ tʃ⁼ɥɛ↑t⁼ə a nə.
+./custom_character_voice/Taffy/processed_5.wav|0|ɹ`an↑xoʊ↓ tʃ⁼joʊ↓ p⁼jɛn↓ts`ʰəŋ↑ ts`⁼ə↓iɑŋ↓ lə ən↑.
+./custom_character_voice/Taffy/processed_6.wav|0|ə↓, p⁼u↓ p⁼u↓ p⁼u↓, p⁼u↓ ts⁼aɪ↓ p⁼iŋ→p⁼iŋ→ p⁼iŋ→, pʰeɪ↑tʃ⁼joʊ↓↑ miɑʊ→ ʃin→tʃ⁼iɑŋ→ t⁼ʊŋ↓ nan↑ ʃiɑʊ↓↑ ʃiɑŋ↓wan↓↑ t⁼əɛ↑sɹ↓ɛ↑sɹ↓si→, tʰə↓p⁼iɛ↑ wo↓↑ s`ɹ`↓ ɹ`ən↓ts`⁼ɹ`→ ts`ʰu↓, kʰə↓↑i↓↑ ɹ`ən↓s`ɹ`↑ wo↓↑ i→ʃja↓ ma? ni↓↑xɑʊ↓↑!
+./custom_character_voice/Taffy/processed_7.wav|0|a ts`⁼ə↓k⁼ə↓ ts`⁼ə↓k⁼ə↓ ts`⁼ə↓k⁼ə↓ ts`⁼ə↓p⁼jɛn→ ts`⁼ə↓p⁼jɛn→ ts`⁼ə↓p⁼jɛn→k⁼eɪ↓↑ ts`ʰu↑ts`⁼ɑŋ↓↑ jʊŋ↓ t⁼ə s`ɹ`↑xoʊ↓ xweɪ↓ k⁼aɪ↓↑ t⁼ə ts`⁼ə↓s`ɹ`↓ ts⁼an↓s`ɹ`↑ fɑŋ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_8.wav|0|meɪ↑joʊ↓↑ o↑, ts⁼ən↓↑mə meɪ↑ joʊ↓↑ nə? ts`⁼ə↓ mwo↑ʃiŋ↑ meɪ↑k⁼aɪ↓↑ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_9.wav|0|wo↓↑ s`ɹ`↓ tʃ⁼iɑʊ↓ ni↓↑ t⁼ɑŋ→ts⁼wo↓ na↓↑ t⁼ʊŋ→ʃi→ nə? ən↑ ja.
+./custom_character_voice/Taffy/processed_10.wav|0|tʃʰjɛn→ tʃʰjɛn→ p⁼ɑʊ↓p⁼ɑʊ↓  mwo→mwo→tʰoʊ↑  tʃʰjɛn→ tʃʰjɛn→  wa p⁼ɑʊ↓p⁼ɑʊ↓  wa mwo→mwo→tʰoʊ↑  xa→.
+./custom_character_voice/Taffy/processed_11.wav|0|a na↓ t⁼oʊ→ meɪ↑ joʊ↓↑ na↓tʰaɪ↓kʰwaɪ↓ lə la ɹ`u↑k⁼wo↓↑ s`ɹ`↓ ts⁼ɹ↓p⁼i↓ʃjɛn↓ t⁼ə s`oʊ→ ni↓↑ t⁼ə xwa↓.
+./custom_character_voice/Taffy/processed_12.wav|0|s`ɹ`↓ ts⁼ən↓↑iɑŋ↓ t⁼a↓↑ t⁼ə s`wo→ uɑŋ↑ts⁼ɹ↓↑ əɹ`↑ p⁼u↑s`ɹ`↓ s`wo→ ts`⁼ɹ`↑p⁼wo→.
+./custom_character_voice/Taffy/processed_13.wav|0|sɹ↓ts`ʰwan→ u↓↑ts`⁼oʊ→ tsʰan→tʰiŋ→ s`u→s`u→ k⁼eɪ↓↑ ni↓↑ p⁼ɑʊ↓ mi↓↑la→ ts`⁼u↓ni↓↑kʰwaɪ↓lə↓ s`u→s`u→ t⁼wo→p⁼ɑŋ↓ i↓t⁼jɛn↓↑.
+./custom_character_voice/Taffy/processed_14.wav|0|tʃ⁼in→tʰjɛn→ ts`⁼wən↓↑p⁼eɪ↓ ʃjoʊ→ʃi→ lə, miŋ↑tʰjɛn→ iɛ↓↑ ts⁼ɑʊ↓↑tʃʰi↓↑ miŋ↑, tʰə↓p⁼iɛ↑ k⁼an↓↑tʃ⁼ɥɛ↑ tʃʰi↓↑t⁼ə↑ ts⁼ɑʊ↓↑.
+./custom_character_voice/Taffy/processed_15.wav|0|wo↓↑ ts`⁼ən→ ʃi↓↑xwan→ ts`⁼ə↓k⁼ə↓ a na↓ t⁼əŋ↓↑ i→ʃja↓ ts⁼ən↓↑mə meɪ↑joʊ↓↑ t⁼an↓mu↓ kʰaɪ→k⁼ə↓ t⁼an↓mu↓.
+./custom_character_voice/Taffy/processed_16.wav|0|tʃ⁼in→tʰjɛn→ joʊ↓↑ ts`ʰʊŋ→ts⁼u↑ tʃ⁼iŋ→ts`⁼wən↓↑ t⁼ə k⁼ɑʊ↓p⁼aɪ↑ xwa↓ s`wo→miŋ↑ tʃ⁼in→tʰjɛn→ iɑʊ→tʃʰiŋ↓↑ t⁼aɪ↓ ʃiɑʊ↓↑tʃ⁼iŋ↓↑ p⁼iŋ↓↑k⁼an→ t⁼ə ts⁼ɹ↓tʃ⁼i↓↑ t⁼ə s`oʊ↓↑xu↓ mjɛn↓.
+./custom_character_voice/Taffy/processed_17.wav|0|p⁼u↓k⁼wo↓ tʃ⁼in→tʰjɛn→ meɪ↑joʊ↓↑ mi↓↑ja↓, ni↓↑mən kʰan↓p⁼u↓ts`ʰu→ laɪ↑ xweɪ↑tʰoʊ↑ k⁼aɪ↓↑xɑʊ↓↑ lə, jʊŋ↓mi↓↑ ja↓k⁼eɪ↓↑ ni↓↑ mən kʰan↓ tʰa→mən t⁼ə i↓↑ts⁼ɹ s`ɹ`↓ nəŋ↑... wo↓↑mən joʊ↓↑ ts`ʰu→tʰa↓↑p⁼eɪ→, fɑŋ↑tʃ⁼jɛn→ i↓↑ts⁼ɹ s`ɹ`↓ nəŋ↑ ts⁼wo↓ t⁼ə.
+./custom_character_voice/Taffy/processed_18.wav|0|tʰa→mən meɪ↑joʊ↓↑ t⁼an↓mu↓ t⁼ə, tʰa→mən tsʰɑŋ↑ ts`⁼u↓ k⁼wən↓↑t⁼ʊŋ↓ i→tʰiɑʊ↑ t⁼an↓mu↓.
+./custom_character_voice/Taffy/processed_19.wav|0|ts`⁼ə↓s`ɹ`↓ i→əɹ`↓liŋ↑t⁼a↓p⁼u↓ljoʊ↓a↓ ts⁼wo↓t⁼a↓p⁼u↓ljoʊ↓a↓tʰi↓ t⁼ə ʃi→ʃi→ ʃi→ʃi→ ʃi→ʃi→.
+./custom_character_voice/Taffy/processed_20.wav|0|ts⁼weɪ↓tʃ⁼in↓ ʃiɑʊ↓↑iŋ↓ i↓t⁼jɛn↓↑ ni↓↑ ts`⁼ən→t⁼ə s`wo→ p⁼u↓ s`wo→ lə p⁼u↓ s`wo→ lə.
+./custom_character_voice/Taffy/processed_21.wav|0|tʰa→mən ts`ʰɑʊ→ k⁼ɑʊ↓↑ p⁼u↓ts`⁼ɑŋ↓↑ ts`⁼ə↓iɑŋ↓ miɑʊ→ k⁼uɑŋ↓↑k⁼ɑʊ↓ t⁼a↓↑kʰaɪ→ miɑʊ→.
+./custom_character_voice/Taffy/processed_22.wav|0|ən↑, tʰa→mən wan↑ t⁼ə tʰaɪ↓xwa→ lə, tʃ⁼in→wan↓↑ p⁼wo→t⁼ɑʊ↓ s`ən↑mə s`ɹ`↑xoʊ↓ ts`ʰa↓p⁼u↓t⁼wo→ lə.
+./custom_character_voice/Taffy/processed_23.wav|0|ɯ↑ɯ↓N, ta↓bɯN do↑n^dʑɯ↓mbiwa ho↓bo ma↓da.
+./custom_character_voice/Taffy/processed_24.wav|0|tʃ⁼ja→ɹ`oʊ↓ miɑʊ→ ts⁼an↑mən ts`⁼ə↓ ts⁼ən↓↑mə tʰu→ɹ`an↑ nəŋ↑jʊŋ↓ nə.
+./custom_character_voice/Taffy/processed_25.wav|0|jʊŋ↓↑ts`⁼ə↓↑ p⁼u↓ u↓↑tʰiɑʊ↑ kʰwaɪ↓.
+./custom_character_voice/Taffy/processed_26.wav|0|tʃ⁼in→tʰjɛn→ xɑʊ↓↑xɑʊ↓↑ ʃjoʊ→ʃi→ miɑʊ→.
+./custom_character_voice/Taffy/processed_27.wav|0|tʃ⁼in→tʰjɛn→ i→tʃ⁼jɛn↓ nan↑p⁼ɑʊ↓↑  a p⁼u↑s`ɹ`↓ ni↓↑ tʰiŋ→ k⁼wo↓ la tʃ⁼in→tʰjɛn→ ts`⁼ə↓mə ts`⁼ʊŋ↓ iɛ↓↑ p⁼u↓t⁼ə↑ s`ɹ`↓s`ɹ`↓.
+./custom_character_voice/Taffy/processed_28.wav|0|ɥn↓tʃʰi↓ xən↓↑ ts`⁼ʊŋ↓iɑʊ↓ ɥn↓tʃʰi↓ xən↓↑ ts`⁼ʊŋ↓iɑʊ↓.
+./custom_character_voice/Taffy/processed_29.wav|0|ts⁼aɪ↓ k⁼aɪ↓↑ i→ʃja↓ wən↓tʰi↑ xaɪ↑ p⁼u↓s`ɑʊ↓↑.
+./custom_character_voice/Taffy/processed_30.wav|0|kʰan↓kʰan↓ njoʊ↑naɪ↓↑ tʃʰɥ↓ soʊ→swo↓↑ ni↓↑ t⁼ə t⁼ʊŋ↓ts⁼wo↓ ə↓.
+./custom_character_voice/Taffy/processed_31.wav|0|i→xweɪ↓əɹ`↑ tʃʰiɑŋ↓↑ na↓k⁼ə↓ wan↑ts`⁼əŋ↓↑ t⁼ə xɑʊ↓↑t⁼wo→ kʰʊŋ↓↑p⁼u↓ joʊ↑ʃi↓ t⁼oʊ→ nəŋ↑ xə↑ts⁼wo↓ wan↑ts`⁼əŋ↓↑ t⁼ə s`ɹ`↓pʰin↑ ja.
+./custom_character_voice/Taffy/processed_32.wav|0|meɪ↑joʊ↓↑ la meɪ↑joʊ↓↑ la.
+./custom_character_voice/Taffy/processed_33.wav|0|s`ɹ`↓tʃ⁼iɛ↓ mwo↓t⁼aɪ↓ t⁼ə ɹ`ən↑ ts`⁼ɹ`→tʃʰjɛn↑, wo↓↑ ʃi↓↑xwan→ ni↓↑, wo↓↑ tʰə↓p⁼iɛ↑ ʃi↓↑xwan→ ni↓↑, tʰə↓p⁼iɛ↑ ʃi↓↑xwan→ ni↓↑ ja.
+./custom_character_voice/Taffy/processed_34.wav|0|s`u→s`u→ tʃ⁼ɥ→ɹ`an↑ xweɪ↓ p⁼ɑʊ↓mi↓↑ ts`⁼ə↓ʃiɛ→ xɑʊ↓↑t⁼jɛn↓ ts`⁼ən→ tʃ⁼joʊ↓ ʃiɑŋ↓ k⁼wo↓ ləɛ↑sɹ↓ tʃʰi→.
+./custom_character_voice/Taffy/processed_35.wav|0|N? N? N? N?
+./custom_character_voice/Taffy/processed_36.wav|0|ʃi↓↑xwan→ tʰoʊ↓miŋ↑ meɪ↓↑tʰjɛn→ ts`⁼ɹ`↑p⁼wo→ tʃ⁼iɛ↑s`u↓ tʃʰjɛn↑ t⁼ə ts⁼a↑tʰan↑tʃ⁼iɛ→t⁼wan↓ tʰoʊ↓miŋ↑ k⁼ən→ ts`⁼u↓ i→ʃja↓, tʰoʊ↓miŋ↑ p⁼u↑s`ɹ`↓ meɪ↓↑tʰjɛn→ ts`⁼ɹ`↑p⁼wo→ tʃ⁼iɛ↑s`u↓ tʃʰjɛn↑ t⁼oʊ→ joʊ↓↑ ts⁼a↑tʰan↑ t⁼ə.
+./custom_character_voice/Taffy/processed_37.wav|0|wa kʰə↓↑s`ɹ`↓ kʰaɪ→tʰwo↓ xaɪ↓↑waɪ↓ ma ən↑.
+./custom_character_voice/Taffy/processed_38.wav|0|t⁼ɑŋ→s`ɹ`↑ na↓k⁼ə↓ s`ɹ`↑xoʊ↓ wo↓↑ ts`ʰu→ t⁼ɑʊ↓ jɛn↓↑ t⁼ə t⁼i↓i→tsʰɹ↓ kʰan↓tʃ⁼jɛn↓ts`⁼ɹ`↓↑ mwo↑tʃ⁼ɥn→ joʊ↓↑ xən↓↑t⁼wo→xən↓↑t⁼wo→ t⁼an↓mu↓.
+./custom_character_voice/Taffy/processed_39.wav|0|tʃʰin↓↑t⁼ə↑ wan↓↑ t⁼ə xwa↓ ts`⁼ɹ`↓↑joʊ↓↑ wan↓↑s`ɑŋ↓ t⁼əŋ↓↑ lə ts`ʰɹ`→ xwo↓↑k⁼wo→ tʃʰɥ↓ ma  tʰiŋ↓↑ ʃiɑŋ↓↑ ts`ʰɹ`→ t⁼ə.
+./custom_character_voice/Taffy/processed_40.wav|0|tʰə↓p⁼iɛ↑ ts`ʰwan→ ts⁼weɪ↓s`ɑʊ↓↑ na↓tʃ⁼jɛn↓ xaɪ↑ meɪ↑fɑŋ↓ ts`ʰu→laɪ↑ nə.
+./custom_character_voice/Taffy/processed_41.wav|0|ɥ↑əɹ`↑ tʰa↓↑feɪ→, ʃiɑʊ↓↑ts`⁼u→ pʰeɪ↓tʃʰi↑, iɑŋ↑k⁼uɑŋ→ tsʰaɪ↓↑xʊŋ↑ ʃiɑʊ↓↑ p⁼aɪ↑ma↓↑, ts`⁼ɹ`↑u↓ t⁼a↓ts`⁼an↓ tʃ⁼iɑŋ→s`ɹ`→.
+./custom_character_voice/Taffy/processed_42.wav|0|ə↓, na↓ iŋ→k⁼aɪ→ meɪ↓↑tʰjɛn→ ts⁼aɪ↓, ə↓,oʊ→t⁼i↓ s`əŋ↓jɛn↓.
+./custom_character_voice/Taffy/processed_43.wav|0|ni↓↑ ts⁼weɪ↓xɑʊ↓↑ k⁼an↓↑s`oʊ↓ tʰə↓p⁼iɛ↑ wo↓↑ meɪ↑joʊ↓↑ i→tʰiɑʊ↑ ʃiŋ↓↑laɪ↑ tʰə↓p⁼iɛ↑ ɹ`ə↓ t⁼ə miɑʊ→.
+./custom_character_voice/Taffy/processed_44.wav|0|ts`⁼ə↓p⁼a↓↑ fan↓↑k⁼uɑŋ→ tʃ⁼ja→tʃʰiɑŋ↑t⁼jɛn↓↑ tʃ⁼joʊ↓ liɑŋ↓ lə la ən↑.
+./custom_character_voice/Taffy/processed_45.wav|0|ən↑, ən↑, ən↑, tʰa→mən ʃiɑŋ↓↑ʃiɑŋ↓↑ tʰa→mən joʊ↓↑ s`ən↑mə ʃiɑŋ↓↑fa↓↑, xɑʊ↓↑ʃiɑŋ↓ ʃiɛ↓↑k⁼wo↓ lə.
+./custom_character_voice/Taffy/processed_46.wav|0|fan↓↑ts`⁼əŋ↓ tʰə↓p⁼iɛ↑ joʊ↓↑tʃʰɥ↓ t⁼ə t⁼ɑŋ→s`ɹ`↑, joʊ↓↑ i↑k⁼ə↓ xən↓↑xwo↓↑ t⁼əui→tʰi↓joʊ→p⁼i↓i↓a↓ i→wən↓i→t⁼a↑ sɹ↓↑ wo↓↑ tʃ⁼joʊ↓ ts`⁼ɹ`→t⁼ɑʊ↓.
+./custom_character_voice/Taffy/processed_47.wav|0|ma↑ta ma↑ta↓ne ba↓ibaimjaN ba↓ibaimjaN ba↓ibaimjaN ba↓ibaimjaN.
+./custom_character_voice/Taffy/processed_48.wav|0|tʰa→mən p⁼u↓ ʃiɑŋ↓↑iɑʊ↓ na↓mə t⁼wo→ fən↓↑sɹ→ ma meɪ↑ joʊ↓↑  t⁼ɑŋ→ɹ`an↑ s`ɹ`↓ iɑʊ↓ t⁼ɑŋ→ɹ`an↑ s`ɹ`↓ ts`⁼ə↓k⁼ə↓ s`ɹ`↓tʃ⁼iɛ↓ s`ɑŋ↓ ʃi↓↑xwan→ ts⁼weɪ↓ɹ`ən↓↑ t⁼ə ɹ`ən↑.
+./custom_character_voice/Taffy/processed_49.wav|0|weɪ↓ s`ən↑mə tʰə↓miŋ↓ ts⁼ʊŋ↓↑s`ɹ`↓ p⁼a↓↑ ts⁼ɹ↓tʃ⁼i↓↑ t⁼ə ts`ʰəŋ↑k⁼ʊŋ→ k⁼weɪ→k⁼ʊŋ→ ɥ↑ ɥn↓tʃʰi↓ ɹ`u↑k⁼wo↓↑ ts`⁼ən→ts`⁼əŋ↓ kʰɑʊ↓ ɥn↓tʃʰi↓ in↓↑ljoʊ↑ t⁼ə xwa↓ s`ɹ`↓ p⁼u↓xweɪ↓ ljoʊ↑ts`ʰəŋ↑ ts`⁼ə↓mə t⁼wo→ t⁼ə.
+./custom_character_voice/Taffy/processed_50.wav|0|na↓ t⁼ɑʊ↓ p⁼u↓nəŋ↑ na↓ ts`⁼ə↓k⁼ə↓ s`ɹ`↓ tʰa→mən ʃi↓↑xwan→ t⁼ə mwo↓ʃi→k⁼ə→ t⁼wən↓kʰoʊ↓↑ɥæn↑.
+./custom_character_voice/Taffy/processed_51.wav|0|feɪ→ts`ʰɑŋ↑ t⁼i↓ sweɪ↑ʃin→ swo↓↑ɥ↓.
+./custom_character_voice/Taffy/processed_52.wav|0|t⁼an↓ tʰa→ p⁼eɪ↓ ʃin→ i→fu↑ ma↓ tʰa→ p⁼eɪ↓ ts`ʰwan→miɛ↓ lə.
+./custom_character_voice/Taffy/processed_53.wav|0|xweɪ↑tʰoʊ↑ k⁼eɪ↓↑ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ an→pʰaɪ↑ s`ɑŋ↓mjɛn↓ ts`⁼ɹ`→tʃʰjɛn↑ maɪ↓↑ t⁼ə i→fu↑ i↓↑tʃ⁼iŋ→ maɪ↓↑ lə t⁼an↓s`ɹ`↓ xaɪ↑ meɪ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_54.wav|0|tʰə↓p⁼iɛ↑ wan↑k⁼wo↓ xən↓↑t⁼wo→ ts`⁼ə↓ts`⁼ʊŋ↓↑ ə↓mjɛn↓ k⁼aɪ→ wan↑ t⁼ə p⁼u↓ wan↑ t⁼ə tʃ⁼in→tʰjɛn→ wan↑k⁼wo↓ lə.
+./custom_character_voice/Taffy/processed_55.wav|0|in→weɪ↓ xwa↓s`ɹ`→ ma→ma→ ts`⁼ɹ`→t⁼ɑʊ↓ tʰa→mən ʃi↓↑xwan→ san↓p⁼iŋ→.
+./custom_character_voice/Taffy/processed_56.wav|0|k⁼ə→ ts⁼ən↓↑mə xaɪ↑ t⁼a↓↑kʰaɪ→ mi↓↑ a→ʃi→ in→weɪ↓ iɑʊ↓ k⁼eɪ↓↑ ts`ʰʊŋ→t⁼ɑʊ↓ ni↓↑.
+./custom_character_voice/Taffy/processed_57.wav|0|ɯ↓N, ti↓iŋga, wa↓Q, ti↓in^dʑa.
+./custom_character_voice/Taffy/processed_58.wav|0|ɹ`an↑xoʊ↓ tʰa→mən t⁼ə fɑŋ↑tʃ⁼jɛn→ tʰa→mən t⁼ə fɑŋ↑tʃ⁼jɛn→ xaɪ↑ ts⁼aɪ↓ ts`⁼uɑŋ→ʃjoʊ→.
+./custom_character_voice/Taffy/processed_59.wav|0|ʃin→tʃ⁼ja→pʰwo→ xɑʊ↓↑kʰan↓ miɑʊ↓↑ tʰa↓↑mu↓↑ mjɛn↓ tʰa↓↑mu↓↑ mjɛn↓ tʰa↓↑mu↓↑ mjɛn↓ tʰa↓↑mu↓↑ mjɛn↓.
+./custom_character_voice/Taffy/processed_60.wav|0|i↑ ʃin→njɛn↑xɑʊ↓↑ njɛn↑  ʃin→njɛn↑xɑʊ↓↑ k⁼wo↓njɛn↑  ʃin→njɛn↑ ts`ʰəŋ↑tʃ⁼ja→ ʃiɑʊ↓↑xaɪ↑.
+./custom_character_voice/Taffy/processed_61.wav|0|a  ts⁼ən↓↑mə  ts⁼ən↓↑mə xaɪ↑meɪ↑joʊ↓↑k⁼eɪ↓↑ a  tʰɑŋ→p⁼i↓↑ ni↓↑ ts`⁼ə↓k⁼ə↓ t⁼ʊŋ→ʃi→ ts⁼ən↓↑mə ts⁼ən↓↑mə xaɪ↑meɪ↑k⁼eɪ↓↑.
+./custom_character_voice/Taffy/processed_62.wav|0|tʰa→mən iɑʊ↓ ts`ʰɑʊ↓↑ sɹ↓↑ wo↓↑, ɹ`an↑xoʊ↓t⁼oʊ→ p⁼u↓ wo→ wan↓ i→ meɪ↑ kʰʊŋ↓ts`⁼ɹ`↓ xɑʊ↓↑, tʃ⁼in↓↑liɑŋ↓ tʃ⁼joʊ↓ p⁼u↓jʊŋ↓ s`weɪ↓ lə, tʰa→mən tʃ⁼joʊ↓ p⁼u↓ wo→ lə.
+./custom_character_voice/Taffy/processed_63.wav|0|ʃin→ʃjɛn→ ʃjɛn→ɥ↑  ts`ʰwən↑liɑŋ↑ t⁼əŋ↓↑fɑŋ→ ts`ʰɑʊ→tʃ⁼i↑ ɥ↑ ɥ↓↑ t⁼an↓ s`uɑŋ↓↑k⁼ə→.
+./custom_character_voice/Taffy/processed_64.wav|0|ts`⁼əŋ↓ ts`⁼ə↓iɑŋ↓ t⁼ə s`ə↓tʃ⁼i↓, ɹ`an↑xoʊ↓ k⁼ʊŋ→kʰaɪ→ k⁼eɪ↓↑ ts`ʰu→ts`ʰɑŋ↓↑ tʃ⁼i→.
+./custom_character_voice/Taffy/processed_65.wav|0|ni↓↑mən tʃ⁼ɥɛ↑t⁼ə ts`⁼ə↓iɑŋ↓ xɑʊ↓↑ xaɪ↑s`ɹ`↓ ts`⁼ə↓iɑŋ↓ xɑʊ↓↑? wo↓↑ tʰoʊ↑s`ɑŋ↓ joʊ↓↑ p⁼u↑iɑʊ↓ xʊŋ↑ nə?
+./custom_character_voice/Taffy/processed_66.wav|0|tʃ⁼in→tʰjɛn→ s`weɪ↓ lə t⁼wo→tʃ⁼joʊ↓↑  p⁼u↓ t⁼wo→  tʃ⁼in→tʰjɛn→ s`weɪ↓t⁼ə↑ xɑʊ↓↑s`ɑʊ↓↑.
+./custom_character_voice/Taffy/processed_67.wav|0|p⁼u↓ ts`ʰwan→, ts`ʰwan→, fan↓↑ts`⁼əŋ↓ ts`ʰwan→iɑʊ↓ lu↓ts`ʰu→ laɪ↑, k⁼eɪ↓↑tʰa→ mən kʰan↓ ma.
+./custom_character_voice/Taffy/processed_68.wav|0|tʰa→ tʰa→ meɪ↑joʊ↓↑ tʰa→ tʰa→ meɪ↑joʊ↓↑ s`ən↑mə meɪ↑joʊ↓↑ t⁼wan↓↑ s`ɹ`↓pʰin↑ p⁼wo→fɑŋ↓ liɑŋ↓↑k⁼ə↓ swo↓↑i↓↑ tʰa→mən tʃ⁼joʊ↓.
+./custom_character_voice/Taffy/processed_69.wav|0|p⁼iɛ↑ ts`⁼ə↓iɑŋ↓ t⁼a↓↑ja→ p⁼iɛ↑ ts`⁼ə↓iɑŋ↓ t⁼a↓↑ja→.
+./custom_character_voice/Taffy/processed_70.wav|0|t⁼jɛn↓↑ i→ʃja↓ tʃ⁼joʊ↓ʃiŋ↑lə na↓xwan↓ i↑k⁼ə↓ miɑʊ→ ən↑.
+./custom_character_voice/Taffy/processed_71.wav|0|tʃ⁼in→tʰjɛn→ p⁼i↓t⁼iŋ↓ iɑʊ↓ wan↓↑t⁼jɛn↓↑ ʃjoʊ→ʃi→ tʰə↓p⁼iɛ↑ iɑʊ↓ ts`⁼u↓ni↓↑kʰwaɪ↓lə↓ kʰwaɪ↓lə↓ miɑʊ↓↑ k⁼ɑŋ→k⁼ɑŋ→ ts⁼aɪ↓ s`weɪ↓tʃ⁼iɑʊ↓ k⁼ɑŋ→tsʰaɪ↑ u→u→.
+./custom_character_voice/Taffy/processed_72.wav|0|na↓ iɛ↓↑ s`ɹ`↓ t⁼əŋ↓↑ i→p⁼wo→ k⁼wo↓tʃʰɥ↓ lə tʃ⁼joʊ↓ ts`ʰəŋ↑tʃ⁼i↓ lə.
+./custom_character_voice/Taffy/processed_73.wav|0|kʰan↓kʰan↓ tʰa→mən s`wa↓↑tʃ⁼joʊ↓↑fəŋ→ a p⁼u↓xɑʊ↓↑ p⁼a wan↓i→ s`wo→ s`wo→ t⁼jɛn↓↑ s`ən↑mə.
+./custom_character_voice/Taffy/processed_74.wav|0|ʃiɑʊ↓↑ts`ʰɹ`→ miɑʊ→.
+./custom_character_voice/Taffy/processed_75.wav|0|ts⁼aɪ↓ əɹ`↓tʰi↑ san→tʃ⁼in↓ kʰən↓↑t⁼iŋ↓ joʊ↓↑ ts`ʰa→p⁼iɛ↑ t⁼ə ma.
+./custom_character_voice/Taffy/processed_76.wav|0|san→iɑʊ↓ ts`ʰɹ`→ xɑʊ↓↑ s`weɪ↓ xɑʊ↓↑  sɹ↓joʊ↓↑ s`ən↑mə fan↑nɑʊ↓↑ i↓tʃʰi↓↑ tʰɑʊ↓↑lwən↓ joʊ↓↑ s`ən↑mə fan↑nɑʊ↓↑.
+./custom_character_voice/Taffy/processed_77.wav|0|ni↓↑ ts⁼aɪ↓ p⁼u↓ts`ʰɹ`→ a ts`⁼ən→ p⁼u↓ts`ʰɹ`→ lə.
+./custom_character_voice/Taffy/processed_78.wav|0|ən↑ ɥn↓tʃʰi↓ xɑʊ↓↑ ɥn↓tʃʰi↓ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_79.wav|0|k⁼eɪ↓↑ p⁼i↑ts⁼ɹ ts`ʰweɪ→k⁼ə↓ p⁼i↑ts⁼ɹ p⁼a ts`ʰweɪ→ i→ts`⁼ɹ`→ miɑʊ→.
+./custom_character_voice/Taffy/processed_80.wav|0|wo↓↑ ts⁼wo↓ p⁼ɑʊ↓↑ s`ɹ`↓ ts`⁼ə↓iɑŋ↓ t⁼ə ts⁼ən↓↑məiɑŋ↓ ən↑.
+./custom_character_voice/Taffy/processed_81.wav|0|wo↓↑ ts`⁼ə↓ s`ɹ`↓ s`u→s`u→ t⁼ə t⁼i↓pʰan↑, p⁼u↑s`ɹ`↓ min↓↑tʃ⁼iɛ↑ na↑ t⁼ə xən↓↑ joʊ↓↑ kʰə↓↑nəŋ↑.
+./custom_character_voice/Taffy/processed_82.wav|0|sɹ↓k⁼wan→ ts`⁼əŋ↓i↓ s`ən↑mə p⁼i↓↑tʃ⁼iɑʊ↓ ma.
+./custom_character_voice/Taffy/processed_83.wav|0|ts`ʰʊŋ↑tʃ⁼jɛn↓ tʰa→mən t⁼ə s`ɹ`↑xoʊ↓ xaɪ↑joʊ↓↑t⁼jɛn↓↑ tʃʰɥɛ→fa↑ts⁼ɹ↓ʃin↓ na↓ s`ɹ`↓ s`ən↑mə s`ɹ`↑xoʊ↓.
+./custom_character_voice/Taffy/processed_84.wav|0|tʰa→mən iɑʊ↓ ljoʊ→ lə, tʰa→mən iɑʊ↓ ts`ʰɹ`→ p⁼ɑʊ↓↑p⁼ɑʊ↓↑ tsʰʊŋ↑ na↓↑li↓↑ xu↓ʃiɑŋ→ ʃiɑʊ→xwa↓ t⁼ə.
+./custom_character_voice/Taffy/processed_86.wav|0|t⁼əŋ↓↑ s`u→s`u→ k⁼aɪ↓↑p⁼an↓↑ ts⁼aɪ↓ s`wo→.
+./custom_character_voice/Taffy/processed_87.wav|0|tʰə↓p⁼iɛ↑ xaɪ↑xweɪ↓ kʰan↓ tʃʰi↑tʰa→ mi↑ ma? tʰə↓p⁼iɛ↑ xweɪ↓ kʰan↓ wan↑ʃiɑʊ↓ t⁼ə mi↑ s`u→s`u→ iɛ↓↑ tʃ⁼iŋ→ts`ʰɑŋ↑ k⁼eɪ↓↑.
+./custom_character_voice/Taffy/processed_88.wav|0|ɹ`an↑ xoʊ↓ k⁼ə→k⁼ə→ sweɪ↑p⁼jɛn↓ s`wo→ k⁼ə→k⁼ə→ ni↓↑ ts`⁼ə↓s`əŋ→ in→nəŋ↑ ts`ʰʊŋ→man↓↑ xwo↑li↓ t⁼ə.
+./custom_character_voice/Taffy/processed_89.wav|0|ʃiɛ↓ʃiɛ↓, tʰə↓p⁼iɛ↑ aɪ↓ ts`ʰɹ`→ ɥæn→iɑŋ→k⁼wo→ t⁼ə iɛ↑, ʃiɛ↓ʃiɛ↓.
+./custom_character_voice/Taffy/processed_90.wav|0|san↓↑p⁼iŋ→ s`ən→s`ɑŋ↓ joʊ↓↑ niɑʊ↓↑ t⁼ə na↓k⁼ə↓ xwa↓mjɛn↓ ɹ`an↑xoʊ↓ tʰa→mən s`wo→ p⁼u↓ tʰa→mən p⁼u↓ ʃi↓↑xwan→ san↓↑p⁼iŋ→ tʰa→mən ʃi↓↑xwan→ ts`ʰu→ ts`ʰɑʊ↓↑ tʃ⁼i→ kʰwaɪ↓t⁼jɛn↓↑ p⁼a↓↑ ts`⁼ə↓k⁼ə↓ niɑʊ↓↑ k⁼aɪ↓↑ts`ʰəŋ↑ p⁼eɪ→tʃʰjoʊ↑.
+./custom_character_voice/Taffy/processed_91.wav|0|k⁼eɪ↓↑ ts`ʰu↓ts`⁼ɑŋ↓↑ i→kʰan↓ tʰa→ meɪ↑joʊ↓↑ lu↓in→ pʰi↓ ɹ`ən↑tʃ⁼ja→ iɑʊ↓ k⁼eɪ↓↑ ts`ʰu↓ts`⁼ɑŋ↓↑ i→ kʰan↓t⁼ɑʊ↓ ma.
+./custom_character_voice/Taffy/processed_92.wav|0|a  tsʰwo↓u↓ lə  ts`⁼ə↓p⁼jɛn→ tʃ⁼joʊ↓ p⁼a↓↑mɑʊ→ iɑʊ↓↑t⁼iɑʊ↓ lə.
+./custom_character_voice/Taffy/processed_93.wav|0|meɪ↑joʊ↓↑ ts`⁼u↓↑ɹ`ən↑ t⁼aɪ↓ ɹ`ɑŋ↓ wo↓↑mən meɪ↑joʊ↓↑ ts⁼ɹ↓joʊ↑ ts`⁼ɹ`↑p⁼wo→ a.
+./custom_character_voice/Taffy/processed_94.wav|0|fan↓↑ts`⁼əŋ↓ tʰa→mən xaɪ↑iɑʊ↓ ts`⁼uɑŋ→ʃjoʊ→ ts⁼aɪ↓ ts`⁼uɑŋ→ʃjoʊ→ ts`⁼uɑŋ→ʃjoʊ→ ma.
+./custom_character_voice/Taffy/processed_95.wav|0|ni↓↑ kʰə↓↑i↓↑ s`wo→ s`ɹ`↓ na↓k⁼ə↓ tʃ⁼iɛ→tʃ⁼in↓ i→ʃjɛn↓ t⁼ə mi↑, ni↓↑ p⁼u↓nəŋ↑ s`wo→k⁼wo↑ i→mi↑, ts`⁼ə↓k⁼ə↓ ts`⁼əŋ→i↓ xən↓↑t⁼a↓, ts`⁼ə↓k⁼ə↓ p⁼u↓ t⁼weɪ↓.
+./custom_character_voice/Taffy/processed_96.wav|0|sweɪ↑ts`⁼ə ni↓↑, ts`ʰwan↑jɛn↑ tʰaɪ↓pʰiŋ↑iɑŋ↑.
+./custom_character_voice/Taffy/processed_97.wav|0|kʰan↓ p⁼u↓liɑʊ↓↑ kʰan↓p⁼u↓tʃʰi↓↑ la→miɑʊ↓.
+./custom_character_voice/Taffy/processed_98.wav|0|ts⁼ɹ↓tʃ⁼i↓↑ t⁼ə s`ən→tʰi↓↑ mjɛn↓ tʃ⁼in→tʰjɛn→ ʃjɛn→ tsʰʊŋ↑tʃ⁼i↓joʊ→ɛ↑mu↓aɪ↓ t⁼əɛ↑sɹ↓ ʃjɛn↓.
+./custom_character_voice/Taffy/processed_99.wav|0|tʃʰiŋ→s`ɑʊ↓njɛn↑ uɑŋ↓↑ts`⁼an↓, tʰə↓p⁼iɛ↑ xweɪ↓ p⁼eɪ↓ tʃ⁼ɥ↓↑p⁼an↓ tʃ⁼iɑʊ↓ts⁼wo↓ weɪ↓ts`ʰəŋ↑njɛn↑ xə→tʃ⁼joʊ↓↑ t⁼ə weɪ↓ts`ʰəŋ↑njɛn↑ p⁼u↓nəŋ↑ xə→tʃ⁼joʊ↓↑.
+./custom_character_voice/Taffy/processed_100.wav|0|t⁼an↓ʃiŋ↓ t⁼oʊ→ p⁼u↓ t⁼a↓↑ ja tʰə↓miŋ↓ ɹ`ən↑tʃ⁼ja→ t⁼an↓ʃiŋ↓ t⁼oʊ→ ts`⁼ɹ`→t⁼ɑʊ↓ tʃ⁼in→tʰjɛn→ p⁼aɪ↑jʊŋ↓↑ tʰu↓ t⁼a↓↑p⁼aɪ↓ əɹ`↓ ts`⁼oʊ→njɛn↑.
+./custom_character_voice/Taffy/processed_101.wav|0|ʃin→njɛn↑ ʃiɑʊ↓↑xwo↓↑ t⁼ə ʃin→njɛn↑ kʰwaɪ↓lə↓ ʃin→njɛn↑ kʰwaɪ↓lə↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_102.wav|0|tʃ⁼joʊ↓s`ɹ`↓ əɹ`↓ i→njɛn↑ t⁼ə s`ɹ`↑xoʊ↓ tʰə↓p⁼iɛ↑ tʰiŋ↓↑tʰiŋ↓↑ ts`⁼ɹ`↑p⁼wo→tʃ⁼jɛn→ tʃ⁼joʊ↓ ts`⁼ə↓ʃiɛ→.
+./custom_character_voice/Taffy/processed_103.wav|0|tʰə↓p⁼iɛ↑ t⁼a↓↑swan↓ k⁼ɑʊ↓↑k⁼ə↓ ma  xaɪ↑s`ɹ`↓ p⁼u↑iɑʊ↓ t⁼ə p⁼a xaɪ↑s`ɹ`↓ p⁼u↑iɑʊ↓ k⁼ɑʊ↓↑ ts`⁼ə↓ts`⁼ʊŋ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_104.wav|0|t⁼oʊ→ meɪ↑joʊ↓↑ i↓tʃʰi↓↑ xwa↓ ma? meɪ↑joʊ↓↑ meɪ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_105.wav|0|s`ən↑mə ɹ`oʊ↓ tʃ⁼joʊ↓ wan↑kʰaɪ→ s`ɑŋ→iɛ↓xwa↓ t⁼ə ts`⁼ɹ`↑p⁼wo→ ʃiɑŋ↓↑ t⁼a↓↑s`ɹ`↑ s`ɹ`↑jɛn↓ s`ɹ`↓ ʃiŋ↓p⁼iŋ↓ ts`⁼əŋ↓miŋ↑ xɑʊ↓↑ p⁼u↓s`uɑŋ↓↑.
+./custom_character_voice/Taffy/processed_106.wav|0|swan↓lə, tʰa→mən ɥ↓tsʰə↓ p⁼u↓liɑʊ↓↑.
+./custom_character_voice/Taffy/processed_107.wav|0|ʃi↓↑xwan→ tʰə↓p⁼iɛ↑ ts`⁼ə↓iɑŋ↓ t⁼ə tʰʊŋ↑iɑŋ↓ na↓ tʃ⁼joʊ↓.
+./custom_character_voice/Taffy/processed_108.wav|0|p⁼iɛ↑nʊŋ↓ t⁼a↓↑ ja→p⁼iɛ↑ nʊŋ↓ t⁼a↓↑ ja→ weɪ↓s`ən↑mə p⁼u↓nəŋ↑ fɑŋ↓ ni↓↑ xweɪ↑.
+./custom_character_voice/Taffy/processed_109.wav|0|tʃ⁼joʊ↓s`ɹ`↓ ʃi↓↑xwan→ tʰəŋ↑p⁼i↓ t⁼a↓t⁼an↓↑ s`wo→ tʃ⁼joʊ↓ xɑʊ↓↑ lə.
+./custom_character_voice/Taffy/processed_110.wav|0|tʰa→mən p⁼eɪ↓p⁼i↓ ts`⁼an↓ t⁼iŋ→s`ɑŋ↓ lə k⁼ɑŋ→k⁼ɑŋ→p⁼i↓ ts`⁼an↓fa→ ʃiɑʊ→ʃi→ s`wo→ tʰa→ ts`⁼əŋ↓ts⁼aɪ↓ kʰan↓ts`⁼u↓ tʰa→mən p⁼u↑iɑʊ↓ ts⁼aɪ↓lu↓ tʃʰɥæn↑s`əŋ→ lə.
+./custom_character_voice/Taffy/processed_111.wav|0|ts`⁼ə↓ i↓t⁼jɛn↓↑ t⁼oʊ→ p⁼u↓lu↓ t⁼ə, ts`ʰɑʊ→k⁼wan↓↑ ni↓↑ p⁼iɛ↑ ts⁼aɪ↓ la→ lə xɑʊ↓↑p⁼u↓xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_112.wav|0|p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓.
+./custom_character_voice/Taffy/processed_113.wav|0|wan↓↑s`ɑŋ↓ tʰa→mən t⁼oʊ→ nəŋ↑ k⁼ɑʊ↓↑ ts`⁼ɹ`↑tʃʰjoʊ↑ t⁼ə tʰa→mən tʃʰjɛn↑ liɑŋ↓↑tʰjɛn→ kʰan↓tʃ⁼jɛn↓ i→k⁼ə↓ s`ɹ`↓pʰin↑ tʃ⁼joʊ↓s`ɹ`↓ wan↓↑s`ɑŋ↓s`ɹ`↑ wan↓p⁼ən↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_114.wav|0|ə↓, k⁼wa↓, k⁼wa↓k⁼ə↓ s`ən↑mə fan↓ na↓, ni↓↑ tʃ⁼in→tʰjɛn→ tʃ⁼in→tʰjɛn→ ts⁼ən↓↑mə t⁼a↓↑ja→ tsʰɑŋ↑pʰi↓↑ niɑʊ↓↑.
+./custom_character_voice/Taffy/processed_115.wav|0|joʊ↓↑k⁼ə↓ na↓ts`⁼ʊŋ↓↑ ts`⁼əŋ↓mjɛn↓ t⁼ə mu↓p⁼iɑʊ→ nəŋ↑ in↓↑t⁼ɑʊ↓↑ ts⁼ɹ↓tʃ⁼i↓↑ nu↓↑li↓ t⁼ə xwa↓ xaɪ↑tʰiŋ↓↑ xɑʊ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_116.wav|0|k⁼a→k⁼a→ k⁼a→  xu→xu→ la xu→xu→ miɑʊ→ kʰwaɪ↓ t⁼ʊŋ→tʰjɛn→ lə  tʰa→mən xaɪ↑ ts`ʰwan→ jʊŋ↓↑ts`⁼uɑŋ→ ma.
+./custom_character_voice/Taffy/processed_117.wav|0|tʰə↓p⁼iɛ↑ s`ən↑mə leɪ↓ʃiŋ↑ t⁼ə t⁼oʊ→ joʊ↓↑ tʰə↓p⁼iɛ↑ joʊ↓↑ t⁼wo→ts`⁼ʊŋ↓ɹ`ən↑k⁼ə↑ a.
+./custom_character_voice/Taffy/processed_118.wav|0|ts`⁼ə↓mə kʰwaɪ↓ tʃ⁼joʊ↓ niɛ→ lə, p⁼u↓kʰwaɪ↓, wo↓↑ t⁼wo→ liɑŋ↓↑k⁼ə↓ t⁼wo→ɥɛ↓ lə.
+./custom_character_voice/Taffy/processed_119.wav|0|fəŋ→kʰuɑŋ↑ ʃin↓ʃi→ s`ɹ`↓ o↑.
+./custom_character_voice/Taffy/processed_120.wav|0|o→ ʃiɑʊ↓↑ʃjɛn→i↓↑ t⁼an→  ts`⁼ə↓ s`ɹ`↓tʃ⁼iɛ↓ s`ɹ`↓ fan↓wan↓↑ tʃ⁼jɛn→ tʰaɪ↓ t⁼wo→ ɑʊ↓man↓ pʰjɛn→tʃ⁼jɛn↓  meɪ↓↑tʃ⁼iŋ↓↑ ʃja↓ s`ɹ`↓ ts`ʰoʊ↓↑ə↓ t⁼ə ʃɥɛ↑ʃi↑ o→ tʃ⁼i↓↑tsʰəŋ↑ s`əŋ→miŋ↓.
+./custom_character_voice/Taffy/processed_121.wav|0|xaɪ↓pʰa↓ p⁼a↓↑ ʃin→li↓↑xwa↓ s`wo→ t⁼ɑʊ↓ t⁼a↓ ts`⁼ɹ`↑p⁼wo→tʃ⁼jɛn→ wo↓↑ tʰə↓miŋ↓ meɪ↑joʊ↓↑ weɪ→ʃjɛn↓↑ t⁼ə ʃiɑŋ↓↑fa↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_122.wav|0|ʃja→ts⁼ɹ p⁼u↑iɑʊ↓ xə→tʰaɪ↓t⁼wo→, ʃiɑʊ↓↑tʃ⁼joʊ↓↑ i↑tʃʰiŋ↑, t⁼a↓tʃ⁼joʊ↓↑ s`ɑŋ↓s`əŋ→miɑʊ↓.
+./custom_character_voice/Taffy/processed_124.wav|0|p⁼u↓ xɑʊ↓↑p⁼u↓xɑʊ↓↑ tʰa→ p⁼u↑s`ɹ`↓ ʃiɑʊ↓↑nan↑niɑŋ↑ p⁼jɛn↓ t⁼ə ma tʰa→ p⁼iŋ↓ p⁼u↑s`ɹ`↓ tʰa→ p⁼iŋ↓ p⁼u↑s`ɹ`↓.
+./custom_character_voice/Taffy/processed_125.wav|0|ʃiɑʊ↓↑ ə↓ ɥ↑ ts`⁼ɹ`→k⁼ə→aɪ↓-ən→-t⁼i↓-aɪ↓-i↓-ɛ↑o↓-ɛ↑mu↓-i↓-i↓-ɛ→kʰu↓sɹ↓-pʰi→-oʊ→.
+./custom_character_voice/Taffy/processed_126.wav|0|tʃ⁼in→tʰjɛn→ ts`ʰɹ`→fan↓ ma→ʃiɑŋ↓ nə tʃ⁼joʊ↓s`ɹ`↓ joʊ↓↑ i→ s`wo→ i→ʃiɑʊ↓↑ t⁼ʊŋ→ʃi→ tʃʰiɛ↓ts`ʰəŋ↑ san→fən↓ p⁼i↓↑li↓ k⁼əŋ↓xɑʊ↓↑ i↓t⁼jɛn↓↑ ts`ʰɹ`→ ts`⁼ə↓ʃiɛ→.
+./custom_character_voice/Taffy/processed_127.wav|0|tʰə↓p⁼iɛ↑ tʃʰiŋ→ts`ʰwan↑kʰwan↓↑, tʰə↓p⁼iɛ↑ p⁼u↓tʃʰiŋ→ts`ʰwan↑, tʰə↓p⁼iɛ↑ s`ɑʊ→ɹ`ə↓ s`u→weɪ↓↑.
+./custom_character_voice/Taffy/processed_128.wav|0|tʰa→mən iɛ↓↑ tʃ⁼joʊ↓ ʃɥɛ↑ʃi↑ lə, tʰa→mən iɛ↓↑ meɪ↑ joʊ↓↑ na↓mə xɑʊ↓↑ la xeɪ→xeɪ→ xeɪ→xeɪ→.
+./custom_character_voice/Taffy/processed_129.wav|0|weɪ↓ s`ən↑mə p⁼u↓fɑŋ↓ in→weɪ↓ tʰa→ xweɪ↓ k⁼an↓↑tʃ⁼ɥɛ↑ ɹ`ɹ`↓ɥ↓↑ k⁼ə→tsʰɹ↑ k⁼əŋ↓ ja→ i→t⁼jɛn↓↑ ts`⁼ʊŋ→wən↑ p⁼u↑s`ɹ`↓ xən↓↑ ja→.
+./custom_character_voice/Taffy/processed_130.wav|0|a, ta↑be↓ɾeba da↑idʑo↓obɯdajo, o↓dʑii ma↓a.
+./custom_character_voice/Taffy/processed_131.wav|0|ɸɯ↓ɯ… ɸɯ↓ɯ…
+./custom_character_voice/Taffy/processed_132.wav|0|k⁼ɑŋ→k⁼ɑŋ→ ʃiɛ↓↑ wan↑ s`ɹ`↑jɛn↓p⁼ɑʊ↓k⁼ɑʊ↓ xoʊ↓tʰjɛn→ xaɪ↑joʊ↓↑ kʰɑʊ↓↑s`ɹ`↓ xɑʊ↓↑ leɪ↓ tʰə↓p⁼iɛ↑ k⁼eɪ↓↑ ɹ`ən↑ ts`ʰɹ`→ i→kʰoʊ↓↑ p⁼u↓↑ts`ʰʊŋ→ i↓t⁼jɛn↓↑ nəŋ↑liɑŋ↓.
+./custom_character_voice/Taffy/processed_133.wav|0|ʃi↓↑xwan→ kʰan↓ i→ʃiɛ→  wan↑joʊ↑ʃi↓ t⁼ə pʰin↑t⁼ɑʊ↓.
+./custom_character_voice/Taffy/processed_134.wav|0|tʃ⁼in→tʰjɛn→ joʊ↓↑tʰu↑ tʃʰjɛn→ts`⁼əŋ↓ t⁼əɛ↑sɹ↓tʃ⁼i↓ k⁼ɑŋ→xɑʊ↓↑ meɪ↑ nɥɛ↓tʰoʊ↑ s`ɹ`↓p⁼u↑s`ɹ`↓ ɥɛ↓laɪ↑ ɥɛ↓ t⁼a↓ tʃ⁼joʊ↓ ʃi↓↑xwan→ t⁼a↓tʰoʊ↑.
+./custom_character_voice/Taffy/processed_135.wav|0|ts⁼ʊŋ↓↑tʃ⁼iɛ↑swan↓ ni↓↑tʰi↓oʊ→ɛ↑mu↓ɛ↑mu↓waɪ↓ xɑʊ↓↑ʃjɛn↓↑ xɑʊ↓↑ pʰa↓ p⁼eɪ↓ pʰɑʊ→tʃʰi↓tʰi↓oʊ→ɛ↑mu↓ɛ↑mu↓waɪ↓ i↓ts`⁼ɹ`↑ ts⁼aɪ↓ nətʰi↓oʊ→ɛ↑mu↓ɛ↑mu↓waɪ↓ ts⁼aɪ↓ nə ts⁼aɪ↓ nə.
+./custom_character_voice/Taffy/processed_136.wav|0|iɑʊ↓ iɑʊ↓ jʊŋ↓ tʃ⁼jɛn↓ iɑʊ↓ tʃ⁼jɛn↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_137.wav|0|t⁼a↓tʰoʊ↑ nan↑mən, t⁼a↓tʰoʊ↑ ʃiɑʊ↓↑ma→niɑŋ↑, t⁼a↓tʰoʊ↑ tsʰʊŋ→miŋ↑, ts`⁼u↓ni↓↑kʰwaɪ↓lə↓, kʰwaɪ↓lə↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_138.wav|0|p⁼an→tʃ⁼ja→ i↓↑xoʊ↓ts⁼aɪ↓ nʊŋ↓ ma? tʰa→mən ts⁼aɪ↓ sɹ→kʰɑʊ↓↑ tʰa→mən ts⁼aɪ↓ sɹ→kʰɑʊ↓↑.
+./custom_character_voice/Taffy/processed_139.wav|0|ən↑, xaɪ↑p⁼u↓sʊŋ↓ sʊŋ↓ ʃiɛ↓ʃiɛ↓ t⁼a↓↑ xu↑t⁼iɛ↑, o↑, p⁼u↓xɑʊ↓↑, meɪ↑ ts`ʰɹ`→ fan↓na↓.
+./custom_character_voice/Taffy/processed_140.wav|0|joʊ↓↑t⁼jɛn↓↑ kʰwən↓lə joʊ↓↑t⁼jɛn↓↑leɪ↓ lə.
+./custom_character_voice/Taffy/processed_141.wav|0|in→weɪ↓ tʰa→mən ʃjɛn↓ts⁼aɪ↓ s`ɹ`↑kʰuɑŋ↓ t⁼oʊ→ tʃ⁼ɥɛ↑t⁼ə p⁼u↑iɑʊ↓ tʰaɪ↓ ts`⁼ɑŋ↓↑ p⁼i↓↑tʃ⁼iɑʊ↓ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_142.wav|0|p⁼iɛ↑uɑŋ↓lə t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓, p⁼iŋ↓tʃʰiɛ↓↑ an↓ts⁼an↓, tsʰaɪ↑nəŋ↑ s`oʊ→t⁼ɑʊ↓ ts⁼weɪ↓ʃin→ʃiɑʊ→ʃi→ o↑!
+./custom_character_voice/Taffy/processed_143.wav|0|tʰə↓p⁼iɛ↑ xɑʊ↓↑ ma↓, xɑʊ↓↑ ma↓ s`ɹ`↓in→weɪ↓ ts`⁼ɹ`→tʃʰjɛn↑ t⁼ə k⁼ʊŋ→ts`ʰɑŋ↓↑ tʰə↓p⁼iɛ↑ tʰu→ɹ`an↑ ʃiɑŋ↓↑t⁼ɑʊ↓ lə, tʃ⁼joʊ↓ ts`⁼ɹ`→tʃʰjɛn↑ t⁼ə k⁼ʊŋ→ts`ʰɑŋ↓↑.
+./custom_character_voice/Taffy/processed_144.wav|0|wo↓↑ ʃi↓↑xwan→ na↓ts`⁼ʊŋ↓↑ ni↓↑ i↓ts`⁼ɹ`↑ tʃ⁼ɥɛ↑t⁼ə tʰə↓p⁼iɛ↑ ɥæn↓↑tʃ⁼in↓ tʰə↓p⁼iɛ↑ k⁼an↓↑tʃ⁼ɥɛ↑ tʰə↓p⁼iɛ↑.
+./custom_character_voice/Taffy/processed_145.wav|0|wo↓↑ ʃjɛn→ ʃiɑŋ↓ fan↓↑ fɑŋ→ʃiɑŋ↓ t⁼ə iɛ↑ an↓ tʰʊŋ↑ts`⁼ən→ t⁼a↓miŋ↑ t⁼ə tʃ⁼jɛn↓pʰan↑ ʃiɛ↓ʃiɛ↓.
+./custom_character_voice/Taffy/processed_146.wav|0|p⁼u↓... p⁼u↓wan↑ a p⁼u↓ wan↑ a p⁼jɛn↓ts`ʰəŋ↑ ts⁼ɹ↓p⁼i↓ʃjɛn↓ t⁼ə s`ɑʊ↓njɛn↑ a.
+./custom_character_voice/Taffy/processed_147.wav|0|ən↑ ts`⁼ən→t⁼ə nəŋ↑ i↓tʃʰi↓↑ kʰwa↓njɛn↑ ma? nəŋ↑ ma?
+./custom_character_voice/Taffy/processed_148.wav|0|ʃjɛn↓ts⁼aɪ↓ t⁼ə ts`ʰu→ts`ʰɑŋ↓↑li↓ tʃ⁼joʊ↓ xən↓↑ xɑʊ↓↑ lə ən↑.
+./custom_character_voice/Taffy/processed_149.wav|0|ʃja↓tʃʰi→ wo↓↑mən k⁼ɑŋ→k⁼ɑŋ→ k⁼ʊŋ→lɥɛ↓ t⁼ə t⁼a↓ s`u→kʰu↓ tʰə↓p⁼iɛ↑ s`ɹ`↓ tʃ⁼in→tʰjɛn→ k⁼ɑŋ→k⁼ɑŋ→ k⁼ʊŋ→lɥɛ↓ t⁼ə t⁼a↓ s`u→kʰu↓.
+./custom_character_voice/Taffy/processed_150.wav|0|tʃ⁼iɛ↓↑k⁼u↓ lə s`ɹ`↓ xə↑ts`⁼ɹ`→njɛn↑ t⁼wo→njɛn↑ tsʰaɪ↑ nʊŋ↓ t⁼ə↑ ts`ʰa↓.
+./custom_character_voice/Taffy/processed_151.wav|0|ʃin→ʃjɛn→, xə↑p⁼an↓ kʰan↓ts`⁼ə neɪ↓ʃin→ ʃin→ ni↓↑ t⁼ə pʰəŋ↑joʊ↓↑ ʃiɑʊ↓↑k⁼uɑŋ→ ts⁼ʊŋ↓↑s`ɹ`↓ tʰiɑʊ↑kʰan↓↑ ts`ʰu↑tsʰɑŋ↑ tʃ⁼in→kʰu↓ xɑʊ↓ u↓↑p⁼aɪ↓↑ əɹ`↓s`ɹ`↑i→.
+./custom_character_voice/Taffy/processed_152.wav|0|tʃʰiŋ→wa→ tʰaɪ↓xwaɪ↓ lə.
+./custom_character_voice/Taffy/processed_153.wav|0|tʰa→mən xweɪ↓ ts`⁼ɑʊ↓↑ tʰa→mən t⁼ə xwa↓, ts`⁼ɑʊ↓↑ tʰa→mən t⁼ə xwa↓fəŋ↓ nə.
+./custom_character_voice/Taffy/processed_154.wav|0|ba↓ibai, mja↓N. ba↓ibai, mja↓N. mja↓N! mja↓N! mja↓N!
+./custom_character_voice/Taffy/processed_155.wav|0|ts`ʰu→ na↓↑tʃ⁼jɛn→ tʰə↓k⁼ʊŋ→ ts`ʰu→ na↓↑tʃ⁼jɛn→ tʰə↓k⁼ʊŋ→ nə s`ən↑mə s`ɹ`↑xoʊ↓ wan↑ tʃ⁼iŋ↓tʃ⁼i↓joʊ↑ʃi↓ p⁼u↓xweɪ↓ p⁼u↓xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_156.wav|0|joʊ↑ʃi↓ s`ɹ`↑xwan↓ joʊ↓↑ tʃ⁼joʊ↓ t⁼ə mjɛn↓ ʃjɛn↓ts⁼aɪ↓ lɑʊ↓↑ts⁼ɹ tʃ⁼iɛ↑mu↓ li↓↑ s`wo→.
+./custom_character_voice/Taffy/processed_157.wav|0|p⁼u↓ts`⁼ɹ`→ p⁼u↓tʃ⁼ɥɛ↑ kʰan↓ lə joʊ↓↑ sɹ↓p⁼aɪ↓↑ i→ s`ɹ`↑u↓↑tʰjɛn→, sweɪ→ɹ`an↑ ts`⁼ə↓ p⁼an↓njɛn↑ xən↓↑ mɑŋ↑, t⁼an↓s`ɹ`↓ xweɪ↓ i↓ts`⁼ɹ`↑ kʰan↓ ʃja↓tʃʰɥ↓.
+./custom_character_voice/Taffy/processed_158.wav|0|wo↓↑ʃjɛn↓ ts⁼aɪ↓ meɪ↑ joʊ↓↑ feɪ↓xwo↑liɑŋ↓ lə.
+./custom_character_voice/Taffy/processed_159.wav|0|ən↑, ɹ`ən↑ xən↓↑t⁼wo→ ts`⁼ə↓mə ɹ`ən↓ts`⁼ɹ`→, tʰə↓p⁼iɛ↑ nəŋ↑ ʃi↓↑xwan→ ɹ`ə↓tʃʰiŋ↑iɑŋ↑i↓ t⁼ə nɥ↓↑xaɪ↑ts⁼, na↓ tʃʰɥɛ↓s`ɹ`↑.
+./custom_character_voice/Taffy/processed_160.wav|0|wo↓↑ p⁼u↓fa→ lə, p⁼u↓fa→ lə.
+./custom_character_voice/Taffy/processed_161.wav|0|ən↑  kʰə↓↑  kʰə↓↑i↓↑ miɑʊ→  kʰə↓↑i↓↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_162.wav|0|wo↓↑ ʃja↓p⁼wo→ lə, p⁼a↓↑ ts⁼ɹ↓tʃ⁼i↓↑ t⁼ə tʰu↑fa→ weɪ→p⁼wo↑mjɛn↓, p⁼iɛ↑ɹ`ən↑ tʃ⁼jɛn↓ p⁼u↓t⁼ə↑ ts`⁼ə↓ʃiɛ→.
+./custom_character_voice/Taffy/processed_163.wav|0|sɯ↓ma, sɯ↓ma, sɯ↓ma, a.
+./custom_character_voice/Taffy/processed_164.wav|0|ɥn↓tʃʰi↓ xɑʊ↓↑ ma? ən↑.
+./custom_character_voice/Taffy/processed_165.wav|0|tʰa→ miŋ↑miŋ↑ kʰan↓ts`⁼ə p⁼u↓ ts`⁼ɑŋ↓↑ tʃ⁼iŋ→jɛn↓ tʰa→ miŋ↑miŋ↑ kʰan↓ts`⁼ə.
+./custom_character_voice/Taffy/processed_166.wav|0|i↓p⁼an→ p⁼u↓ iŋ→k⁼aɪ→ s`ɹ`↓ tʰə↓p⁼iɛ↑ t⁼wo→ts`⁼ʊŋ↓↑ tʃ⁼ɥɛ↑sə↓ t⁼ɑŋ→ ts`ʰu→ts`ʰɑŋ↓↑ tʃ⁼in→ t⁼ə tsʰə↓xwa↓ ma.
+./custom_character_voice/Taffy/processed_167.wav|0|na↓na↓, na↓na↓ ma↓↑ s`ɑŋ↓ tʃ⁼ɥɛ↑ts`⁼an↓ lə, tʰa→mən i↓↑tʃ⁼iŋ→ t⁼a↓↑t⁼ɑʊ↓ t⁼i↓tʃ⁼joʊ↓↑ts`⁼ɑŋ→ lə ma.
+./custom_character_voice/Taffy/processed_168.wav|0|ə↓, ə↓, ə↓, ni↓↑mən tʃ⁼ɥɛ↑t⁼ə s`ən↑məiɑŋ↓ t⁼ə xɑʊ↓↑ a.
+./custom_character_voice/Taffy/processed_169.wav|0|tʃ⁼i↓t⁼jɛn↓ ts`ʰʊŋ↑ʃjɛn↓ tʃ⁼jɛn↓i↓.
+./custom_character_voice/Taffy/processed_170.wav|0|kʰən↓↑t⁼iŋ↓ xaɪ↑s`ɹ`↓ p⁼u↓nəŋ↑ njoʊ↓↑.
+./custom_character_voice/Taffy/processed_171.wav|0|tʃ⁼in→tʰjɛn→ s`ɑŋ↓ tʃ⁼iɛ↑mu↓ t⁼ə s`ɹ`↓ tʃ⁼joʊ↓ ts⁼aɪ↓ ts`⁼ə↓li↓↑, ʃiɛ↓ʃiɛ↓ni↓↑mən t⁼ə iɛ↑iɛ↑, ts⁼an↑mən ʃja↓k⁼ə↓ tʃ⁼iɛ↑mu↓ p⁼a!
+./custom_character_voice/Taffy/processed_172.wav|0|p⁼u↓nəŋ↑ s`wo→ p⁼ɑʊ↓ t⁼ə p⁼u↓nəŋ↑ s`wo→ p⁼ɑʊ↓ t⁼ə p⁼u↓ p⁼u↓nəŋ↑ p⁼u↓nəŋ↑ p⁼u↓nəŋ↑.
+./custom_character_voice/Taffy/processed_173.wav|0|wo↓↑ s`ɹ`↓ k⁼ə↓ xɑʊ↓↑ ts`ʰu↑tsʰɑʊ↓↑ tʃ⁼i→ ma? a! ts⁼ən↓↑mə xə→tʃ⁼joʊ↓↑ xweɪ↓ ts`⁼ə↓mə li↓xaɪ↓, p⁼u↓xɑʊ↓↑ a!
+./custom_character_voice/Taffy/processed_174.wav|0|tʰa→mən tʃ⁼in→njɛn↑ s`ɹ`↓ p⁼in→p⁼in→ p⁼in→p⁼in→ t⁼ə s`ɹ`↑sɹ↓ ts`⁼oʊ→njɛn↑ s`əŋ→ɹ`ɹ`↓ tʰa→mən kʰə↓↑i↓↑ k⁼eɪ↓↑ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→ p⁼in→p⁼in→.
+./custom_character_voice/Taffy/processed_175.wav|0|tʰa→mən ʃjɛn↓ts⁼aɪ↓ t⁼ə mu↓p⁼iɑʊ→ s`ɹ`↓ s`ən↑mə, ə↓, ts`⁼ə↓liɑŋ↓↑tʰjɛn→ t⁼ə xwa↓ ʃi→uɑŋ↓.
+./custom_character_voice/Taffy/processed_176.wav|0|xən↓↑t⁼wo→ t⁼ʊŋ↓ts⁼wo↓  iɛ↓↑ meɪ↑ ts⁼wo↓ xən↓↑t⁼wo→ p⁼iɑʊ↓↑tʃʰiŋ↑ in→weɪ↓ ts`⁼ɹ`→tʃʰjɛn↑ i→fa↓ p⁼a→s`əŋ→.
+./custom_character_voice/Taffy/processed_177.wav|0|iɑʊ↓ ts`⁼wən↓↑p⁼eɪ↓ tʃ⁼iɛ↑mu↓ t⁼əxwa↓ ʃɥ→iɑʊ↓ xən↓↑tʃ⁼joʊ↓↑ o↑.
+./custom_character_voice/Taffy/processed_178.wav|0|tʃʰjɛn↑mjɛn↓ t⁼ə k⁼uɑŋ↓↑k⁼ɑʊ↓ s`ɹ`↑tʃ⁼jɛn→ kʰə↓↑i↓↑ s`weɪ↓t⁼ɑʊ↓ wan↓↑i→t⁼jɛn↓↑.
+./custom_character_voice/Taffy/processed_179.wav|0|ha↓Q, ha↓Q, ha↓Q, ha↓Q, ha↓Q ta↑i↓aʃiŋga a↓idemɯja.
+./custom_character_voice/Taffy/processed_180.wav|0|əɹ`↓s`ɹ`↑əɹ`↓ s`ɹ`↓ i↑ɥɛ↓t⁼i↓↑ t⁼ə s`ɹ`↓ ma? p⁼u↓tʃ⁼i↓ t⁼ə↑ lə, tʰə↓p⁼iɛ↑ uɑŋ↓tʃ⁼i↓ lə.
+./custom_character_voice/Taffy/processed_181.wav|0|ts`⁼ə↓ tʃ⁼in→ɥ↑ i↓ts`⁼ɹ`↑ p⁼u↓ ts`ʰu→ʃjɛn↓, xɑʊ↓↑kʰweɪ→ a ʃiɑŋ↓↑ k⁼eɪ↓↑ ts⁼u↓↑ts`⁼ɑŋ↓↑ t⁼wo→ kʰan↓kʰan↓ tʃ⁼in→ɥ↑.
+./custom_character_voice/Taffy/processed_182.wav|0|ən↑, s`ən↑mə ja, tʰə↓p⁼iɛ↑ k⁼eɪ↓↑ ni↓↑ ts`ʰa↑ i→ʃja↓.
+./custom_character_voice/Taffy/processed_183.wav|0|ts⁼weɪ↓ts⁼ɑʊ↓↑ t⁼ə tʃʰiɛ↑ts⁼ɹ joʊ↓ p⁼jɛn↓t⁼ə↑ xən↓↑ iɑʊ↑ɥæn↓↑ lə tʰa→ p⁼iŋ↓ p⁼u↑xweɪ↓ xən↓↑ɥæn↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_184.wav|0|xaɪ↑joʊ↓↑ niɑʊ↓niɑʊ↓in→, wo↓↑niɑʊ↓niɑʊ↓in→ s`ɹ`↓ k⁼ə↓ i↓waɪ↓.
+./custom_character_voice/Taffy/processed_185.wav|0|k⁼an↓↑tʃ⁼ɥɛ↑ joʊ↓↑ fəŋ→ʃjɛn↓↑ t⁼əxwa↓ tʃ⁼joʊ↓ p⁼u↓p⁼wo→ lə iɑʊ↓p⁼wo→ iɛ↓↑ p⁼wo→  ts⁼ən↓↑mə tʃ⁼iɑŋ↓↑ na↓ʃiɛ→ fɑŋ→mjɛn↓.
+./custom_character_voice/Taffy/processed_186.wav|0|tʰə↓p⁼iɛ↑ kʰan↓t⁼wo→ lə xaɪ↑s`ɹ`↓ kʰə↓↑aɪ↓ t⁼wo→i↓t⁼jɛn↓↑ ts`⁼ən→t⁼ə ma ʃiɛ↓ʃiɛ↓ mi→ ja.
+./custom_character_voice/Taffy/processed_187.wav|0|ʃi→iɑŋ↓↑ ts`⁼ɹ`↓fu↑ ʃi→iɑŋ↓↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_188.wav|0|p⁼ɑʊ↓↑p⁼ɑʊ↓↑ kʰan↓kʰan↓ tʃʰɥæn↑s`ən→, p⁼u↓k⁼an↓↑ lə.
+./custom_character_voice/Taffy/processed_189.wav|0|na↓k⁼ə↓ s`ən↑mə, i→fu↑ ts⁼wo↓xɑʊ↓↑ lə i→fu↑ ts⁼wo↓xɑʊ↓↑ lə, la→ ts`ʰu→laɪ↑ wan↑wan↑.
+./custom_character_voice/Taffy/processed_190.wav|0|i↑? xɑʊ↓↑ tʃʰi↑k⁼waɪ↓, tʰa→ mən i↓ts`⁼ɹ`↑ i↓↑weɪ↓ tʃ⁼in→tʰjɛn→ s`ɹ`↓ ts`⁼oʊ→u↓↑ a.
+./custom_character_voice/Taffy/processed_191.wav|0|xɑʊ↓↑ aɪ↓ ts`ʰu→ts`ʰɑŋ↓↑ tʃ⁼i→ o↑ tʃ⁼in→tʰjɛn→ mwo→ t⁼ɑʊ↓ tʃ⁼in→tʰjɛn→ meɪ↑ʃiɑŋ↓↑ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_192.wav|0|ni↓↑ ʃi↓↑xwan→ tʰə↓p⁼i↓ əɹ`↓ i→njɛn↑ kʰaɪ→p⁼ɑʊ→ s`ən↑ t⁼ə k⁼ə→k⁼ə→ t⁼ə? əɹ`↓ i→njɛn↑ t⁼ə tʰə↓p⁼i↓ s`ɹ`↓ s`ən↑məiɑŋ↓ t⁼ə?
+./custom_character_voice/Taffy/processed_193.wav|0|da↑me da↑me.
+./custom_character_voice/Taffy/processed_194.wav|0|tʰa→mən s`ɹ`↓ əɹ`↓tʃʰjɛn→ɹ`ən↑, tʰa→mən u↓↑s`ɹ`↑ sweɪ↓ xaɪ↑xweɪ↓ ts`⁼ɹ`↑p⁼wo→ ma, tʰa→mən i↓↑tʃ⁼iŋ→ i↓p⁼aɪ↓↑u↓↑s`ɹ`↑u↓↑ sweɪ↓ lə.
+./custom_character_voice/Taffy/processed_195.wav|0|ʃiɛ↓ʃiɛ↓ i→miŋ↑ k⁼ə→k⁼ə→ t⁼əɛ↑sɹ↓ ʃjɛn↓, tʃ⁼in→tʰjɛn→ iɛ↓↑ xən↓↑ ʃi↓↑xwan→ tʰə↓miŋ↓, ʃiɑŋ↓↑iɑʊ↓ tʰə↓miŋ↓ tʰiŋ→tʰiŋ→.
+./custom_character_voice/Taffy/processed_196.wav|0|xəŋ→ k⁼ən→ s`u→s`u→ pʰin→ lə.
+./custom_character_voice/Taffy/processed_197.wav|0|ɯ↑ɯ↓N?
+./custom_character_voice/Taffy/processed_198.wav|0|ma↓↑ s`ɑŋ↓ joʊ↓ iɑʊ↓ s`əŋ↓t⁼an↓tʃ⁼iɛ↑ lə joʊ↓↑ t⁼ə s`əŋ↓t⁼an↓tʃ⁼iɛ↑ kʰən↓↑t⁼iŋ↓ s`ɹ`↓ p⁼u↓ k⁼wo↓iɑŋ↑tʃ⁼iɛ↑.
+./custom_character_voice/Taffy/processed_199.wav|0|ʃiŋ→tʃʰi→tʰjɛn→ xeɪ→iɛ↓ p⁼aɪ↑liŋ↑ t⁼ə ɹ`ɹ`↓ts⁼ɹ tʃʰi→, tʰə↓p⁼iɛ↑ əɹ`↓ t⁼wo→njɛn↑ kʰwaɪ↓lə↓ miɑʊ→ kʰə↓↑i↓↑ ts`⁼u↓ ni↓↑ miŋ↑tʰjɛn→ kʰɑʊ↓↑s`ɹ`↓ s`wən↓li↓ ma? joʊ↓ s`ɹ`↓ kʰɑʊ↓↑s`ɹ`↓ ts`ʰu→t⁼ɑʊ↓tʃʰi→, kʰɑʊ↓↑s`ɹ`↓ ts`ʰu→t⁼ɑʊ↓tʃʰi→ tʃ⁼ja→joʊ↑ miɑʊ→!
+./custom_character_voice/Taffy/processed_200.wav|0|p⁼i↓↑tʃ⁼i→ ja↓↑mɑʊ→ s`ɹ`↓ ts⁼ən↓↑mə p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ t⁼ə a? ʃja↓ ɹ`ɹ`↓tʃ⁼i↓ məŋ↓xwa→xwo↓↑, s`ɹ`↓ p⁼i↓↑tʃ⁼i→ ja↓↑mɑʊ→ miɑʊ→.
+./custom_character_voice/Taffy/processed_201.wav|0|nəŋ↑ p⁼a↓↑ wo↓↑ fɑŋ↓s`əŋ→ lə ma? p⁼u↓nəŋ↑ fɑŋ↓s`əŋ→, ni↓↑ iɑʊ↓ jʊŋ↓↑ɥæn↓↑ t⁼aɪ↓ ts⁼aɪ↓ tʰa→mən t⁼ə s`oʊ↓↑s`ɑŋ↓ joʊ↑laɪ↑joʊ↑tʃʰɥ↓, ni↓↑ s`ɹ`↓ tʰɑʊ↑p⁼u↓k⁼wo↓ tʰa→mən t⁼ə s`oʊ↓↑ts`⁼ɑŋ↓↑ʃin→ na↓məiɑŋ↓.
+./custom_character_voice/Taffy/processed_202.wav|0|ən↑ tʰjɛn→tʰjɛn→ tʃʰjɛn→ k⁼ɑŋ→t⁼ɑʊ↓tʰi↓oʊ→ɛ↑mu↓ t⁼əɛ↑sɹ↓ tʃʰi→.
+./custom_character_voice/Taffy/processed_203.wav|0|ni↓↑mən tʃ⁼ɥɛ↑t⁼ə s`ən↑məiɑŋ↓ t⁼ə xɑʊ↓↑? tʰoʊ↑s`ɑŋ↓ iɑʊ↓ p⁼u↑iɑʊ↓ t⁼aɪ↓ t⁼ʊŋ→ʃi→?
+./custom_character_voice/Taffy/processed_204.wav|0|weɪ↓s`ən↑mə tʰə↓p⁼iɛ↑ xweɪ↓ tʃ⁼ɥɛ↑t⁼ə tʃ⁼in→tʰjɛn→ s`ɹ`↓ ts`⁼ʊŋ→u↓↑ a? i↑?
+./custom_character_voice/Taffy/processed_205.wav|0|tʰu↓↑t⁼oʊ↓ ni↓↑ ts⁼ən↓↑mə t⁼ɑŋ→jʊŋ↓ ts`ʰɹ`→ la↓ t⁼ə s`ɹ`↓p⁼u↑s`ɹ`↓ joʊ↓ iɑʊ↓ pʰən→xwo↓↑ lə.
+./custom_character_voice/Taffy/processed_206.wav|0|t⁼ɑŋ→njɛn↑ tʰa→mən ts`⁼ən→t⁼ə xaɪ↑ts⁼aɪ↓ ts`ʰɑŋ↓↑mjɛn↓ ts`⁼ə↓k⁼ə↓ t⁼weɪ↓ t⁼weɪ↓ t⁼weɪ↓  ts`⁼ən→t⁼ə ts⁼aɪ↓ t⁼jɛn↓ts⁼ts`ʰɑŋ↓↑ ts`⁼ə↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_207.wav|0|tʰə↓p⁼iɛ↑ p⁼u↓ ʃi↓↑xwan→ tʰoʊ↑nɑʊ↓↑ ts`⁼ɑŋ↓↑tʃ⁼iɑʊ↓↑, ɹ`an↑xoʊ↓ tʃ⁼joʊ↓ fɑŋ↓tʃʰi↓ lə, mi→ a t⁼a↓ mu↓tʃ⁼i→ ts`ʰu→wan↓tʰjɛn→ la, wo↓↑ s`ɹ`↓ ts`ʰu→wan↓tʰjɛn→ la tʰə↓p⁼iɛ↑ s`ɹ`↓ mu↓tʃ⁼i→ meɪ↑joʊ↓↑ t⁼a↓mu↓.
+./custom_character_voice/Taffy/processed_208.wav|0|tʃ⁼joʊ↓ tʃ⁼iɑʊ↓ ʃiɑʊ↓↑p⁼a↓ miɑʊ→ xeɪ→xeɪ→ ʃiɑʊ↓↑ feɪ→miŋ↑ p⁼u↓t⁼wan↓ tʰɑŋ↓↑ ʃja↓.
+./custom_character_voice/Taffy/processed_209.wav|0|joʊ↓↑ xwo↑li↓ t⁼ə mi↓↑ tʃ⁼joʊ↓  tʃ⁼joʊ↓s`ɹ`↓ in→weɪ↓.
+./custom_character_voice/Taffy/processed_210.wav|0|ʃiɑʊ↓↑mu↓ts`ʰu↓ ts⁼ən↓↑mə nɑʊ↓↑ts⁼ɹ kʰwaɪ↓iɑʊ↓ wan↑ lə p⁼jɛn↓ts`ʰəŋ↑ mi↑.
+./custom_character_voice/Taffy/processed_211.wav|0|tʃ⁼jɛn↓kʰɑŋ→ tʃʰi↓ʃi→, o↑, p⁼u↓ xɑʊ↓↑p⁼u↓xɑʊ↓↑ p⁼u↓xɑʊ↓↑, tʃ⁼joʊ↓ ts`⁼ən→t⁼ə tʰaɪ↓k⁼wo↓ tʃ⁼i→liɛ↓ la.
+./custom_character_voice/Taffy/processed_212.wav|0|tʃ⁼in→tʰjɛn→ xən↓↑t⁼wo→ jɛn↓↑pʰi↑ neɪ↓t⁼i↓, tʰa→mən iɑʊ↓ ts`⁼əŋ↓tʃ⁼iŋ→ kʰwaɪ↓lə↓ mjɛn↓, kʰwaɪ↓lə↓ mjɛn↓, s`ən↑mə s`ɹ`↑xoʊ↓ xwan↓ ʃin→ tʰoʊ↑ʃiɑŋ↓?
+./custom_character_voice/Taffy/processed_213.wav|0|kʰan↓kʰan↓ neɪ↓kʰu↓ kʰə↓↑i↓↑ ma? xən↓↑ weɪ→ʃjɛn↓↑ na↓.
+./custom_character_voice/Taffy/processed_214.wav|0|k⁼ə↓tʃ⁼ja→ t⁼ə fən→weɪ↑ s`ən↑mə tʃ⁼iɛ↑ts⁼oʊ↓ ni↓↑ t⁼oʊ→ iɑʊ↓ tsʰoʊ↓ ɹ`ə↓k⁼wo↓.
+./custom_character_voice/Taffy/processed_215.wav|0|meɪ↑joʊ↓↑ tʰu↓↑ ts`⁼a↓tʃ⁼i→ iɛ↑ʃin→ i→fu↑ ʃja↓mjɛn↓ ts`ʰwan→ s`ən↑mə.
+./custom_character_voice/Taffy/processed_216.wav|0|ɯ↓N, da↓idʑa, da↓idʑa, da↓idʑa.
+./custom_character_voice/Taffy/processed_217.wav|0|t⁼ɑŋ→s`ɹ`↑ p⁼eɪ↓ iŋ↓↑ t⁼ə s`ɹ`↑xoʊ↓, ts`⁼ə↓p⁼wo→ feɪ→ts`ʰɑŋ↑ k⁼wan→tʃ⁼jɛn↓.
+./custom_character_voice/Taffy/processed_218.wav|0|kʰwaɪ↓t⁼ɑʊ↓ p⁼aɪ↓↑wan↓ t⁼ʊŋ↓tʃ⁼iŋ↓ s`ɹ`↑ fən↓↑sɹ→ s`u↓ ts`⁼ɹ`↑p⁼wo→ ma?
+./custom_character_voice/Taffy/processed_219.wav|0|k⁼ʊŋ→kʰaɪ→ miɑʊ→, s`ɹ`↓s`ɹ`↑ s`ɑŋ↓ p⁼u↓ t⁼weɪ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_220.wav|0|s`u→ɹ`u↓ ts⁼aɪ↓ kʰan↓ t⁼an↓t⁼an↓ mjɛn↓, mu↓p⁼u↓ts`⁼wan↓↑tʃ⁼iŋ→.
+./custom_character_voice/Taffy/processed_221.wav|0|xa→xa→xa→ s`ən↑mə s`ɹ`↑xoʊ↓.
+./custom_character_voice/Taffy/processed_222.wav|0|meɪ↓↑tʰjɛn→ i→ t⁼jɛn↓ts`ʰɹ`↑ ni↓↑ s`u→s`u→ tʃ⁼ɥ→ɹ`an↑ xweɪ↓ sʊŋ↓ tʃʰjɛn↑.
+./custom_character_voice/Taffy/processed_223.wav|0|a  tʰa→ tʰa→mən p⁼u↑s`ɹ`↓ xən↓↑xweɪ↓.
+./custom_character_voice/Taffy/processed_224.wav|0|p⁼u↓k⁼wo↓ iɑŋ↑tʃ⁼iɛ↓↑ iɑʊ↓ k⁼wo↓ iɑʊ↓ k⁼wo↓ ʃi↓↑xwan→ k⁼wo↓ tʃ⁼i↓↑njɛn↑.
+./custom_character_voice/Taffy/processed_225.wav|0|ən↑  tʰa→mən ts`⁼ɹ`↓s`ɑʊ↓↑ ʃjɛn↓ts⁼aɪ↓ ʃi→uɑŋ↓ s`ɹ`↓ i↓ts`⁼ɹ`↑ t⁼əŋ↓↑ wo↓↑.
+./custom_character_voice/Taffy/processed_226.wav|0|ʃiɑŋ↓↑fɑŋ↓k⁼ə↓ ma↑tʃ⁼iɑŋ→ ts⁼oʊ↓↑, i↓↑xoʊ↓ ts`ʰu→ts`ʰɑŋ↓↑ tʃ⁼joʊ↓ laɪ↑ k⁼uɑŋ↓ tʃ⁼joʊ↓ nəŋ↑ t⁼a↓↑ma↑tʃ⁼iɑŋ→ lə.
+./custom_character_voice/Taffy/processed_227.wav|0|N?
+./custom_character_voice/Taffy/processed_228.wav|0|wo↓↑ joʊ↓↑ t⁼i↓əɹ`↓ ɹ`ən↑k⁼ə↑, s`ɹ`↓ tʰɑŋ→mi↓↑ t⁼ə t⁼i↓əɹ`↓ ɹ`ən↑k⁼ə↑ t⁼i↓əɹ`↓ ɹ`ən↑k⁼ə↑.
+./custom_character_voice/Taffy/processed_229.wav|0|p⁼u↓k⁼wo↓ kʰə↓↑i↓↑ k⁼eɪ↓↑ ts`ʰu↑ts`⁼ɑŋ↓↑ nin↑ kʰan↓ i→jɛn↓↑ s`ən↑məiɑŋ↓ ʃjɛn↓ts⁼aɪ↓.
+./custom_character_voice/Taffy/processed_230.wav|0|tsʰə↓mjɛn↓ t⁼ə ts`ʰu→ts`ʰɑŋ↓↑ ɹ`ən↑ ts`⁼ə↓mə tʃ⁼in↓.
+./custom_character_voice/Taffy/processed_231.wav|0|tʰu→ɹ`an↑ ʃiɑŋ↓↑ xə→ la tʰa→ meɪ↑ʃiɑŋ↓↑k⁼wo↓ ts⁼ɹ↓tʃ⁼i↓↑ t⁼iɑʊ↓tʃ⁼joʊ↓↑ ma?
+./custom_character_voice/Taffy/processed_232.wav|0|s`əŋ→t⁼ʊŋ↓nəŋ↑ p⁼jɛn↓nəŋ↑ tʃ⁼jɛn↓nəŋ↑ ʃiɛ↓ʃiɛ↓ ʃiɛ↓ʃiɛ↓ miɑʊ→ miɑʊ→.
+./custom_character_voice/Taffy/processed_233.wav|0|sweɪ→ɹ`an↑ ts`⁼ə↓t⁼a↓ mu↓tʃ⁼i→ joʊ↓↑ wən↓tʰi↑, t⁼an↓ xaɪ↑s`ɹ`↓ kʰan↓ i→ʃja↓ p⁼a ts`⁼ʊŋ→weɪ↓ t⁼ə s`ə↓iŋ↓↑ p⁼ən↓↑nəŋ↑ kʰan↓t⁼ɑʊ↓ ma?
+./custom_character_voice/Taffy/processed_234.wav|0|nəŋ↑tʰɑʊ↓ t⁼ɑʊ↓ s`ən↑mə fəŋ→k⁼ə↑ ma ʃɥɛ↓ja→ fəŋ→k⁼ə↑ ʃɥɛ↓ja→ fəŋ→k⁼ə↑.
+./custom_character_voice/Taffy/processed_236.wav|0|ʃin→ʃjɛn→ tʃ⁼jɛn↓kʰɑŋ→ k⁼wan→ts`⁼ʊŋ↓ joʊ↓↑ts`ʰu→ kʰa↓↑pʰjɛn↓ t⁼ə ʃin↓ʃi→ fan↓↑ kʰa↓↑pʰjɛn↓ ts⁼ən↓↑mə meɪ↑joʊ↓↑ tʰə↓p⁼iɛ↑ miɑʊ↓.
+./custom_character_voice/Taffy/processed_237.wav|0|ʃiɑŋ↓↑ʃiɑʊ↓↑feɪ→ lə, t⁼əŋ↓↑t⁼əŋ↓↑ ʃiɑʊ↓↑feɪ→ na↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_238.wav|0|ʃjɛn↓ts⁼aɪ↓ ts⁼aɪ↓ tʃ⁼jɛn↓ts`⁼u↓ mjɛn↓.
+./custom_character_voice/Taffy/processed_239.wav|0|tʃ⁼joʊ↓↑t⁼jɛn↓↑p⁼an↓ tʃ⁼joʊ↓↑t⁼jɛn↓↑p⁼an↓ kʰə↓↑nəŋ↑ nəŋ↑ ʃiɛ↓↑ t⁼an↓s`ɹ`↓ p⁼a→t⁼jɛn↓↑p⁼an↓ kʰən↓↑t⁼iŋ↓ ʃiɛ↓↑p⁼u↓laɪ↑.
+./custom_character_voice/Taffy/processed_240.wav|0|meɪ↑joʊ↓↑ mu↓p⁼iɑʊ→ iɛ↓↑ xweɪ↓ xən↓↑ kʰʊŋ→ʃɥ→, t⁼an↓ joʊ↓↑ mu↓p⁼iɑʊ→ joʊ↓ k⁼an↓↑tʃ⁼ɥɛ↑ xən↓↑ leɪ↓.
+./custom_character_voice/Taffy/processed_241.wav|0|p⁼u↓↑p⁼u↓↑ miɑʊ→ p⁼u↓↑ p⁼u↓↑ miɑʊ→ xu→xu→.
+./custom_character_voice/Taffy/processed_242.wav|0|o↑, tʰa→mən iɑʊ↓ xwan↓i→fu↑ o↑ kʰən↓↑t⁼iŋ↓ ts`⁼ən→tʰan↓ fu↑ k⁼əŋ↓ s`ɹ`↓xə↑ k⁼uɑŋ↓.
+./custom_character_voice/Taffy/processed_243.wav|0|joʊ↓↑ t⁼i↓fɑŋ→ tʃʰiɑŋ↓↑tʃ⁼joʊ↓ts`⁼a↓t⁼an↓ t⁼ə t⁼i↓fɑŋ→ tsʰə↓s`ɹ`↓ i→ʃja↓, kʰan↓ tʰa→ p⁼wo→ tʃʰi↓↑laɪ↑ s`ɹ`↓ ts⁼ən↓↑məiɑŋ↓ t⁼ə, meɪ↑ wən↓tʰi↑ ts⁼aɪ↓ laɪ↑ p⁼i↓mjɛn↓↑.
+./custom_character_voice/Taffy/processed_244.wav|0|tʃ⁼in→tʰjɛn→ i↓↑tʃ⁼iŋ→ s`wo→ lə xɑʊ↓↑t⁼wo→ xwa↓ lə tʃ⁼in→tʰjɛn→ ts`ʰwan→t⁼a↓pʰi↑t⁼iɛ↑ t⁼ə.
+./custom_character_voice/Taffy/processed_245.wav|0|ts⁼ɹ↓tʃ⁼i↓↑ s`ɹ`↓p⁼u↑s`ɹ`↓ joʊ↓↑ s`ən↑mə s`oʊ↓↑xu↓ ni↓↑ ts⁼ʊŋ↓↑  ts⁼ʊŋ↓↑tʃ⁼jɛn→.
+./custom_character_voice/Taffy/processed_246.wav|0|ts`⁼əŋ↓p⁼an↓ tʃʰi↓↑laɪ↑ tʰjɛn→tʰjɛn→ tʰiŋ→k⁼ə↓ ʃiɑŋ↓↑  la↓↑p⁼a→ tʰiŋ→ p⁼u↓ t⁼ʊŋ↓↑ la↓↑p⁼a→ tʰiŋ→ p⁼u↓ t⁼ʊŋ↓↑.
+./custom_character_voice/Taffy/processed_247.wav|0|tʃ⁼joʊ↓s`ɹ`↓ tʃ⁼joʊ↓s`ɹ`↓ tʰiŋ→k⁼ə→ ʃiɑŋ↓↑ tʃ⁼joʊ↓ nəŋ↑ p⁼eɪ↓ tʃʰiŋ↑ʃɥ↓ k⁼an↓↑ɹ`an↓↑ t⁼ɑʊ↓.
+./custom_character_voice/Taffy/processed_248.wav|0|tʰɑʊ↓↑jɛn↓ ts`⁼ən→ts`⁼əŋ↓ ʃiɑŋ↓↑ p⁼a ʃiɛ↓ʃiɛ↓ naɪ↓↑naɪ↓↑ ʃiɛ↓ʃiɛ↓.
+./custom_character_voice/Taffy/processed_249.wav|0|ʃjɛn↓ts⁼aɪ↓ nan↑pʰəŋ↑joʊ↓↑ ʃjɛn↓↑t⁼ə iɛ↓↑ s`ɹ`↓ k⁼ɑŋ→xɑʊ↓↑ ʃiɑŋ↓↑t⁼ɑʊ↓ s`wo→ ni↓↑ ts⁼weɪ↓xɑʊ↓↑ nan↑k⁼wo↓ tʰə↓p⁼iɛ↑ kʰə↓↑i↓↑ an→weɪ↓ wo↓↑ i→ʃja↓ ma.
+./custom_character_voice/Taffy/processed_250.wav|0|ni↓↑ tʃʰɥɛ↓s`ɹ`↑ ʃi↓↑xwan→ ts`ʰɹ`→ la ʃiɑŋ↓↑ ts`ʰɹ`→ ma.
+./custom_character_voice/Taffy/processed_251.wav|0|ni↓↑ ts⁼ɹ↓joʊ↑ts⁼ɹ↓ts⁼aɪ↓ k⁼ɑŋ→s`wo→ s`ən↑mə ʃiɑʊ↓↑ xuɑŋ↑sə↓ meɪ↑ kʰaɪ→kʰaɪ→ lə xɑʊ↓↑ʃiɑŋ↓ a.
+./custom_character_voice/Taffy/processed_252.wav|0|əɹ`↓ʃiŋ→ nɥ↓↑ɹ`ən↑ ts⁼aɪ↓ ʃiɑŋ↓↑t⁼jɛn↓↑ s`ən↑mə ja tʰa→ mən i↓↑tʃ⁼iŋ→ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ lə.
+./custom_character_voice/Taffy/processed_253.wav|0|ʃiɛ↓ʃiɛ↓, ni↓↑ p⁼u↓nəŋ↑ mi↑ʃin↓ na↓ts`⁼ʊŋ↓↑ tʃ⁼iŋ→ʃin→s`ə↓tʃ⁼i↓ t⁼ə ts`ʰɑŋ↓↑tʃ⁼iŋ↓↑, na↓ts`⁼ʊŋ↓↑ sɹ→ʃja↓ u↑ɹ`ən↑ xaɪ↑ xeɪ→xu→xu→ t⁼ə ts`ʰɑŋ↓↑tʃ⁼iŋ↓↑, fan↓↑əɹ`↑ k⁼əŋ↓ʃiɑŋ↓↑ ts⁼wo↓t⁼jɛn↓↑ s`ən↑mə.
+./custom_character_voice/Taffy/processed_254.wav|0|xəŋ→, na↓ s`u→s`u→ t⁼iŋ→ ts`⁼ə tʰa→mən i→ kʰan↓mjɛn↓ a.
+./custom_character_voice/Taffy/processed_255.wav|0|xəŋ→xəŋ→, xəŋ→xəŋ→ ʃiɛ↓ʃiɛ↓ t⁼a↓tʃ⁼ja→, tʃ⁼in→tʰjɛn→ ts`⁼ən→ts`⁼əŋ↓ kʰwaɪ↓lə↓, kʰwaɪ↓lə↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_256.wav|0|joʊ↑ʃi↓ s`ɹ`↑kʰuɑŋ↓ joʊ↑ʃi↓ s`ɹ`↑kʰuɑŋ↓ wan↑p⁼wo→ t⁼weɪ↓p⁼u↓tʃʰi↓↑.
+./custom_character_voice/Taffy/processed_257.wav|0|ɹ`ən↑tʃ⁼ja→ ts`⁼ə↓ʃiɛ→ p⁼eɪ↓tʰwan↑ lə kʰə↓↑nəŋ↑ ts⁼aɪ↓ s`ən↓↑xə↑ p⁼a.
+./custom_character_voice/Taffy/processed_258.wav|0|əɹ`↓s`ɹ`↑i→njɛn↑... p⁼u↑s`ɹ`↓, əɹ`↓s`ɹ`↑ wan↓ iɛ↓↑ p⁼u↓ʃiɑʊ↓↑ lə əɹ`↓s`ɹ`↑i→njɛn↑ t⁼ə əɹ`↓s`ɹ`↑ wan↓.
+./custom_character_voice/Taffy/processed_259.wav|0|tʰə↓p⁼iɛ↑ ʃi↓↑xwan→ meɪ↓↑mwo↑ ma? tʰə↓p⁼iɛ↑ joʊ↓↑ kʰɑʊ↓↑lɥ↓ k⁼wo↓meɪ↓↑mwo↑, t⁼an↓s`ɹ`↓ s`ɹ`↑ts⁼aɪ↓ s`ɹ`↓ p⁼u↓ ʃi↓↑xwan→ tʰoʊ↑s`ɑŋ↓ ts`⁼ɑŋ↓↑tʃ⁼iɑʊ↓↑ a.
+./custom_character_voice/Taffy/processed_260.wav|0|ən↑  ts`⁼ən→t⁼ə meɪ↑joʊ↓↑ la maɪ↓ k⁼eɪ↓↑ tʰu↓tʰa↓↑tʃʰɥ↓ lə meɪ↑joʊ↓↑ ʃjɛn↓ts⁼aɪ↓ tʃʰjɛn↑t⁼wan↓pʰi→ɛ↑sɹ↓tʃ⁼i↓tʰi↓ɛ↑o↓ɛ↑sɹ↓tʃ⁼i↓tʰi↓ɛ↑o↓ɛ↑sɹ↓tʃ⁼i↓tʰi↓ɛ↑o↓ɛ↑sɹ↓tʃ⁼i↓tʰi↓.
+./custom_character_voice/Taffy/processed_261.wav|0|ts⁼weɪ↓ ts`⁼u↓↑iɑʊ↓ xaɪ↑s`ɹ`↓ p⁼u↓ tʃʰɥɛ↓t⁼iŋ↓ s`u→ts`ʰu→ mi↓↑ʃjɛn↓ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ xweɪ↓ p⁼u↑xweɪ↓ p⁼aɪ↑ k⁼ɑʊ↓↑.
+./custom_character_voice/Taffy/processed_262.wav|0|ts`⁼ə↓k⁼ə↓ nəŋ↑maɪ↓, wo↓↑ p⁼u↓ maɪ↓, ʃiɑʊ↓↑ t⁼ʊŋ↓u↓ tʰə↓p⁼iɛ↑ iɑʊ↓iɑŋ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_263.wav|0|tʰa→mən ts`⁼ɹ`↓↑xweɪ↓kʰoʊ↓↑ tʰoʊ↑tsʰa→mjɛn↓.
+./custom_character_voice/Taffy/processed_264.wav|0|ts⁼ʊŋ↓↑swan↓ ts⁼aɪ↓ tʃ⁼jɛn↓ ts⁼aɪ↓ tʃ⁼jɛn↓ ts⁼aɪ↓ tʃ⁼jɛn↓ ts⁼aɪ↓ tʃ⁼jɛn↓ xweɪ↑ts⁼a↑ tʰan↑ p⁼a.
+./custom_character_voice/Taffy/processed_265.wav|0|joʊ↓↑ t⁼ə s`ɹ`↑xoʊ↓ k⁼an↓↑tʃ⁼ɥɛ↑ ɹ`ən↑k⁼ə↑ xɑʊ↓↑ ləŋ↓↑t⁼an↓ tʰə↓p⁼iɛ↑ ma kʰə↓↑nəŋ↑ s`ɹ`↓ leɪ↓ lə leɪ↓ t⁼ə s`ɹ`↑xoʊ↓ xweɪ↓mi↑ ts`⁼ə.
+./custom_character_voice/Taffy/processed_266.wav|0|p⁼ɑŋ↓ts⁼ɹ p⁼a↑ts`ʰu→laɪ↑ ɹ`an↑xoʊ↓ p⁼a↓↑ pʰiŋ↑k⁼wo↓↑ tʰɑŋ↑ tsʰa→ ts⁼aɪ↓ tsʰʊŋ→ tsʰɑʊ↓↑tʃ⁼in→ t⁼ə p⁼ɑŋ↓ts⁼ɹ s`ɑŋ↓ ɹ`an↑xoʊ↓ tʰə↓p⁼iɛ↑ pʰiɛ→.
+./custom_character_voice/Taffy/processed_267.wav|0|tʰa→mən joʊ↓ p⁼u↓ kʰan↓ nan↑miŋ↑ ja fwo↑tʃ⁼iɑʊ↓ ɥæn↑ kʰan↓ wan↑ lə ma? meɪ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_268.wav|0|t⁼weɪ↓, ts`⁼ɹ`→ʃin→, t⁼əŋ↓↑p⁼iɛ↑ ɹ`ən↑ t⁼ə njɛn↑ kʰwaɪ↓lə↓, ni↓↑ t⁼ə lɑʊ↓↑pʰwo↑ mən tʃ⁼in→tʰjɛn→ k⁼ɑŋ→kʰɑʊ↓↑ wan↑, s`wən↓p⁼jɛn↓ laɪ↑ kʰan↓ ts`⁼ɹ`↑p⁼wo→ lə.
+./custom_character_voice/Taffy/processed_269.wav|0|ən↑, xɑʊ↓↑, k⁼an↓↑tʃ⁼ɥɛ↑ xɑʊ↓↑ ts⁼ɑʊ→k⁼ɑʊ→, tʰa→mən i↓↑tʃ⁼iŋ→ s`ɹ`↓ meɪ↓↑tʰjɛn→ ts`ʰoʊ→jɛn→ xə→tʃ⁼joʊ↓↑ pʰɑʊ↓ ts⁼aɪ↓ tʃʰi↑pʰaɪ↑s`ɹ`↓ li↓↑ t⁼ə njɛn↑tʃʰiŋ→ la!
+./custom_character_voice/Taffy/processed_270.wav|0|kʰən↓↑t⁼iŋ↓ joʊ↓↑ tʃ⁼in→tʰjɛn→ tʰa→mən iɑʊ↓s`wo→ xən↓↑ k⁼waɪ↓p⁼u↓k⁼waɪ↓ nə.
+./custom_character_voice/Taffy/processed_271.wav|0|k⁼ʊŋ→ts⁼wo↓ɹ`ɹ`↓ ts`⁼oʊ→mwo↓ iɛ↓↑ p⁼u↓xɑʊ↓↑ ts⁼wo↓, ts`⁼oʊ→mwo↓ ts`⁼oʊ→mwo↓ t⁼wo→p⁼wo→, tʰə↓p⁼iɛ↑ tʃʰi↓↑t⁼ə↑ ts⁼ɑʊ↓↑p⁼wo→ t⁼ə tsʰaɪ↑ joʊ↓↑, iɑʊ↓s`ɹ`↓ tʃʰi↓↑t⁼ə↑ tʰaɪ↓wan↓↑ t⁼əxwa↓.
+./custom_character_voice/Taffy/processed_272.wav|0|s`u→s`u→ p⁼u↓ k⁼eɪ↓↑ tʰa→  fan↓↑ts`⁼əŋ↓ pʰiŋ↑s`ɹ`↑ ts`⁼ɹ`↑p⁼wo→ ts`⁼ɹ`↓↑ lu↓ s`ɑŋ↓p⁼an↓s`ən→.
+./custom_character_voice/Taffy/processed_273.wav|0|man↑ t⁼wən↓ i↓t⁼jɛn↓↑ t⁼ə  man↑ t⁼wən↓ i↓t⁼jɛn↓↑ t⁼ə tʃ⁼joʊ↓ ts`⁼ə↓k⁼ə↓ k⁼ə→t⁼an→ xa→ ts`⁼ə↓k⁼ə↓ k⁼ə→t⁼an→ xa→.
+./custom_character_voice/Taffy/processed_274.wav|0|ʃiɛ↓ʃiɛ↓ ts⁼wo↑tʰjɛn→ ts⁼wo↓ɹ`ən↑ t⁼ə p⁼an↓fən→ tʃ⁼iɑŋ↓↑li↓ tʰə↓p⁼iɛ↑ s`ɹ`↓ wo↓↑ meɪ↓↑k⁼ə↓ ɥɛ↓ pʰiɑʊ↑ s`u→s`u→ u↓↑kʰwaɪ↓ tʃ⁼iɑŋ↓↑tʃ⁼ja→ t⁼ə miŋ↑tʃʰɥæn↑ p⁼ɑʊ↓k⁼eɪ↓↑ ni↓↑ mən na↓ tʰə↓p⁼iɛ↑ tʰaɪ↓ k⁼an↓↑t⁼ʊŋ↓ lə miɑʊ→.
+./custom_character_voice/Taffy/processed_275.wav|0|iɑʊ↓ t⁼ɑŋ↓ts⁼wo↓ tʃʰjoʊ→t⁼ʊŋ→ts`⁼uɑŋ→ ja tʰə↓p⁼iɛ↑ iɑʊ↓ ts`ʰɑʊ→ts`ʰɑʊ→ na↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_276.wav|0|N↑N mo↑oitʃido ko↑wa↓n^a mj a.
+./custom_character_voice/Taffy/processed_277.wav|0|xɑʊ↓↑ s`ən↑tʃʰi↑ a, ts⁼ən↓↑mə ts⁼wo↓t⁼ɑʊ↓ t⁼ə maɪ↓kʰə↓ iɛ↓↑ ts`ʰu→ tʰa→ əɹ`↓↑tʃ⁼i→ lə tʰa→ meɪ↑ ʃiɑŋ↓↑iɑʊ↓ kʰan↓ ts`⁼ə↓k⁼ə↓ tʃ⁼in→ɥ↑.
+./custom_character_voice/Taffy/processed_278.wav|0|wo↓↑ ts⁼aɪ↓ ts`⁼ə↓əɹ`↑ ts⁼wo↓maɪ↓↑s`ɹ`↓ t⁼ə mjɛn↓ s`ɹ`↓ ts⁼wo↓ maɪ↓↑mjɛn↓.
+./custom_character_voice/Taffy/processed_279.wav|0|ts⁼ən↓↑məxweɪ↑s`ɹ`↓ a  weɪ↓s`ən↑mə t⁼oʊ→ s`ɹ`↓ p⁼eɪ→s`ɑŋ→ p⁼i↓↑tʃ⁼iɑʊ↓  p⁼eɪ↓ p⁼eɪ→s`ɑŋ→ p⁼i↓↑tʃ⁼iɑʊ↓.
+./custom_character_voice/Taffy/processed_280.wav|0|kʰə↓↑i↓↑ t⁼wo→p⁼wo→ i→xweɪ↓əɹ` tʃ⁼in→tʰjɛn→ wan↓↑s`ɑŋ↓ wo↓↑mən t⁼a↓↑.
+./custom_character_voice/Taffy/processed_281.wav|0|tsʰʊŋ↑ na↓↑ li↓↑ nʊŋ↓ ja↑ tʃʰjɛn→ pʰiŋ↑ k⁼wo↓↑tʰɑŋ↑ ts⁼aɪ↓ tʃʰjɛn↑mjɛn↓.
+./custom_character_voice/Taffy/processed_282.wav|0|tʃʰi↑s`ɹ`↑ tʃ⁼joʊ↓ kʰan↓ lə i→ʃja↓ ts`⁼ə↓k⁼ə↓ xwo↑t⁼ʊŋ↓iɛ↓ mjɛn↓ t⁼ɑʊ↓t⁼i↓↑ s`ən↑məp⁼i↓ s`u→s`u→  tʰə↓p⁼iɛ↑ t⁼ə s`u→s`u→.
+./custom_character_voice/Taffy/processed_283.wav|0|iɑʊ↓mə tʃ⁼i↓↑s`ɹ`↑njɛn↑ xoʊ↓ t⁼ə s`əŋ→tʃʰjɛn↑ t⁼əxwa↓ ən↑.
+./custom_character_voice/Taffy/processed_284.wav|0|ts`⁼ə↓iɑŋ↓ kʰən↓↑t⁼iŋ↓ p⁼u↑xweɪ↓ p⁼eɪ↓ fəŋ→t⁼iɑʊ↓ in→weɪ↓ tʰa→mən tʃʰi↑s`ɹ`↑ ts`ʰɹ`→p⁼u↓ts`⁼wən↓↑ ts`⁼ə↓k⁼ə↓ jʊŋ↓↑ts`⁼uɑŋ→ tʃ⁼joʊ↓ ʃjʊŋ→kʰoʊ↓↑ ts`⁼ə↓ i→kʰwaɪ↓.
+./custom_character_voice/Taffy/processed_285.wav|0|k⁼uɑŋ↓ ts`⁼ən→tʰan↓ fɑŋ↑tʃ⁼jɛn→.
+./custom_character_voice/Taffy/processed_286.wav|0|ni↓↑ s`wo→ t⁼ɑŋ→s`ɹ`↑ ts⁼ən↓↑mə ʃjɛn↓tʃ⁼in↓ lə i→t⁼a↓ p⁼wo→ɹ`ən↑ ən↑.
+./custom_character_voice/Taffy/processed_287.wav|0|ts`⁼ə↓p⁼jɛn→ t⁼a↓↑swan↓ k⁼ɑʊ↓↑ i→k⁼ə↓ nəŋ↑ kʰaɪ→k⁼wan→ t⁼ə tʃ⁼iŋ↓ts⁼ɹ.
+./custom_character_voice/Taffy/processed_288.wav|0|nəŋ↑ p⁼u↓nəŋ↑ fɑŋ↓k⁼ə↓ wa↑wa↑ tʃ⁼i→ wa↑wa↑ tʃ⁼i→fɑŋ↓ na↓↑xweɪ↓ p⁼u↓xweɪ↓ k⁼ən→ ts`⁼ə↓k⁼ə↓ fɑŋ↑tʃ⁼jɛn→ p⁼u↓tʰaɪ↓pʰeɪ↓.
+./custom_character_voice/Taffy/processed_289.wav|0|kʰə↓↑i↓↑ t⁼əŋ↓↑ ʃja↓k⁼ə↓ tʃ⁼ja↓tʃʰi→ ts`⁼ɹ`→xoʊ↓ t⁼ə na↓k⁼ə↓ kʰaɪ→ ʃɥɛ↑tʃʰi→ ts⁼aɪ↓ wan↑ joʊ→.
+./custom_character_voice/Taffy/processed_290.wav|0|ən↑, ən↑, p⁼u↓ i→iɑŋ↓, p⁼u↓ i→iɑŋ↓, meɪ↓↑k⁼ə↓ ɹ`ən↑ t⁼ə ʃi↓↑xɑʊ↓ t⁼oʊ→ s`ɹ`↓ t⁼wo→iɑŋ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_291.wav|0|aɪ→ aɪ→ joʊ↓↑ s`ɹ`↓tʃʰiŋ↑ ʃjɛn→mɑŋ↑ s`ɹ`↓tʃʰiŋ↑ meɪ↑joʊ↓↑ ni↓↑ ts`⁼ə↓ tʃ⁼in→tʰjɛn→ tʰa↓↑tʃ⁼iɛ→ i↓↑tʃ⁼iŋ→ k⁼ən→ ni↓↑ tʃ⁼iɑŋ↓↑ k⁼wo↓ xwa↓ lə.
+./custom_character_voice/Taffy/processed_292.wav|0|tʰa→ meɪ↑ joʊ↓↑ sʊŋ↓k⁼wo↓ ɑʊ↓t⁼i↓ ma↓↑  meɪ↑joʊ↓↑ meɪ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_293.wav|0|joʊ↓↑ t⁼ə joʊ↓↑ t⁼ə joʊ↓↑ t⁼ə wo↓↑mən wo↓↑mən tʃ⁼iɛ↓s`ɑʊ↓ i→ʃja↓.
+./custom_character_voice/Taffy/processed_294.wav|0|nan↑t⁼ɑʊ↓ p⁼u↑s`ɹ`↓ pʰeɪ↓ni→ lɑʊ↓↑s`ɹ`→laɪ↑ p⁼u↓tʃ⁼i↑, s`ɹ`↓ tʰə↓ p⁼i↓laɪ↑ p⁼u↓tʃ⁼i↑? tʰə↓p⁼i↓laɪ↑ p⁼u↓tʃ⁼i↑!
+./custom_character_voice/Taffy/processed_295.wav|0|tʃ⁼joʊ↓ tʃ⁼joʊ↓ joʊ↓↑t⁼jɛn↓↑ an↓ tʃʰɥɛ↓s`ɹ`↑ an↓ lə an↓ lə miɑʊ→.
+./custom_character_voice/Taffy/processed_296.wav|0|tʰə↓p⁼iɛ↑ tʰiŋ↓↑ ʃiɑŋ↓↑ xə→ t⁼ə ts`⁼ən→s`ɹ`↓ ən↑.
+./custom_character_voice/Taffy/processed_297.wav|0|s`weɪ↓tʃ⁼iɑʊ↓ p⁼u↓ s`weɪ↓ t⁼ɑʊ↓ ts⁼ɹ↓ɹ`an↑ ʃiŋ↓↑  k⁼ən→ meɪ↑joʊ↓↑ s`weɪ↓tʃ⁼iɑʊ↓ joʊ↓↑ s`ən↑mə tʃʰin→mi↓ ts`⁼ən→t⁼ə meɪ↑joʊ↓↑ tʃʰin→mi↓.
+./custom_character_voice/Taffy/processed_298.wav|0|iɑʊ↓ ts⁼aɪ↓ k⁼wo↓ p⁼an↓njɛn↑ ts⁼an↑mən tʃ⁼jɛn↓t⁼ɑʊ↓ i↑k⁼ə↓ xən↓↑ xɑʊ↓↑ t⁼ə ʃin→njɛn↑ oʊ↓↑ʃiɑŋ↓.
+./custom_character_voice/Taffy/processed_299.wav|0|tʃ⁼joʊ↓ na↓ts`⁼ʊŋ↓↑ wan↑ʃiɑʊ↓ t⁼ə ʃiɑʊ↓↑nɥ↓↑xaɪ↑ t⁼əxwa↓ tʰa→mən tʃ⁼joʊ↓ xweɪ↓ xən↓↑ ɹ`ə↓tʃʰiŋ↑.
+./custom_character_voice/Taffy/processed_300.wav|0|k⁼an↓↑tʃ⁼ɥɛ↑ xɑʊ↓↑wan↑ a wo↓↑ kʰan↓t⁼ɑʊ↓ ɹ`ɹ`↓p⁼ən↓↑ ɹ`ən↑.
+./custom_character_voice/Taffy/processed_301.wav|0|tʃ⁼joʊ↓ joʊ↓↑ xən↓↑t⁼wo→ tʰa→mən na↓ts`⁼ʊŋ↓↑ pʰi↓pʰi↓ t⁼oʊ→ p⁼an→ p⁼u↑t⁼ɑʊ↓ p⁼i↓↑saɪ↓ laɪ↑.
+./custom_character_voice/Taffy/processed_302.wav|0|fəŋ→mi↓ tʰaɪ↓ kʰə↓↑aɪ↓ lə  in↑fən↓↑ laɪ↑ k⁼ə→ in↑fən↓↑ s`ɹ`↓ lɑʊ↓↑pʰwo↑  lɑʊ↓↑pʰwo↑ xwan→iŋ↑ lɑʊ↓↑pʰwo↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_303.wav|0|fən→weɪ↑ t⁼a↓xwan↑ s`ɹ`↓ tʃ⁼ɥɛ↑t⁼iŋ↓ t⁼ə ən↑  p⁼u↓ liɑʊ↓↑tʃ⁼iɛ↓↑ t⁼a↓xwan↑tʃ⁼iŋ↓.
+./custom_character_voice/Taffy/processed_304.wav|0|na↓↑joʊ↓↑tʰi↓eɪ→tʃ⁼i↓ a ts`⁼ə↓ts`⁼ʊŋ↓↑ t⁼jɛn↓xwa↓ p⁼u↑xweɪ↓ p⁼eɪ↓ s`oʊ↓↑tʃ⁼i→ ts⁼ɹ↓t⁼ʊŋ↓ pʰiŋ↑p⁼i↓ ma? joʊ↓↑ kʰə↓↑nəŋ↑ t⁼ə.
+./custom_character_voice/Taffy/processed_305.wav|0|tʰa→mən s`ɹ`↑tʃ⁼i↓ s`ɑŋ↓ iɑʊ↓ ts⁼wo↓ ts`⁼ə↓ts`⁼ʊŋ↓↑ ts`⁼uɑŋ→s`ɹ`↓ tʃ⁼joʊ↓ s`uɑŋ↓↑ lə tʃʰɥɛ↓s`ɹ`↑ a.
+./custom_character_voice/Taffy/processed_306.wav|0|ən↑ ts`⁼ən→ts`⁼əŋ↓ t⁼ə t⁼i↓əɹ`↓ ɹ`ən↑k⁼ə↑ ʃiɑʊ↓↑feɪ→xweɪ↓ s`ɹ`↓ ts⁼wo↓ tʃ⁼iŋ↓↑s`ɹ`↓ t⁼ə.
+./custom_character_voice/Taffy/processed_307.wav|0|ən↑ tʰa→mən iɑʊ↓ ts`ʰwan→ p⁼jɛn↓tʃ⁼iɛ↑ s`an→.
+./custom_character_voice/Taffy/processed_308.wav|0|ts`⁼ə↓ p⁼i↓↑tʃ⁼i↓ ts⁼ən↓↑mə na↓mə p⁼eɪ→s`ɑŋ→ ja↓↑xwaɪ↓ lə.
+./custom_character_voice/Taffy/processed_309.wav|0|tʃʰiŋ↓↑ tʃʰiŋ↑ʃɥ↓ tʃʰi↓↑fu↑, joʊ↓↑ s`ən↓ p⁼i↓↑tʃ⁼iɑʊ↓ fəŋ→fu↓, p⁼i↓↑tʃ⁼iɑʊ↓ t⁼a↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_310.wav|0|tʰa→mən iɛ↓↑ p⁼u↑iɑʊ↓ pʰiŋ↑ k⁼wo↓↑tʰɑŋ↑ lə k⁼eɪ↓↑ts`ʰu→ts`ʰɑŋ↓↑ i→miɑʊ↓↑.
+./custom_character_voice/Taffy/processed_311.wav|0|p⁼u↑iɑʊ↓ iɑŋ↑mɑʊ↑ tʰə↓miŋ↓ ʃi↓↑xwan→ kʰan↓ na↓ts`⁼ʊŋ↓↑ wan↓↑s`ɑŋ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_312.wav|0|ə↓  xən↓↑ʃiɑʊ↓↑ wo↓↑ tʃ⁼in→tʰjɛn→ tʃ⁼in→tʰjɛn→ wan↑ i→ ts`⁼ɹ`→ njoʊ↑ɹ`ən↑tʃ⁼iɛ↑ na↓ ts`⁼ɹ`→  nəŋ↑ p⁼u↓nəŋ↑ kʰan↓kʰan↓ ʃiɑʊ↓↑t⁼u↓↑ts⁼ɹ.
+./custom_character_voice/Taffy/processed_313.wav|0|wan↑ p⁼u↓k⁼wo↓ a, p⁼u↓wan↑ lə.
+./custom_character_voice/Taffy/processed_314.wav|0|tʰə↓p⁼iɛ↑ xwən↑ san→ wan↑wan↑, wan↑xwən↑ i→ ma? xaɪ↑joʊ↓↑ tʃ⁼jɛn↓ ts`⁼an↓↑ li↓↑u↓ s`ən↑mə s`ɹ`↑xoʊ↓ fa→?
+./custom_character_voice/Taffy/processed_315.wav|0|s`u→s`u→, nəŋ↑ p⁼u↓nəŋ↑p⁼u↓iɑʊ↓ t⁼iŋ→ ts`⁼ə tʰa→mən ja? wo↓↑ s`ɹ`↓s`ɹ`↓ an↓ p⁼i↓↑ mi↓↑ʃjɛn↓ k⁼an↓↑tʃ⁼ɥɛ↑ kʰə↓↑i↓↑.
+./custom_character_voice/Taffy/processed_316.wav|0|tʰə↓p⁼iɛ↑ nəŋ↑ pʰeɪ↑tʃ⁼joʊ↓↑ ma? p⁼i↓ p⁼i↓ p⁼i↓li→ p⁼u↓nəŋ↑ pʰeɪ↑ p⁼i↓ p⁼i↓ p⁼i↓li→li→.
+./custom_character_voice/Taffy/processed_317.wav|0|ʃi→uɑŋ↓ ts`⁼ə↓k⁼ə↓ ts`⁼ə↓k⁼ə↓ ts`⁼ə↓k⁼ə↓ t⁼ɑʊ↓ s`ɹ`↑xoʊ↓ fan↓↑kʰweɪ↓ t⁼ə t⁼ʊŋ→ʃi→ tʰa→ nəŋ↑ k⁼aɪ↓↑t⁼iɑʊ↓.
+./custom_character_voice/Taffy/processed_318.wav|0|a↑ʃi*ta↓kai o↑maesama.
+./custom_character_voice/Taffy/processed_319.wav|0|ʃi→uɑŋ↓ tʰa→ mən ts`⁼ən→ts`⁼əŋ↓ ts`⁼u↓ ts⁼aɪ↓ s`ɑŋ↓mjɛn↓ ɹ`ɹ`↓ ɹ`ɹ`↓ɹ`ɹ`↓ mɑŋ↑t⁼jɛn↓↑ xɑʊ↓↑ mɑŋ↑t⁼jɛn↓↑ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_320.wav|0|s`əŋ↓t⁼an↓ ts`⁼ən→t⁼a↓ lə wo↓↑ s`əŋ↓t⁼an↓ fɑŋ↓xan↑tʃ⁼ja↓ lə.
+./custom_character_voice/Taffy/processed_321.wav|0|tʰə↓p⁼iɛ↑ tʃ⁼in→tʰjɛn→, tʃ⁼in→tʰjɛn→ xaɪ↑ kʰan↓tʃ⁼jɛn↓ mi↓↑ an→ʃi→ joʊ↓↑k⁼ə↓ xən↓↑ xɑʊ↓↑wan↑ t⁼ə tʰu↑.
+./custom_character_voice/Taffy/processed_322.wav|0|ɹ`an↑xoʊ↓ ts`⁼ə↓k⁼ə↓ s`ɹ`↓ tʰə↓p⁼iɛ↑ ʃi↓↑xwan→ t⁼ə ts`⁼ə↓k⁼ə↓ tʰə↓p⁼iɛ↑ ʃi↓↑xwan→ t⁼ə.
+./custom_character_voice/Taffy/processed_323.wav|0|miŋ↑njɛn↑ tʰə↓p⁼iɛ↑ laɪ↑ ɥ↓tsʰə↓ i→ʃja↓ s`ən↑mə s`ɹ`↓ k⁼ə↓ p⁼aɪ↓↑wan↓ p⁼ən↓↑.
+./custom_character_voice/Taffy/processed_325.wav|0|a  tʰa→mən joʊ↓↑ meɪ↓li↓ xɑʊ↓↑ miɑʊ→ xeɪ→xeɪ→ xeɪ→xeɪ→  xeɪ→xeɪ→ xeɪ→xeɪ→.
+./custom_character_voice/Taffy/processed_326.wav|0|xəŋ→xəŋ→ ts`⁼ən→t⁼ə joʊ↓↑ san→k⁼ə↓ pʰjɛn→tʰoʊ↑ tʃʰɥɛ↓ɹ`ən↓ kʰə↓↑i↓↑ san→- i→ la.
+./custom_character_voice/Taffy/processed_327.wav|0|nəŋ↑ k⁼aɪ↓↑tsʰɹ↓ tʃ⁼jɛn↓ ma? tʰə↓p⁼iɛ↑ xweɪ↑tʰoʊ↑, ɹ`ɑŋ↓ wo↓↑ kʰan↓ i→ʃja↓, miŋ↑əɹ`↑ xɑʊ↓↑p⁼u↓xɑʊ↓↑ s`ɹ`↑ʃjɛn↓.
+./custom_character_voice/Taffy/processed_328.wav|0|wo↓↑ tʰoʊ→ kʰɑʊ↓↑ ʃiɑŋ→tʃ⁼iɑʊ→ p⁼u↑s`ɹ`↓ feɪ→ts`ʰʊŋ↑, wo↓↑ tʰoʊ→ kʰɑʊ↓↑ ʃiɑŋ→tʃ⁼iɑʊ→ s`ɹ`↓ niɑʊ↓↑.
+./custom_character_voice/Taffy/processed_329.wav|0|k⁼an↓↑tʃ⁼ɥɛ↑ oʊ→tʃ⁼in→ p⁼u↓ɹ`u↑ oʊ→s`ɑŋ↓↑,waɪ↓i↓ɛ↑sɹ↓! k⁼an↓↑tʃ⁼ɥɛ↑ p⁼u↓ɹ`u↑ oʊ→s`ɑŋ↓↑, tʃ⁼jɛn→ tʃ⁼jɛn→t⁼jɛn↓↑, oʊ→!
+./custom_character_voice/Taffy/processed_330.wav|0|ʃiɑŋ↓↑ p⁼u↓ ts`ʰu→laɪ↑ ʃiɑŋ↓↑ p⁼u↓ ts`ʰu→laɪ↑.
+./custom_character_voice/Taffy/processed_331.wav|0|ʃiɑŋ→joʊ↑ ts`ʰoʊ↓ lə, wo↓↑jʊŋ↓ liɛ↓tʃ⁼joʊ↓↑ xə→t⁼ɑʊ↓ ʃiɑŋ↓↑tʰʊŋ→, ʃiɑŋ↓ ni↓↑ maɪ↓ts`ʰu→ tʃ⁼iɑʊ↓↑ts`⁼ɹ`↓↑ tʃ⁼iɑʊ↓↑, p⁼ɑŋ→ ni↓↑ tʃʰɥæn→ t⁼aɪ↓ lə wo↓↑ t⁼ə lu↓.
+./custom_character_voice/Taffy/processed_333.wav|0|ən↑? weɪ↓ s`ən↑mə p⁼u↓xweɪ↓ p⁼u↓xweɪ↓ tʃ⁼i↓ʃɥ↓ ts`⁼ə↓iɑŋ↓ ʃja↓tʃʰɥ↓ ts`ʰu→ t⁼ɑʊ↓ɹ`ən↑ ts⁼aɪ↓ t⁼an→ʃin→ s`ən↑mə.
+./custom_character_voice/Taffy/processed_334.wav|0|p⁼u↑iɑʊ↓ tʃʰi→ɹ`ən↑ joʊ↓↑tʰjɛn→.
+./custom_character_voice/Taffy/processed_335.wav|0|miɑʊ→ miɑʊ→ s`wo→ ts`⁼ə↓mətʃ⁼joʊ↓↑ t⁼əxwa↓ p⁼u↑xweɪ↓ kʰoʊ↓↑kʰə↓↑ ma swo↓↑i↓↑ tʰa→mən ts⁼aɪ↓ xə→s`weɪ↓↑.
+./custom_character_voice/Taffy/processed_336.wav|0|ni↓↑ ʃi↓↑xwan→ fan↓↑s`ə↓ fən→weɪ↑ t⁼əŋ→lʊŋ↑, na↓ ni↓↑ iŋ→k⁼aɪ→ ts`⁼u↓ ts`⁼wan→mən↑ t⁼əŋ→lʊŋ↑ t⁼ə na↓ts`⁼ʊŋ↓↑ fɑŋ↑tʃ⁼jɛn→.
+./custom_character_voice/Taffy/processed_337.wav|0|ts⁼ən↓↑məp⁼an↓ ja, meɪ↑joʊ↓↑ p⁼eɪ↓mjɛn↓ tʰu↑ wo↓↑ nəŋ↑ p⁼u↓nəŋ↑ t⁼əŋ↓↑ na↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_338.wav|0|tʰa→xweɪ↓ maɪ↓ na↓ts`⁼ʊŋ↓↑ sə↓sə↓ t⁼ə t⁼ʊŋ→ʃi→iɛ↑ s`oʊ→ɹ`u↓ ts⁼weɪ↓t⁼a↓ tʰoʊ↑xaɪ↑ s`ɹ`↓ na↓k⁼ə↓ s`ɹ`↑p⁼a→tʃ⁼in→ sə↓sə↓ t⁼ə t⁼ʊŋ→ʃi→iɛ↑.
+./custom_character_voice/Taffy/processed_339.wav|0|ts`ʰoʊ→ la ts`⁼ə↓k⁼ə↓ tʰə↓miŋ↓ iɛ↓↑ ʃi↓↑xwan→, ts`⁼ə↓ iɛ↓↑ s`ɹ`↓ tʰə↓miŋ↓ jʊŋ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_340.wav|0|fɑŋ↓t⁼ɑʊ↓ na↓↑əɹ`↑ nəŋ↑fɑŋ↓ a  k⁼uɑŋ→ts`⁼uɑŋ↓ tʰaɪ↓ts`ʰa↓ lə.
+./custom_character_voice/Taffy/processed_341.wav|0|nʊŋ↓ liɑŋ↓↑t⁼jɛn↓↑ p⁼u↓ɹ`an↑ xweɪ↓ s`wo→ k⁼wa↓.
+./custom_character_voice/Taffy/processed_342.wav|0|ɥn↓tʃʰi↓ xə↑ ts⁼ɹ↓s`ən→ t⁼ə na↓ts`⁼ʊŋ↓↑.
+./custom_character_voice/Taffy/processed_343.wav|0|joʊ↑ʃi↓ tʃ⁼in→tʰjɛn→ t⁼wo→fɑŋ↓ i↓t⁼jɛn↓↑ ni↓↑mən ts⁼wo↑tʰjɛn→ tʰa→mən fɑŋ↑tʃ⁼jɛn→ xaɪ↑ nəŋ↑ fɑŋ↓ s`ən↑mə  tʰa→mən ʃiɑŋ↓↑fɑŋ↓k⁼ə↓ ma↑tʃ⁼iɑŋ→ts`⁼wo→.
+./custom_character_voice/Taffy/processed_344.wav|0|p⁼u↓xɑʊ↓↑ xweɪ↓ iŋ↓↑ʃiɑŋ↓↑ tʰə↓miŋ↓ k⁼ən→ ts`ʰu→ts`ʰɑŋ↓↑ i↓↑ tʃ⁼iŋ→tʃ⁼jɛn↓mjɛn↓ lə o↑ p⁼u↓xɑʊ↓↑ sweɪ→ɹ`an↑ tʰə↓miŋ↓ ts`⁼ɹ`→t⁼ɑʊ↓ xweɪ↓ s`weɪ↓ lə xən↓↑ tʃ⁼joʊ↓↑ t⁼an↓s`ɹ`↓ tʰə↓miŋ↓ meɪ↑joʊ↓↑ ts⁼wo↓k⁼wo↓.
+./custom_character_voice/Taffy/processed_345.wav|0|tʰa→ xən↓↑ sweɪ↑tʃ⁼i→ a.
+./custom_character_voice/Taffy/processed_346.wav|0|t⁼oʊ→ s`ɹ`↓ ts`ʰu↓↑ tʰɑŋ↓↑ tʃ⁼i→tʃ⁼iɑʊ↓ t⁼ə ts`ʰu↓↑ tʰɑŋ↓↑ tʃ⁼i→tʃ⁼iŋ→ts`ʰɑŋ↑ fa→i→t⁼jɛn↓↑i↓ɛ↑mu↓oʊ→tʃ⁼eɪ↓aɪ↓ pʰeɪ↓s`ɑŋ↓ xən↓↑t⁼wo→ t⁼wan↓ts⁼ɹ.
+./custom_character_voice/Taffy/processed_347.wav|0|ən↑, na↓ ts`⁼ə↓iɑŋ↓ ts`ʰu↓↑nan↑ tʃ⁼joʊ↓ p⁼u↑xweɪ↓ s`wo→ s`ən↑mə la.
+./custom_character_voice/Taffy/processed_348.wav|0|xaɪ↑joʊ↓↑ xən↓↑ k⁼wan→tʃ⁼jɛn↓ t⁼ə, tʰə↓p⁼iɛ↑ s`ɹ`↓ i↓↑ts⁼ɹ nəŋ↑ ts⁼wo↓.
+./custom_character_voice/Taffy/processed_349.wav|0|p⁼u↓ t⁼a↓↑ ts`ʰə↓↑ la xu→xu→ miɑʊ→ xu→xu→ miɑʊ→ wo↓↑ xə→kʰoʊ↓↑s`weɪ↓↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_350.wav|0|ən↑, tʰə↓p⁼iɛ↑, tʰə↓p⁼iɛ↑ ts`⁼ə↓k⁼ə↓ p⁼eɪ↓tʃ⁼iŋ↓↑ s`ɹ`↓ p⁼aɪ↑tʰjɛn→ a, tʰa→ na↓k⁼ə↓ mi↑ja↓↑li↓↑ s`ɹ`↓ xeɪ→iɛ↓.
+./custom_character_voice/Taffy/processed_351.wav|0|fəŋ→mi↓ meɪ↑joʊ↓↑ tʰɑŋ↑ la ən↑ ən↑.
+./custom_character_voice/Taffy/processed_353.wav|0|k⁼an↓↑tʃ⁼ɥɛ↑ ts`⁼ə↓p⁼jɛn→ s`wo→p⁼u↓s`ɑŋ↓laɪ↑ joʊ↓↑ i→ts`⁼ʊŋ↓↑ tʰə↓s`u→ t⁼ə xwo↑li↓.
+./custom_character_voice/Taffy/processed_354.wav|0|ts⁼aɪ↓ la→ts`ʰə↓↑ i→ʃja↓, la→ts`ʰə↓↑ p⁼u↓t⁼ʊŋ↓ lə xəŋ→.
+./custom_character_voice/Taffy/processed_355.wav|0|p⁼u↓tʰaɪ↓ xɑʊ↓↑i↓sɹ→ fɑŋ↓, k⁼eɪ↓↑ ni↓↑mən tʰiŋ→k⁼ə↓ tʃ⁼i↓↑miɑʊ↓↑ tʰə↓p⁼iɛ↑ ʃiɑŋ↓↑ s`ən↑mə i↓↑xoʊ↓ s`ən↑mə ts`ʰu→si→t⁼i↓ laɪ↑.
+./custom_character_voice/Taffy/processed_356.wav|0|k⁼an↓↑tʃ⁼ɥɛ↑ xaɪ↑s`ɹ`↓ xən↓↑ p⁼eɪ→s`ɑŋ→ ts`⁼ə↓k⁼ə↓ na↓↑li↓↑ p⁼eɪ→s`ɑŋ→ lə.
+./custom_character_voice/Taffy/processed_357.wav|0|kʰə↓↑nəŋ↑ tʰa→mən ts`⁼ə↓iɑŋ↓ts⁼ɹ iɑʊ↓ p⁼eɪ↓ ma↓ t⁼an↓s`ɹ`↓ tʰa→mən tʃ⁼joʊ↓ u↑swo↓↑weɪ↓.
+./custom_character_voice/Taffy/processed_358.wav|0|meɪ↑joʊ↓↑, ts`⁼ə↓ tʃʰiɛ→xwa→ tʰaɪ↓nan↑ lə.
+./custom_character_voice/Taffy/processed_359.wav|0|p⁼u↓xweɪ↓ p⁼u↓xweɪ↓ p⁼u↓ kʰə↓↑i↓↑ p⁼u↑iɑʊ↓ o↑ p⁼u↑iɑʊ↓.
+./custom_character_voice/Taffy/processed_360.wav|0|t⁼u↓s`u↓ p⁼i↓↑ tʃ⁼iɑʊ↓ k⁼ɑʊ→ t⁼ə na↓ts`⁼ʊŋ↓↑ li↓↑mjɛn↓ iɑʊ↓s`ɹ`↓ tʃ⁼ja→t⁼jɛn↓↑ kʰə↓↑lə↓xweɪ↓ joʊ↓↑ i→t⁼jɛn↓↑ tʰjɛn↑weɪ↓ xə→ t⁼ə s`ɹ`↑xoʊ↓ tʃ⁼joʊ↓ p⁼u↓xweɪ↓k⁼an↓↑ tʃ⁼ɥɛ↑t⁼u↓ s`u↓k⁼ɑʊ→ lə.
+./custom_character_voice/Taffy/processed_361.wav|0|nu↓↑nu↓↑ p⁼a.
+./custom_character_voice/Taffy/processed_362.wav|0|tʰu↑pʰjɛn↓ fa→weɪ→p⁼wo↑ ts`⁼ə↓ ts`⁼ɹ`↓↑ s`u→s`u→ ts`⁼ə↓k⁼ə↓ xaɪ↑ts⁼ɹ tʰaɪ↓ts`ʰu↓ nan↑ lə.
+./custom_character_voice/Taffy/processed_363.wav|0|ts⁼weɪ↓ʃiɑŋ↓↑ k⁼ɑʊ↓↑tʃʰjɛn↑? s`ən↑mə tʃ⁼iɛ↓man↓↑ ts⁼ɹ→tʃ⁼in→ kʰan↓ t⁼oʊ→ xən↓↑ k⁼an↓.
+./custom_character_voice/Taffy/processed_364.wav|0|joʊ↓s`oʊ↓↑ s`ɹ`↓ u↓↑tʃʰi↓ ma, tʰa→ma→ tʃʰja→ tʃʰja→, na↓ tʃ⁼joʊ↓ ts`⁼an→ts`⁼u↓ lə, p⁼a↓↑ ts`ʰu↑iɑŋ↓↑tʃ⁼i↓ ts`⁼an→t⁼ɑʊ↓ s`oʊ↓↑s`ɑŋ↓ tʰa→ma→.
+./custom_character_voice/Taffy/processed_365.wav|0|ən↑, tʰə↓miŋ↓ ts`ʰwan→tʃʰi↑ s`ɑʊ↓↑k⁼ʊŋ→ p⁼eɪ↓ na↑ʃja↓ lə.
+./custom_character_voice/Taffy/processed_366.wav|0|weɪ↓s`ən↑mə p⁼u↑s`ɹ`↓ ʃiɑʊ↓↑ mwo↑tʃ⁼iɛ↓ fəŋ→k⁼ə↑ tʰa→mən tʃ⁼joʊ↓ p⁼u↓ ʃi↓↑xwan→ mwo↑nɥ↓↑ tʰa→mən iɑʊ↓.
+./custom_character_voice/Taffy/processed_368.wav|0|a→ ts`⁼ɑʊ↓iɑʊ↑iɑʊ↑ tʰə↓p⁼iɛ↑ t⁼ə meɪ↓li↓ tʃ⁼joʊ↓s`ɹ`↓ xweɪ↓t⁼iɑʊ↓ kʰaɪ↓↑ts⁼ɹ.
+./custom_character_voice/Taffy/processed_369.wav|0|a, a, a, a, ʃi↓jaa, ʃi↓jaa.
+./custom_character_voice/Taffy/processed_370.wav|0|ts`ʰu→t⁼ɑʊ↓ tʃ⁼joʊ↓ meɪ↑ lə ts`ʰu→t⁼ɑʊ↓ tʃ⁼joʊ↓ meɪ↑ lə.
+./custom_character_voice/Taffy/processed_371.wav|0|san→ɥɛ↓ t⁼a↓ ts⁼ɑʊ↓iŋ↓↑ ts`ʰu→ tʰaɪ↑p⁼eɪ↓↑ tʰa→mən ts`⁼ə↓kʰwaɪ↓ tʃʰiɑŋ↑ s`ɑŋ↓ ts`⁼ə↓k⁼ə↓ k⁼weɪ↓ts⁼ɹ xaɪ↑ʃiɑŋ↓↑ fɑŋ↓t⁼jɛn↓↑ t⁼ʊŋ→ʃi→ʃiɑŋ↓↑ fɑŋ↓t⁼jɛn↓↑ s`ən↑mə mi↑ja↓↑tʃ⁼ɥn→tʰoʊ↑ ʃiɛ↑.
+./custom_character_voice/Taffy/processed_372.wav|0|tʃʰi↑s`ɹ`↑ tʰa→mən t⁼ə ts`⁼ʊŋ→wən↑p⁼an↓↑ iɛ↓↑ lu↓ lə, t⁼an↓s`ɹ`↓ tʰa→mən iɛ↓↑...
+./custom_character_voice/Taffy/processed_373.wav|0|joʊ↓↑ ɹ`ə↓tʃʰiŋ↑ t⁼ə s`ɹ`↑xoʊ↓ ts`⁼ən→ts`⁼əŋ↓ p⁼i↓↑tʃ⁼iɑʊ↓ iŋ↓p⁼a→ t⁼ə s`ɹ`↑xoʊ↓ tʰa→ meɪ↑joʊ↓↑ tʃʰiɛ↓ts`ʰu→laɪ↑.
+./custom_character_voice/Taffy/processed_374.wav|0|iɛ↓↑ p⁼u↓ tʃʰɥ↓ na↓ts`⁼ʊŋ↓↑ xweɪ↓ ɥ↓t⁼ɑʊ↓ p⁼iɛ↑ɹ`ən↑ t⁼ə na↓ts`⁼ʊŋ↓↑ t⁼i↓fɑŋ→ p⁼a.
+./custom_character_voice/Taffy/processed_375.wav|0|ɹ`an↑xoʊ↓tʰa→ mən s`wo→ p⁼u↓ʃiɑŋ↓↑ ts`ʰɹ`→ i↓p⁼aɪ↓↑ wan↓tʃʰi↑s`ɹ`↑ s`əŋ→sɹ↓↑ t⁼ɑŋ→ts`⁼ʊŋ→tʃʰɥæn↑ tsʰwən↑fɑŋ↓ ts⁼aɪ↓ lə ts`⁼ə↓ʃiɛ→.
+./custom_character_voice/Taffy/processed_376.wav|0|tʃ⁼i→p⁼ən↓↑s`ɑŋ↓ joʊ↓↑ fan↓↑k⁼uɑŋ→ p⁼u↓k⁼oʊ↓ liɑŋ↓.
+./custom_character_voice/Taffy/processed_377.wav|0|wan↑ na↓ts`⁼ʊŋ↓↑ s`ən↑mə s`ən↑mə kʰə↓↑nəŋ↑ xweɪ↓ ɥ↓t⁼ɑʊ↓ p⁼iɛ↑ɹ`ən↑ t⁼ə joʊ↑ʃi↓.
+./custom_character_voice/Taffy/processed_379.wav|0|lɑʊ↓↑p⁼u↓tʃ⁼iɛ↓↑ miŋ↑tʰjɛn→ ts⁼aɪ↓ na↓↑? tʃ⁼in→tʰjɛn→ i↓↑tʃ⁼iŋ→ xwo↑ t⁼ɑʊ↓ san→k⁼ə↓ ʃiɑʊ↓↑s`ɹ`↑ lə.
+./custom_character_voice/Taffy/processed_380.wav|0|tʰwən→tʰwən→ kʰan↓ meɪ↑s`ɹ`↓ t⁼ə, ts`⁼u↓↑iɑʊ↓ s`ɹ`↓ p⁼u↓ tʰaɪ↓ kʰan↓.
+./custom_character_voice/Taffy/processed_381.wav|0|ən↑ ts`⁼ə↓tʃ⁼jɛn↓ i→fu↑ t⁼oʊ→ ts`ʰwan→ ni↓ lə xɑʊ↓↑ ʃiɑŋ↓↑ kʰwaɪ↓t⁼jɛn↓↑ ts`ʰwan→ s`ɑŋ↓.
+./custom_character_voice/Taffy/processed_382.wav|0|ts`⁼ə↓mə ts⁼ɑʊ↓↑ kʰən↓↑t⁼iŋ↓ ʃjɛn↓ts⁼aɪ↓ tsʰaɪ↑ p⁼u↓ ts⁼ɑʊ↓↑ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓.
+./custom_character_voice/Taffy/processed_383.wav|0|ɯ↓ɯQɾaʃiijaN ɯ↓ɯQɾaʃiijaN mja↓N.
+./custom_character_voice/Taffy/processed_384.wav|0|p⁼aɪ↓↑wan↓fən↓↑ sɹ→ tʃ⁼joʊ↓ ts⁼aɪ↓ tʃ⁼in→njɛn↑ miŋ↑njɛn↑ miŋ↑njɛn↑ miŋ↑njɛn↑ tʃ⁼in→njɛn↑ meɪ↑joʊ↓↑ tʃ⁼in→njɛn↑ meɪ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_385.wav|0|əɹ`↑tʃʰiɛ↓↑ tʰa→mən in→weɪ↓ kʰan↓ lə t⁼wo→ lə iɛ↓↑ p⁼u↓k⁼eɪ↓↑ tʰa→mən tʰweɪ→ k⁼wo→ mi↓↑kʰa↓↑.
+./custom_character_voice/Taffy/processed_386.wav|0|s`əŋ→t⁼an↓ kʰwan↓↑ s`ɹ`↓ ɹ`ən↑leɪ↓ s`waɪ→t⁼ɑʊ↓↑ t⁼ə ts⁼weɪ↓wan↓↑ t⁼ə... ə↓... na↓k⁼ə↓...
+./custom_character_voice/Taffy/processed_387.wav|0|ʃin→ʃjɛn→p⁼i↓.eɪ→.a↓.ɛ↑o↓.eɪ→.a↓. t⁼ə sa→xwa→ ʃin→ʃjɛn→tʰi↓eɪ→ɛ↑mu↓p⁼i↓eɪ→ən→kʰeɪ↓aɪ↓ən→ t⁼ə k⁼ɑʊ↓p⁼aɪ↑ xwa→s`u↓ ʃin→ʃjɛn→ s`ɹ`↑əɹ`↓ t⁼ə tʃ⁼jɛn↓ts`⁼ɑŋ↓↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_389.wav|0|ts`ʰweɪ→ i→t⁼i→ in→ɥɛ↓.
+./custom_character_voice/Taffy/processed_390.wav|0|ts`⁼ɹ`↑tʃ⁼iɛ→ xoʊ↓mjɛn↓ xoʊ↓mjɛn↓ ts`⁼ə↓iɑŋ↓ k⁼wo↓laɪ↑ ʃiɛ↓ʃiɛ↓.
+./custom_character_voice/Taffy/processed_391.wav|0|xweɪ↓ ʃjoʊ→ʃi→ o↑ miɑʊ→ ts⁼ən↓↑mə kʰan↓ tʰə↓miŋ↓ s`əŋ↓p⁼eɪ→ liŋ↓↑ʃjɛn→ p⁼an↓↑p⁼ən↓↑ a na↓ t⁼ɑʊ↓ p⁼u↑s`ɹ`↓ p⁼u↑s`ɹ`↓ tʰə↓miŋ↓ liŋ↓↑ʃjɛn→ p⁼an↓↑p⁼ən↓↑.
+./custom_character_voice/Taffy/processed_392.wav|0|wo↓↑ ɹ`an↑xoʊ↓ xaɪ↑joʊ↓↑ na↓k⁼ə↓ ʃja↓tsʰɹ↓ s`ɑŋ↓↑ʃiɑʊ↓↑feɪ→ na↓k⁼ə↓eɪ→ s`ɑŋ↓↑.
+./custom_character_voice/Taffy/processed_393.wav|0|k⁼an↓↑tʃ⁼ɥɛ↑ ts`⁼uɑŋ↓tʰaɪ↓ xən↓↑ ts`ʰa↓, iɑʊ↓ ʃjoʊ→ʃi→ lə ma? meɪ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_394.wav|0|xaɪ↑ meɪ↑joʊ↓↑ wan↑t⁼ɑʊ↓ xwən↑ u↓↑p⁼jɛn↓ t⁼ɑŋ→ ʃjɛn↑ɥ↑, wo↓↑xweɪ↓ t⁼oʊ→ wan↑ t⁼ə.
+./custom_character_voice/Taffy/processed_395.wav|0|wa, k⁼eɪ↓↑ ni↓↑ miɑʊ→, san→tʃʰjɛn→kʰwaɪ↓ maɪ↓ i→kʰə→ pʰiŋ↑k⁼wo↓↑ tʰɑŋ↑ a!
+./custom_character_voice/Taffy/processed_396.wav|0|in→weɪ↓ tʰa→mən ʃiɑŋ↓↑ a  wən↑xwa↓ s`əŋ→ts`ʰu→ t⁼an↓ ts`⁼ə↓tʰaɪ↓nan↑ lə.
+./custom_character_voice/Taffy/processed_397.wav|0|tʃ⁼in→tʰjɛn→ iɛ↓↑ xwan→iŋ↑ t⁼iŋ↓ɥɛ↓ liŋ↑t⁼ɑŋ→ jʊŋ↓↑ɥæn↓↑ ts⁼aɪ↓ i↓tʃʰi↓↑ wan↑wan↑ ma→ma→ ts⁼weɪ↓aɪ↓ ni↓↑ lə tʰə↓p⁼iɛ↑ ts⁼weɪ↓aɪ↓ts`ʰu→ tsʰɑʊ↓↑tʃ⁼i→ lə.
+./custom_character_voice/Taffy/processed_398.wav|0|tʃ⁼in→tʰjɛn→ wan↓↑s`ɑŋ↓ xaɪ↑t⁼a↓↑ tʃ⁼i→joʊ↑ʃi↓ ma  t⁼a↓↑ nə  t⁼a↓↑t⁼ɑʊ↓ meɪ↑joʊ↓↑  ts⁼wo↑tʰjɛn→ ʃɥæn↓↑lə i→k⁼ə↓ tʃ⁼i→joʊ↑ʃi↓ iɛ↓↑ t⁼a↓↑ lə.
+./custom_character_voice/Taffy/processed_399.wav|0|iɛ↑~~ t⁼iɑʊ↓ weɪ↓kʰoʊ↓↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_401.wav|0|miŋ↑tʰjɛn→ xweɪ↓ kʰan↓ tʰjɛn→tʃ⁼iɛ↑ ma? miŋ↑tʰjɛn→ pʰa↑p⁼u↓tʃʰi↓↑laɪ↑! kʰən↓↑t⁼iŋ↓ pʰa↑p⁼u↓tʃʰi↓↑laɪ↑!
+./custom_character_voice/Taffy/processed_402.wav|0|na↓ tsʰʊŋ↑ʃiɑʊ↓↑ tʃ⁼joʊ↓ pʰən→ ts`ʰa↑, ɹ`an↑xoʊ↓ joʊ↓↑ i→tʰjɛn→ a→ts⁼ɹ p⁼u↓ ʃiɑʊ↓↑ʃin→ ljoʊ↑ t⁼ɑʊ↓ lə tʰa→mən i↑k⁼ə↓ s`ɹ`↓pʰin↑.
+./custom_character_voice/Taffy/processed_403.wav|0|tʰa→mən nəŋ↑ p⁼u↓nəŋ↑ p⁼ɑŋ→ ni↓↑ ts`ʰu→tʰoʊ↑ i→tʃʰjɛn→ t⁼a↓↑p⁼ɑʊ→, na↓ ʃiɑʊ↓↑k⁼wo→ na↓tʰoʊ↑ ts⁼ən↓↑mə tʰiɑʊ→p⁼u↓s`ɑŋ↓ ts`ʰu→tʰoʊ↑ tʃʰɥ↓ t⁼ə a?
+./custom_character_voice/Taffy/processed_404.wav|0|ts`⁼ə↓ts⁼aɪ↓ nʊŋ↑mɑʊ→ ma fan↓↑ts`⁼əŋ↓ fan↓↑ts`⁼əŋ↓ tʃ⁼joʊ↓s`ɹ`↓ p⁼u↓ɹ`an↑ tʃ⁼joʊ↓s`ɹ`↓ tʃʰjɛn→li↓↑ tʃʰjɛn→ts`ʰɹ`↓↑.
+./custom_character_voice/Taffy/processed_405.wav|0|wo↓↑ iɛ↓↑ p⁼u↑iɑʊ↓  ts⁼ən↓↑mə ts`⁼ə↓mə t⁼a↓ ja.
+./custom_character_voice/Taffy/processed_406.wav|0|ts`ʰu↑t⁼ɑʊ↓↑tʃ⁼jɛn→ t⁼ɑʊ↓ meɪ↑tʰan→ mjɛn↓tʰoʊ↑, t⁼an↓s`ɹ`↓ ts`ʰu↑t⁼ɑʊ↓↑tʃ⁼jɛn→ xən↓↑t⁼wo→.
+./custom_character_voice/Taffy/processed_407.wav|0|ni↓↑ xən↓↑ kʰaɪ→ʃin→ ma? ʃiɛ↓ʃiɛ↓ s`ən↑mə? ʃin→swan→.
+./custom_character_voice/Taffy/processed_408.wav|0|ʃiɑŋ↓↑ p⁼u↓ ts`ʰu→laɪ↑, tʃ⁼joʊ↓ xɑʊ↓↑t⁼wo→ ʃin→pʰjɛn↓ p⁼an→t⁼ə pʰjɛn→tʰoʊ↑ t⁼oʊ→ p⁼u↑s`ɹ`↓ tʰa→mən tsʰə↓ i→lu↓ t⁼ə.
+./custom_character_voice/Taffy/processed_409.wav|0|ə↓... xɑʊ↓↑ma↑fan↑, xaɪ↑s`ɹ`↓ sweɪ↑ʃin→ swo↓↑ɥ↓ i→t⁼jɛn↓↑ ma.
+./custom_character_voice/Taffy/processed_410.wav|0|ts⁼aɪ↓ na↓p⁼jɛn→ t⁼i↓ tʰu↑li↓↑ tʰan↓swo↓↑ wo↓↑.
+./custom_character_voice/Taffy/processed_411.wav|0|ts`⁼ən→t⁼ə tʃ⁼iɛ↓ ts`⁼ən→t⁼ə tʃ⁼iɛ↓.
+./custom_character_voice/Taffy/processed_412.wav|0|iŋ→k⁼aɪ→ s`ɹ`↓ nəŋ↑ p⁼jɛn↓ts`ʰəŋ↑ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ t⁼ə ni↓↑ an↓ na↓↑k⁼ə↓ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ tʃ⁼joʊ↓ xweɪ↓ p⁼jɛn↓ts`ʰəŋ↑ na↓↑k⁼ə↓ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→, p⁼jɛn↓ lə ma?
+./custom_character_voice/Taffy/processed_413.wav|0|tʰaɪ↓aɪ↓↑ lə miɑʊ→ wo↓↑ xaɪ↑ ts⁼aɪ↓ maɪ↓↑ pʰiŋ↑k⁼wo↓↑ tʰɑŋ↑  ts⁼aɪ↓ na↑ i↑k⁼ə↓ p⁼a.
+./custom_character_voice/Taffy/processed_414.wav|0|tʰə↓p⁼iɛ↑ k⁼ə→t⁼an↓ xən↓↑ joʊ↓↑ pʰin↓↑weɪ↓ tʰə↓p⁼iɛ↑ s`ɹ`↓ uɑŋ↓↑ iŋ→ɥ↓↑ sweɪ↑p⁼jɛn↓ s`wo→ t⁼ə tʰə↓p⁼iɛ↑ k⁼wan→tʃ⁼jɛn↓ s`ɹ`↓ ts`ʰwan↑ in→ɥɛ↓.
+./custom_character_voice/Taffy/processed_415.wav|0|fan↓↑ts`⁼əŋ↓ kʰan↓ts`⁼ə xweɪ↓ tʰiŋ↓↑ kʰaɪ→ʃin→ t⁼ə s`ɹ`↓in→weɪ↓ xən↓↑ ɹ`ə↓tʃʰiŋ↑ xɑʊ↓↑ʃiɑŋ↓ s`ɹ`↓ p⁼a xən↓↑ ɹ`ə↓tʃʰiŋ↑ xən↓↑ joʊ↓↑ tʃʰin→xə↑li↓.
+./custom_character_voice/Taffy/processed_416.wav|0|wo↓↑ ʃiɑŋ↓↑iɑʊ↓ p⁼ɑʊ↓ tʰa→ tʃ⁼in↓↑t⁼jɛn↓↑ tʰa→mən ʃiɑŋ↓↑ p⁼a↓↑ ʃjʊŋ→kʰoʊ↓↑ lu↓ts`ʰu→ laɪ↑.
+./custom_character_voice/Taffy/processed_417.wav|0|xɑʊ↓↑k⁼a↓ ja ts⁼ən↓↑mə p⁼u↓jʊŋ↓ kʰan↓xɑʊ↓↑ k⁼a↓.
+./custom_character_voice/Taffy/processed_418.wav|0|ɥæn↑laɪ↑ s`ɹ`↓ ts`⁼oʊ→sɹ↓ tʰə↓p⁼iɛ↑ xaɪ↑joʊ↓↑ wan↑ ts`⁼ə ts`⁼oʊ→u↓↑ nə xaɪ↑ ts⁼aɪ↓ na↓p⁼jɛn→ fa→ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ t⁼ə ʃiɑʊ↓↑s`ɹ`↓pʰin↑.
+./custom_character_voice/Taffy/processed_419.wav|0|ən↑, ts`ʰəŋ↑weɪ↑ oʊ↓↑ʃiɑŋ↓ t⁼əxwa↓, ən↑.
+./custom_character_voice/Taffy/processed_420.wav|0|nyah*! hɑ hɑ, miaʊ!
+./custom_character_voice/Taffy/processed_421.wav|0|lɑʊ↓↑pʰwo↑, liŋ↑xwan↑ xwan↑xwan↑ xwan↑xwan↑ lɑʊ↓↑pʰwo↑, t⁼a↓tʰoʊ↑ i→kʰoʊ↓↑ ma.
+./custom_character_voice/Taffy/processed_422.wav|0|xɑʊ↓↑ aɪ↓xɑʊ↓ aɪ↓ tʰa→ mi→mi→, xɑʊ↓↑ aɪ↓xɑʊ↓ aɪ↓ mi→mi→, i↓↑xoʊ↓ xaɪ↑iɑʊ↓ i↓tʃʰi↓↑ k⁼wo↓ k⁼əŋ↓ t⁼wo→ t⁼ə ts`⁼oʊ→njɛn↑ mi→, aɪ↓ mi→mi→.
+./custom_character_voice/Taffy/processed_423.wav|0|tʃʰjɛn→pʰjɛn↓ s`ɹ`↓ tʃʰjɛn→pʰjɛn↓, pʰiŋ↑s`ɹ`↑ s`ɹ`↓ pʰiŋ↑s`ɹ`↑ ʃjɛn↓ts⁼aɪ↓ nə, ʃjɛn↓ts⁼aɪ↓ tʰiŋ↓↑wan↑iɑʊ↓ tʃ⁼i↓t⁼ə t⁼ə, tʃ⁼joʊ↓.
+./custom_character_voice/Taffy/processed_424.wav|0|tʰa→ meɪ↑ xɑʊ↓↑ tʰa→ xaɪ↑s`ɹ`↓ ʃɥæn↓↑ts⁼ə↑ ʃjɛn→ ts`ʰu→laɪ↑ t⁼a↓↑mu↓.
+./custom_character_voice/Taffy/processed_425.wav|0|ən↑  ʃiɑŋ↓ s`ɑŋ↓mjɛn↓ k⁼wa↓ t⁼ə tʰə↓p⁼iɛ↑ t⁼ə xwa↓ ɹ`an↑xoʊ↓ ts`⁼ə↓p⁼jɛn→ ts`⁼ə↓ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ s`wo→ aaa a.
+./custom_character_voice/Taffy/processed_426.wav|0|ən↑ p⁼u↓ t⁼wo→ s`wo→ lə meɪ↑joʊ↓↑ ʃi→ʃi→ ʃi→ʃi→ ʃi→ʃi→.
+./custom_character_voice/Taffy/processed_427.wav|0|ni↓↑ sweɪ→ɹ`an↑ tʰə↓p⁼iɛ↑ kʰan↓k⁼wo↓, s`ɹ`↑tʃ⁼jɛn→ k⁼wo↓t⁼ə↑ xɑʊ↓↑ kʰwaɪ↓ o↑ ʃiɛ↓ʃiɛ↓, t⁼əŋ↓↑ i→ʃja↓.
+./custom_character_voice/Taffy/processed_428.wav|0|tsʰaɪ↑ p⁼a→t⁼jɛn↓↑ t⁼ɑŋ→ɹ`an↑ t⁼oʊ→ i↓↑ tʃ⁼iŋ→p⁼wo→ lə u↓↑k⁼ə↓ ʃiɑʊ↓↑s`ɹ`↑ lə.
+./custom_character_voice/Taffy/processed_429.wav|0|ə↓, xweɪ↓joʊ↓↑ tsʰɑŋ↑xwa→, tsʰɑŋ↑xwa→ ma?
+./custom_character_voice/Taffy/processed_430.wav|0|xɑʊ↓↑ la ʃiɑŋ↓↑ kʰan↓ʃiɑʊ↓↑feɪ→ t⁼ə k⁼wo↓ts`ʰəŋ↑ ts⁼ɹ ma.
+./custom_character_voice/Taffy/processed_431.wav|0|tʰa→mən ts⁼aɪ↓ weɪ→p⁼wo↑ xaɪ↑ fa→k⁼wo↓ wo↓↑ ʃiɑʊ↓p⁼wo↑ t⁼ə neɪ↓kʰu↓ tʰu↑mjɛn↓.
+./custom_character_voice/Taffy/processed_432.wav|0|t⁼əŋ↓↑ tʰə↓mi→ t⁼ə kʰɑŋ↓sɹ↓↑fu↑ ts⁼wo↓xɑʊ↓↑ lə, k⁼eɪ↓↑kʰan↓ p⁼an↓↑niɑŋ↑ nɥ↓↑ts`ʰʊŋ↓↑ts`⁼ɑŋ↓↑ tʃ⁼i→ ts`ʰwan→ s`ɑŋ↓, ɹ`an↑xoʊ↓tʰə↓ mi→ pʰaɪ→ i→ts`⁼ɑŋ→ kʰan↓p⁼an↓↑niɑŋ↑ ts`ʰʊŋ↓↑ts`⁼ɑŋ↓↑ tʃ⁼i→ t⁼ə p⁼eɪ↓mjɛn↓, ɹ`an↑xoʊ↓tʃ⁼joʊ↓ nəŋ↑ t⁼ə↑t⁼ɑʊ↓ tʰə↓mi→ t⁼ə p⁼eɪ↓mjɛn↓ tʰu↑ a.
+./custom_character_voice/Taffy/processed_433.wav|0|xa→xa→ nʊŋ↓nʊŋ↓ nʊŋ↓  tʃ⁼iɑʊ↓ ts`ʰu→ tsʰɑʊ↓↑tʃ⁼i→.
+./custom_character_voice/Taffy/processed_434.wav|0|tʃ⁼in→tʰjɛn→ tʰjɛn↑mi↓a↓ən→tʃ⁼i↓ t⁼a↓↑p⁼u↓t⁼iɑʊ↓ t⁼ə i→ ts`⁼ɹ`→ ts⁼weɪ↓ts⁼weɪ↓ ts⁼weɪ↓ts⁼weɪ↓ ts⁼weɪ↓ts⁼weɪ↓ ts⁼weɪ↓kʰə↓↑aɪ↓t⁼ə tʰa→mən əɹ`↓p⁼aɪ↓↑tʃ⁼joʊ↓↑s`ɹ`↑tʃ⁼joʊ↓↑ kʰwaɪ↓lə↓ kʰwaɪ↓lə↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_435.wav|0|ən↑, ni↓↑ ʃiɑʊ↓↑s`ɹ`↑xoʊ↓ joʊ↓ ʃiɑŋ↓↑ʃɥɛ↑ in→ɥɛ↓, joʊ↓ ʃiɑŋ↓↑ʃɥɛ↑ xwa↓xwa↓, ts⁼weɪ↓xoʊ↓ ts`ʰəŋ↑ lə ts`ʰəŋ↑ʃɥ↓ɥæn↑.
+./custom_character_voice/Taffy/processed_436.wav|0|meɪ↑joʊ↓↑ a, ts`⁼ə↓s`ɹ`↓ ts`⁼ʊŋ→wən↑ ts`⁼ʊŋ→wən↑ p⁼jɛn→tʃ⁼iɑŋ↓↑ t⁼wo→ lə, meɪ↑ʃiɑŋ↓↑ xɑʊ↓↑, i↓↑xoʊ↓ts⁼aɪ↓ s`wo→ p⁼a.
+./custom_character_voice/Taffy/processed_437.wav|0|tʰu→ɹ`an↑ p⁼eɪ↓ la→ts`ʰɑŋ↑ iɑʊ↓s`ɹ`↓ in↓ts⁼aɪ↓ tʰoʊ↑pʰi↑ tʃ⁼in↓ ts`⁼ɹ`↑p⁼wo→ xweɪ↓ p⁼eɪ↓ fən→ ts`⁼ɹ`↑p⁼wo→ tʃ⁼i→t⁼ə↑ kʰɑʊ↓↑lɥ↓ ts`⁼ə↓ʃiɛ→ wən↓tʰi↑ mjɛn↓.
+./custom_character_voice/Taffy/processed_438.wav|0|iɑʊ↓t⁼oʊ↓ts`ʰʊŋ↑ nə wo↓↑ ts⁼aɪ↓ kʰan↓kʰan↓, kʰan↓ wan↑ ts`⁼ə↓k⁼ə↓ xən↓↑t⁼a↓ t⁼ə t⁼ʊŋ→ʃi→ s`weɪ↓tʃ⁼ɥɛ↑.
+./custom_character_voice/Taffy/processed_439.wav|0|tʰjɛn→tʰjɛn→ k⁼wo↓laɪ↑  p⁼ən↓↑laɪ↑ fɑŋ↓ sʊŋ→ lə a→i↑ niɑŋ↑ʃjɛn↓ ts⁼aɪ↓ t⁼a↓tʃ⁼ja→ ʃɥɛ↑ma→ ma→laɪ↑ ts`⁼u↓ o↑.
+./custom_character_voice/Taffy/processed_440.wav|0|ʃjɛn↓ts⁼aɪ↓ ts⁼ɑʊ↓↑t⁼jɛn↓↑ ɹ`ən↓t⁼ə məŋ↓ kʰan↓ tʰi→tʃ⁼jɛn→ tʰə↓p⁼iɛ↑ p⁼u↓ tʃʰɥɛ↓t⁼iŋ↓ nəŋ↑ p⁼u↓nəŋ↑ s`weɪ↓ts`⁼ɑʊ↑ a.
+./custom_character_voice/Taffy/processed_441.wav|0|s`ən↑mə tʰə↓u↓ tʰjɛn→tʰjɛn→ ts`⁼wan↓↑i↑ ts`⁼ən↓t⁼i↓ ts⁼u→fɑŋ↑ s`ɹ`↓ ts`⁼ə↓iɑŋ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_442.wav|0|ən↑, xɑʊ↓↑ tʃʰiɑʊ↓↑miɑʊ↓, xɑʊ↓↑ tʃʰiɑʊ↓↑miɑʊ↓, tʃʰiɑʊ↓↑miɑʊ↓ na↓ ts`⁼ɹ`→tʃʰjɛn↑ na↓k⁼ə↓ ts`⁼uɑŋ→p⁼an↓, na↓ ts`⁼ɹ`→tʃʰjɛn↑ na↓k⁼ə↓ ts`⁼uɑŋ→p⁼an↓ iŋ→k⁼aɪ→ iɛ↓↑ tʃ⁼iɛ→man↓↑ lə p⁼a.
+./custom_character_voice/Taffy/processed_443.wav|0|ni↓↑ s`ɹ`↓ maɪ↓xwo↓↑ts`ʰaɪ↑ t⁼ə ʃiɑʊ↓↑nɥ↓↑xaɪ↑ weɪ↓s`ən↑mə iɑʊ↓xwa↓ xwo↓↑ts`ʰaɪ↑ ja.
+./custom_character_voice/Taffy/processed_444.wav|0|feɪ→ts`⁼wan↓ tʃ⁼joʊ↓ ʃiɑŋ↓ feɪ→xwo↓↑ i→iɑŋ↓ t⁼ə, meɪ↑joʊ↓↑ iɑʊ↓ ʃi→iɑŋ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_445.wav|0|i↓tʃʰi↓↑ p⁼jɛn↓ts`⁼wan↓↑ wo↓↑ nu↓↑li↓ tʃʰɥ↓ ts⁼wo↓ tʃ⁼joʊ↓ xweɪ↓ ts`ʰəŋ↑k⁼ʊŋ→ ljoʊ↓p⁼jɛn→ i→tsʰəŋ↑ tʃʰiɑŋ↑ ts⁼ɹ↓tʃ⁼i↓↑ iɑʊ↓ ʃiŋ↓fu↑ weɪ↓s`ən↑mə u↓↑ tʰiɑʊ↑kʰwan↓↑ joʊ↓↑ ljoʊ↓tʰiɑʊ↑ a.
+./custom_character_voice/Taffy/processed_446.wav|0|xaɪ↑ts⁼, xaɪ↑ts⁼ɹ p⁼jɛn↓p⁼jɛn↓ p⁼jɛn↓ xɑʊ↓↑, p⁼jɛn↓p⁼jɛn↓ p⁼jɛn↓ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_447.wav|0|s`əŋ→ɹ`ɹ`↓ xweɪ↓nəŋ↑ p⁼a↓↑ ʃin→p⁼an↓↑ t⁼jɛn↓t⁼ʊŋ↓ fɑŋ↓ts`ʰu→ laɪ↑ ma? wo↓↑ xɑʊ↓↑ tʃ⁼i↑, laɪ↑ p⁼u↓tʃ⁼i↑ p⁼a!
+./custom_character_voice/Taffy/processed_448.wav|0|iɛ↓↑ ʃiɑŋ↓↑ joʊ↓↑ tʰa→ mən na↓ts`⁼ʊŋ↓↑ tʃʰiŋ↑ʃɥ↓ k⁼aɪ↓↑s`an↓ li↓ ɹ`ɑŋ↓ ɹ`ən↑ xeɪ→ tʰiŋ→ t⁼ə s`ɹ`↑xoʊ↓ tʃ⁼joʊ↓ k⁼an↓↑tʃ⁼ɥɛ↑ xweɪ↓.
+./custom_character_voice/Taffy/processed_449.wav|0|weɪ↓ s`ən↑mə tʃ⁼iɑʊ↓k⁼wan→ɛ↑sɹ↓ɛ↑sɹ↓si→ na↓mə kʰaɪ→ʃin→ a ni↓↑ ts⁼ən↓↑mə na↓mə kʰaɪ→ʃin→.
+./custom_character_voice/Taffy/processed_450.wav|0|xɑʊ↓↑ tʰiŋ→ o↑ ts`⁼ə↓ tʰjɛn↑t⁼u↓ tʰaɪ↓ts`⁼ɑŋ↓↑ lə.
+./custom_character_voice/Taffy/processed_451.wav|0|ʃjɛn↓ts⁼aɪ↓ xaɪ↑ s`u↓↑ɥ↑ tʰə↓miŋ↓ ts⁼aɪ↓ la→ts`ʰə↓↑, ʃiɑŋ↓↑ ts⁼ɹ↓tʃ⁼i↓↑ ʃi↓↑xwan→ s`ən↑mə s`ə↓tʃ⁼i↓ t⁼ə tʃ⁼iɛ→t⁼wan↓ ja.
+./custom_character_voice/Taffy/processed_452.wav|0|fu↑ tsʰɑŋ↑tʃ⁼ja→, ən↑, t⁼weɪ↓, fu↑ tsʰɑŋ↑tʃ⁼ja→ fu↑ tsʰɑŋ↑tʃ⁼ja→, fu↑ tsʰɑŋ↑tʃ⁼ja→ tʰa→mən li↓↑mjɛn↓ fɑŋ↓ lə t⁼jɛn↓↑kʰə↓↑lə↓.
+./custom_character_voice/Taffy/processed_453.wav|0|tʰoʊ↑s`ɑŋ↓ na↓k⁼ə↓ t⁼iɑʊ↓ t⁼ə ʃiɑŋ↓ t⁼əŋ→pʰɑʊ↓ xwa↓ t⁼ə i→iɑŋ↓ na↓ kʰə↓↑ liɑŋ↓t⁼jɛn↓↑ p⁼a.
+./custom_character_voice/Taffy/processed_454.wav|0|ʃiŋ→ʃiŋ→ ʃiɑŋ↓ tʃ⁼iŋ↓↑ts`ʰa↑ naɪ↓xə↑ ʃin↓ʃi→, tʰa→mən ts`⁼ən→t⁼ə jʊŋ↓↑ɥæn↓↑ p⁼u↓.
+./custom_character_voice/Taffy/processed_455.wav|0|bi↓n^tʃandajo! bi↓n^tʃandajo!
+./custom_character_voice/Taffy/processed_456.wav|0|liɛ↓ɹ`ən↑fəŋ→ k⁼ə↑tʰə↓ p⁼iɛ↑ʃi↓↑xwan→ t⁼ə ʃiɛ↓ʃiɛ↓ a→ma→t⁼aɪ↓ laɪ↑ t⁼ə ʃiɛ↓ʃiɛ↓.
+./custom_character_voice/Taffy/processed_457.wav|0|ən↑ ən↑ p⁼i↓↑ɹ`u↑s`wo→ ts`ʰəŋ↑weɪ↑ oʊ↓↑ʃiɑŋ↓ ts`ʰʊŋ→man↓↑ xwa↓.
+./custom_character_voice/Taffy/processed_458.wav|0|tʰiŋ→p⁼u↓t⁼ʊŋ↓↑ iɛ↓↑ xweɪ↓ k⁼an↓↑tʃ⁼ɥɛ↑ k⁼wa↓ t⁼ə tʰiŋ↓↑ xɑʊ↓↑ t⁼ə na↓ iɑŋ↓ts⁼ɹ t⁼ə.
+./custom_character_voice/Taffy/processed_459.wav|0|t⁼wən↓ kʰɑʊ↓↑ jɛn↑mɑŋ↑ xɑʊ↑ na↓ ts`⁼ə↓k⁼ə↓ iɛ↓↑ s`ɹ`↓ tʰə↓mi→ k⁼uɑŋ↓ tʃ⁼ja→tʰiŋ↑ ts`ʰəŋ↑maɪ↓↑ t⁼ɑʊ↓ t⁼ə tʰə↓mi→ɹ`ən↑ xɑʊ↓↑ t⁼a↓.
+./custom_character_voice/Taffy/processed_460.wav|0|iɛ↓↑ fan→wan↑ i→miɑʊ↓↑ na↓  na↓k⁼ə↓ s`ɹ`↓ s`ɹ`↑jɛn↓ts`ʰɑŋ↓↑ t⁼i↓ ma.
+./custom_character_voice/Taffy/processed_461.wav|0|ɹ`ən↓ i→ʃja↓ ni↓↑ t⁼əɛ↑sɹ↓si→pʰi→ ts⁼an↓liɑʊ↓ lə ts⁼an↓liɑʊ↓ lə ʃin→ t⁼əɛ↑sɹ↓si→pʰi→ feɪ→ ma↓↑kʰə↓ əɹ`↓ts`ʰʊŋ↑ ts⁼wo↓ t⁼əɛ↑sɹ↓si→pʰi→.
+./custom_character_voice/Taffy/processed_462.wav|0|t⁼oʊ→ kʰan↓p⁼u↑tʃ⁼jɛn↓ lə tʃ⁼iɑŋ→ts`⁼ən↓ts`ʰəŋ↑ maɪ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_463.wav|0|ni↓↑ iɑʊ↓mə ts⁼aɪ↓ xwan↓↑i→xwan↓↑, o↑, p⁼u↓xɑʊ↓↑, fan↓kʰwən↓ lə, ts⁼weɪ↓tʃ⁼in↓ t⁼iɑʊ↓ ts⁼wo↓ʃi→ nə.
+./custom_character_voice/Taffy/processed_464.wav|0|p⁼jɛn↓  ts`⁼u↓↑t⁼a↓↑  tʃ⁼i→  tʃ⁼i→  tʃ⁼i→.
+./custom_character_voice/Taffy/processed_465.wav|0|na↓ tʰə↓p⁼iɛ↑ xweɪ↑tʰoʊ↑ maɪ↓↑ i→ʃja↓ p⁼a na↓ tʃʰi↑s`ɹ`↑ na↓k⁼ə↓ ma↑tʃ⁼iɑŋ→ ma↑tʃ⁼iɑŋ→ts`⁼wo→ tʃ⁼joʊ↓s`ɹ`↓ joʊ↑ʃi↓.
+./custom_character_voice/Taffy/processed_466.wav|0|njoʊ↑njoʊ↑ ts`ʰɹ`→ wan↑ lə ən↑.
+./custom_character_voice/Taffy/processed_467.wav|0|tʃʰjɛn→pʰjɛn→ t⁼oʊ→ s`ɹ`↓ k⁼ɑŋ→k⁼uɑŋ→ s`ɹ`↑kʰə↓ tʰə↓p⁼iɛ↑ tʃ⁼iŋ→ts`ʰɑŋ↑ kʰan↓ wan↑ ma  t⁼oʊ→ meɪ↑ joʊ↓↑.
+./custom_character_voice/Taffy/processed_468.wav|0|ts`⁼ə↓s`ɹ`↓ i↑k⁼ə↓ p⁼i↓↑saɪ↓ s`ɹ`↓pʰin↑ k⁼ɑŋ→ kʰan↓t⁼ɑʊ↓ ts`⁼ə↓k⁼ə↓ p⁼i↓↑saɪ↓ s`ɹ`↓pʰin↑.
+./custom_character_voice/Taffy/processed_469.wav|0|p⁼iɛ↑ ts⁼aɪ↓ t⁼an↓mu↓ tʃ⁼iɛ→k⁼wa↓ xɑʊ↓↑tʃ⁼joʊ↓↑, tʰa→ xaɪ↑s`ɹ`↓ p⁼u↓nəŋ↑ jʊŋ↓, ni↓↑mən tʰu↑ʃiɑŋ↓ t⁼oʊ→ meɪ↑joʊ↓↑ ʃjɛn↓↑s`ɹ`↓.
+./custom_character_voice/Taffy/processed_470.wav|0|miŋ↑tʰjɛn→ kʰɑʊ↓↑s`ɹ`↓ k⁼wo↓ tʃ⁼i↓↑tʰjɛn→ p⁼u↓↑t⁼u↑ p⁼u↓k⁼oʊ↓, pʰeɪ↑ ts`⁼ə tʃ⁼joʊ↓ wo↓↑ p⁼u↓ k⁼wan↓kʰə↓ ma, wo↓↑ts`⁼u↓ ni↓↑ p⁼u↓ k⁼wan↓kʰə↓, miŋ↑tʰjɛn→ wo↓↑ t⁼oʊ→ ts`ʰu→t⁼ɑʊ↓ ni↓↑ kʰɑʊ↓↑s`ɹ`↓ a!
+./custom_character_voice/Taffy/processed_471.wav|0|xoʊ↓mjɛn↓ uɑŋ↓ lə wan↓↑an→ miɑʊ→.
+./custom_character_voice/Taffy/processed_472.wav|0|tʰa→mən ʃiɑŋ↓↑ ts`ʰweɪ→ t⁼i↑ts⁼ɹ.
+./custom_character_voice/Taffy/processed_473.wav|0|nan↑wa↑ wo↓↑ njoʊ↑t⁼iɛ→ fən→ʃiɑŋ↓↑ neɪ↓ʃin→ tʰə↓p⁼iɛ↑ tʃ⁼iɑŋ↓↑tʃ⁼in→ kʰwaɪ↓lə↓, kʰwaɪ↓lə↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_474.wav|0|t⁼a↓ p⁼wo→tʰə↓ p⁼wo→ t⁼ə ʃiŋ↑weɪ↓ ən↑ na↓ ts`⁼əŋ↓xə↑ swo↓↑i↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_475.wav|0|ə…
+./custom_character_voice/Taffy/processed_476.wav|0|tʰu↓↑t⁼oʊ↓ tʃ⁼i→ p⁼a↓↑ tʰu↓↑t⁼oʊ↓ tʃ⁼i→ t⁼ə tʰɑŋ↑ na↑ ts`ʰu→laɪ↑ tʰu↓↑t⁼oʊ↓ tʃ⁼i→ t⁼ə sɹ↓ts⁼ɹ↓ tʰɑŋ↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_477.wav|0|p⁼iɛ↑la→ la nʊŋ↓ p⁼u↓ʃiŋ↑ la.
+./custom_character_voice/Taffy/processed_478.wav|0|tʃ⁼joʊ↓swan↓ tʰə↓p⁼iɛ↑ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ ts⁼ən↓↑mə k⁼ɑʊ↓↑.
+./custom_character_voice/Taffy/processed_479.wav|0|tʰa→mən tʃʰi↓, tʃʰi↓t⁼ə↑ xən↓↑ nan↑ wan↑, tʰa→mən tʃʰi↓ p⁼u↓liɑʊ↓↑, tʃ⁼ja→li↓↑ joʊ↓↑t⁼ʊŋ↓ts`ʰʊŋ↑ t⁼ə.
+./custom_character_voice/Taffy/processed_480.wav|0|tʰa→mən k⁼ɑŋ→k⁼ɑŋ→ s`wo→ t⁼ə s`a↑, na↓ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→.
+./custom_character_voice/Taffy/processed_481.wav|0|p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ la tʃ⁼joʊ↓↑t⁼jɛn↓↑ p⁼an↓nəŋ↑ ʃiŋ↓↑ k⁼wo↓laɪ↑.
+./custom_character_voice/Taffy/processed_482.wav|0|tsʰʊŋ↑ ts⁼ɑʊ↓↑tʃʰjɛn↑ wən↓wən↓ wən↓ɹ`an↑ xoʊ↓ s`ɑŋ↓mjɛn↓ na↓k⁼ə↓ t⁼a↓feɪ→iɑʊ↓ wən↓wən↓ ts`⁼ə↓ wən↑tʃ⁼jɛn↓.
+./custom_character_voice/Taffy/processed_483.wav|0|ts`⁼ə↑xə↑ ɹ`ən↑min↑p⁼i↓ san→ s`ɹ`↑tʃʰi→wan↓ t⁼ə tʃʰjɛn↑ p⁼u↓k⁼wo↓ tʰa→xweɪ↓ maɪ↓↑ na↓ts`⁼ʊŋ↓↑.
+./custom_character_voice/Taffy/processed_484.wav|0|meɪ↑joʊ↓↑ k⁼an↓↑tʃ⁼ɥɛ↑ xə↑ ts`⁼ə↓li↓↑ i→iɑŋ↓ a.
+./custom_character_voice/Taffy/processed_485.wav|0|ni↓↑xɑʊ↓↑ miɑʊ→, ni↓↑xɑʊ↓↑ miɑʊ→, lu↓s`ɑŋ↓ ʃiɑʊ↓↑ʃiɑŋ↓ wan↑ miɑʊ→ ʃiɛ↓ʃiɛ↓.
+./custom_character_voice/Taffy/processed_486.wav|0|ʃiɛ↓ʃiɛ↓ ni↓↑ ts⁼wo↓ lə ts`⁼ə↓mə t⁼wo→ p⁼u↓tʰiŋ↑ t⁼ə tʃ⁼jɛn↓ ts`⁼ɑŋ↓↑ ʃiɛ↓ʃiɛ↓.
+./custom_character_voice/Taffy/processed_487.wav|0|tʰa→mən s`ɹ`↓ iɑʊ↓ʃiŋ↑ ma? tʰa→mən s`ɹ`↓ iɑʊ↓ s`ɑŋ↓iɑŋ↓↑ lɑʊ↓↑ɥæn↓? s`ɑŋ↓iɑŋ↓↑ lɑʊ↓↑ɥæn↓ ma?
+./custom_character_voice/Taffy/processed_488.wav|0|tʰa→mən s`ɹ`↓k⁼wo↓ s`ɑʊ→weɪ→ fɑŋ↓t⁼jɛn↓↑ kʰə↓↑lə↓ tʃ⁼joʊ↓ xweɪ↓ xən↓↑ xɑʊ↓↑ts`ʰɹ`→ ts`ʰɹ`→ ts`ʰɹ`→xə→ s`ən↑mə laɪ↑ ts`⁼u↓.
+./custom_character_voice/Taffy/processed_489.wav|0|ʃja↓p⁼wo→ lə miɑʊ→ p⁼aɪ↓p⁼aɪ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_490.wav|0|i↓↑tʃʰjɛn↑ p⁼jɛn↓ts`ʰəŋ↑ xwən↑ san→ t⁼ə ʃiŋ↑ts`⁼uɑŋ↓ lə ən↑  ən↑.
+./custom_character_voice/Taffy/processed_491.wav|0|p⁼u↓pʰa↓, p⁼u↓jʊŋ↓ t⁼an→ʃin→ ts`⁼a↓t⁼an↓, iɛ↓↑ p⁼u↑s`ɹ`↓ p⁼u↓jʊŋ↓ t⁼an→ʃin→ ts`⁼a↓t⁼an↓ t⁼ə t⁼i↓fɑŋ→, tʃ⁼joʊ↓s`ɹ`↓...
+./custom_character_voice/Taffy/processed_492.wav|0|wan↑ ʃin→ʃjɛn→ man↓xwa↓ t⁼ə p⁼iŋ→ k⁼wo↓tʃʰɥ↓ t⁼ə jʊŋ↓↑tʃʰi↓ t⁼weɪ↓ tʰa→ nəŋ↑ p⁼ɑŋ→ts`⁼u↓ lə tʰa→ fən→liɛ↓ tʰiŋ↑ p⁼u↓ tʰiŋ→ lə p⁼u↓ tʰiŋ→ lə p⁼u↓ tʰiŋ→ lə.
+./custom_character_voice/Taffy/processed_493.wav|0|ts`⁼ə↓p⁼jɛn→, s`ɹ`→ts`⁼ɑŋ↓↑ p⁼u↓ kʰaɪ→ tʃʰɥæn↑tʃ⁼iɑʊ↓↑, s`ɹ`→ts`⁼ɑŋ↓↑ t⁼oʊ→ kʰaɪ→ lə. p⁼a↓↑ tʰə↓p⁼iɛ↑ fən→ts`ʰəŋ↑ san→fən↓ kʰə↓↑i↓↑ ts`⁼ɹ`↓↑ kʰan↓tʰoʊ xə↑ tʃ⁼iɑʊ↓↑.
+./custom_character_voice/Taffy/processed_494.wav|0|tʰa→mən tʃʰi↑s`ɹ`↑ k⁼an↓↑tʃ⁼ɥɛ↑ nəŋ↑ tʃʰi↓↑laɪ↑ t⁼ə↑ k⁼an↓↑ʃiɛ↓, t⁼ə↑ k⁼an↓↑ʃiɛ↓ a→ts⁼ɹ↓↑.
+./custom_character_voice/Taffy/processed_495.wav|0|ts⁼ən↓↑mə ts`⁼ə↓mə t⁼wo→ ja ts⁼wo↑tʰjɛn→ p⁼u↑s`ɹ`↓ s`wo→ joʊ↓↑ts`ʰɑŋ↓↑ meɪ↓ts`⁼ɹ`→k⁼ə→ ma s`ɹ`↓ joʊ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_496.wav|0|an→ni→ ts`ʰəŋ↑ʃin↓ i→ʃja↓ tʰa→mən tʃ⁼in→tʰjɛn→ ts`⁼ə↓məwan↓↑ wan↓↑s`ɑŋ↓ xɑʊ↓↑ ma.
+./custom_character_voice/Taffy/processed_497.wav|0|joʊ↓↑ jɛn↑tʃ⁼joʊ→ t⁼jɛn↓↑ t⁼an↓mu↓ iɛ↓↑ xweɪ↓ k⁼əŋ↓tʃ⁼ja→ fəŋ→fu↓ iŋ→k⁼aɪ→ s`ɹ`↓ p⁼a.
+./custom_character_voice/Taffy/processed_498.wav|0|iŋ→k⁼aɪ→ s`ɹ`↓ tsʰʊŋ↑ na↓ s`ɹ`↑xoʊ↓ kʰaɪ→s`ɹ`↓↑ t⁼ə, tʰu→ɹ`an↑ t⁼a↓iŋ↓↑ ljoʊ↑t⁼a↓tsʰɑʊ↓↑ lwo↓ts`⁼ɹ`→neɪ↓.
+./custom_character_voice/Taffy/processed_499.wav|0|əɹ`↑ p⁼u↑s`ɹ`↓ ts`⁼ə↓li↓↑ əɹ`↑s`ɹ`↓ p⁼jɛn↓ts`ʰəŋ↑ lə ʃiɑʊ↓↑t⁼ʊŋ→ʃi→.
+./custom_character_voice/Taffy/processed_500.wav|0|tʰa→mən ts`⁼ə↓k⁼ə↓ p⁼wo→ t⁼ə s`ɹ`↓ jɛn↓ts`⁼əŋ↓ p⁼u↓ tʃʰiɑʊ↓↑miɑʊ↓ ni↓↑ iɑʊ↓ʃjɛn↓miŋ↑ fəŋ↑miɑʊ↓.
+./custom_character_voice/Taffy/processed_501.wav|0|tʃ⁼in→tʰjɛn→kʰeɪ↓eɪ→a↓tʃ⁼eɪ↓a↓ ʃiɑŋ↓↑ ts⁼wo↓ neɪ↓↑k⁼ə↓ nə, ʃiɛ↓ʃiɛ↓, tʰə↓miŋ↓ tʃʰjɛn↑i→tʰjɛn→ xɑʊ↓↑ pʰəŋ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_502.wav|0|s`ɹ`↓ tʰa→mən t⁼ə ts`⁼ən→t⁼ə tʃ⁼jɛn↓ ma? ts`⁼ən→t⁼ə tʃ⁼jɛn↓? s`ɹ`↓ s`wo→ ts`⁼ən→t⁼ə tʃ⁼jɛn↓ ma?
+./custom_character_voice/Taffy/processed_503.wav|0|tʰa→ mən k⁼an↓↑tʃ⁼ɥɛ↑ waɪ↓mjɛn↓ xaɪ↑ tʰiŋ↓↑ xɑʊ↓↑kʰan↓ t⁼ə tʰa→ mən ts⁼aɪ↓ fɑŋ↑tʃ⁼jɛn→ t⁼ə waɪ↓mjɛn↓.
+./custom_character_voice/Taffy/processed_504.wav|0|k⁼an↓↑ʃiɛ↓ k⁼wan→kʰan↓, tʃʰiŋ↓↑ t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓,  t⁼iŋ↓ɥɛ↓ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓.
+./custom_character_voice/Taffy/processed_505.wav|0|əɹ`↓ ts`⁼oʊ→njɛn↑ kʰwaɪ↓lə↓ miɑʊ→ tʃʰin→tʃʰin→ laɪ↑ laɪ↑ wa→.
+./custom_character_voice/Taffy/processed_506.wav|0|xə→ ts`⁼ə↓mə t⁼wo→tʃ⁼joʊ↓↑ p⁼u↓xɑʊ↓↑ ts`ʰu→tsʰɑʊ→ tʃ⁼i↑ tʰa→mən s`ɹ`↓ s`wo→ ni↓↑ t⁼ə s`ən→tʰi↓↑ p⁼u↓xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_507.wav|0|ə↓, tʃʰi↑ma↓↑, wo↓↑ swo↓↑joʊ↓↑ p⁼eɪ↓ na↑ʃja↓ lə ni↓↑ tʃ⁼in→tʰjɛn→ kʰan↓tʃ⁼jɛn↓ ni↓↑ ts`⁼ən→ tʃ⁼iŋ↓ɹ`an↑ tʰaɪ↓ jʊŋ↓li↓ lə, ts`⁼ɹ`↑tʃ⁼iɛ→ na↑ʃja↓.
+./custom_character_voice/Taffy/processed_508.wav|0|ts`ʰɑŋ↓ i→ts`⁼ɹ`→ t⁼weɪ↓ tsʰɑʊ↓↑meɪ↑ ts`⁼ɹ`→k⁼ə→.
+./custom_character_voice/Taffy/processed_509.wav|0|in→lə↓li↓ xən↓↑tʃʰiɑŋ↑ t⁼ə k⁼an↓↑tʃ⁼ɥɛ↑ swan↓ tʰa→mən ja.
+./custom_character_voice/Taffy/processed_510.wav|0|ts⁼aɪ↓ xwa↑t⁼iɑʊ↓ i→k⁼ən→ xwo↓↑ts`ʰaɪ↑ weɪ↓s`ən↑mə s`ɹ`↓ xwa↑ xwo↓↑ts`ʰaɪ↑ ja.
+./custom_character_voice/Taffy/processed_511.wav|0|ni↓↑mən xwan→lə↓ t⁼jɛn↓↑ t⁼ə, mən↑tʰwan↑ i↓t⁼jɛn↓↑ t⁼ə mən↑tʰwan↑ i↓t⁼jɛn↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_512.wav|0|ən↑ wo↓↑ i↓↑tʃ⁼iŋ→ maɪ↓ k⁼eɪ↓↑ p⁼u↓tʰaɪ↓xɑʊ↓↑ tʃ⁼iɛ→ lə.
+./custom_character_voice/Taffy/processed_513.wav|0|tʃ⁼ɥɛ↑t⁼ə t⁼a↓ tʃ⁼iɛ↓↑tʃ⁼iɛ↓↑ nə swən→t⁼a↓ kʰə↓↑s`ɹ`↓.
+./custom_character_voice/Taffy/processed_514.wav|0|ə↓ miɑʊ→, p⁼iɛ↑ t⁼oʊ→ ts`ʰən↑ʃja↓ la.
+./custom_character_voice/Taffy/processed_515.wav|0|ən↑…… iɑʊ↓ p⁼u↓ k⁼ɑʊ↓↑ k⁼ə↓ an↓njoʊ↓↑ s`ən↑mə t⁼ə.
+./custom_character_voice/Taffy/processed_516.wav|0|an↓ts`⁼ɑʊ↓ nin↑ t⁼ə p⁼wo↑p⁼wo↑ miŋ↑iɑʊ↓ p⁼u↓t⁼wan↓.
+./custom_character_voice/Taffy/processed_517.wav|0|əm tɹemia*.
+./custom_character_voice/Taffy/processed_518.wav|0|p⁼u↓ s`ɹ`↓↑jʊŋ↓ ts`⁼ən→ts`⁼əŋ↓ joʊ↓↑ s`ɹ`↑kʰuɑŋ↓ tʃ⁼iɑʊ→nɑŋ↑ ma.
+./custom_character_voice/Taffy/processed_519.wav|0|joʊ↓↑ kʰə↓↑nəŋ↑ ts⁼aɪ↓ ɥ↓↑jɛn↑ tsʰɹ↑ na↑ʃja↓ p⁼u↑s`ɹ`↓ ts`⁼ə↓məwan↓↑ p⁼eɪ↓ na↑ʃja↓, p⁼u↓xɑʊ↓↑ s`wo→, p⁼u↓ tʃʰɥɛ↓t⁼iŋ↓.
+./custom_character_voice/Taffy/processed_520.wav|0|t⁼oʊ→ xən↓↑ ts`⁼ʊŋ↓iɑʊ↓ t⁼oʊ→ xən↓↑ ts`⁼ʊŋ↓iɑʊ↓ ɥn↓tʃʰi↓ xə↑ ts⁼ɹ↓tʃ⁼i↓↑ ni↓↑ ts⁼ɹ↓tʃ⁼i↓↑ i→k⁼ə↓ ɹ`ən↑ s`ɑŋ↓ p⁼u↓ s`ɑŋ↓↑tʃʰɥ↓ t⁼oʊ→ xən↓↑ ts`⁼ʊŋ↓iɑʊ↓.
+./custom_character_voice/Taffy/processed_521.wav|0|wo↓↑ tʃʰjɛn→tʃʰjɛn→ ts⁼ən↓↑mə ts`⁼ɹ`→t⁼ɑʊ↓ wo↓↑ s`ɹ`↓ a→joʊ↓ljoʊ↓ i→xɑʊ↓ ʃiɑʊ↓↑xaɪ↑ts⁼ɹ sweɪ→ɹ`an↑ ʃjɛn↓ts⁼aɪ↓ t⁼ɑŋ→ts`ʰu→ s`ɹ`↓ tʰə↓p⁼iɛ↑ t⁼ə.
+./custom_character_voice/Taffy/processed_522.wav|0|joʊ↓↑ tʰu↑ljoʊ↓sweɪ↓ s`wən↓s`wən↓ pʰiŋ↑an→ miɑʊ→ ts`⁼ə↓joʊ↓↑ tʰu↑ljoʊ↓sweɪ↓ pʰjɛn↓tʰoʊ↑ tʰaɪ↓t⁼wo→ la.
+./custom_character_voice/Taffy/processed_524.wav|0|s`ən↑mə k⁼aɪ↓↑ts`ʰəŋ↑ s`ɹ`↓pʰin↑ s`ɹ`↑ts`ʰɑŋ↑ a na↓ tʰə↓p⁼iɛ↑ t⁼wan↓↑ s`ɹ`↓pʰin↑ ts⁼ən↓↑məp⁼an↓ ja.
+./custom_character_voice/Taffy/processed_525.wav|0|N↑N, sa↓ɾaba, sa↓ɾaba, sa↑ɾabasa↓ɾaba, sa↓ɾaba.
+./custom_character_voice/Taffy/processed_527.wav|0|joʊ↑ʃi↓ miŋ↑t⁼ɑŋ→ʃi↓ jɛn↓↑miŋ↑ t⁼ɑŋ→ pʰeɪ↑p⁼an↓ miŋ↑ na↓ weɪ↓s`a↑ ʃjɛn↓ts⁼aɪ↓ p⁼u↑s`ɹ`↓ joʊ↑ʃi↓ miŋ↑ nə.
+./custom_character_voice/Taffy/processed_528.wav|0|tʃ⁼in→tʰjɛn→ p⁼eɪ↓ tʃ⁼iŋ↓↑k⁼ɑʊ↓ i→tsʰɹ↓, ɹ`an↑xoʊ↓p⁼eɪ↓ la→ts`⁼a↑ i→tsʰɹ↓ ɹ`an↑xoʊ↓tʰa→ mən tʃ⁼joʊ↓ p⁼u↓tʰaɪ↓k⁼an↓↑ lu↓ ʃja↓p⁼an↓s`əŋ→ ts`ʰu→laɪ↑ lə.
+./custom_character_voice/Taffy/processed_529.wav|0|xəŋ→ ts⁼ʊŋ↓↑k⁼aɪ→ ɹ`ɑŋ↓ ʃiɑʊ↓↑meɪ↓meɪ↓ ts`ʰəŋ↑t⁼an→ tʰa→ mən ʃjɛn↓ ts⁼aɪ↓ s`weɪ↓ p⁼u↓ts`⁼u↓ xaɪ↑xweɪ↓ xə→tʃ⁼joʊ↓↑ ma.
+./custom_character_voice/Taffy/processed_530.wav|0|tʰə↓p⁼iɛ↑ joʊ↓↑ xwo↑li↓ t⁼ə k⁼an↓↑tʃ⁼ɥɛ↑ s`wo→p⁼u↓s`ɑŋ↓laɪ↑.
+./custom_character_voice/Taffy/processed_531.wav|0|ts`⁼ɹ`↓↑iɑʊ↓ ts`ʰwan→ t⁼ə↑ ʃiɑʊ↓↑ i↓t⁼jɛn↓↑ tʃ⁼joʊ↓ kʰə↓↑i↓↑, meɪ↑ na↓mə s`ɑʊ↓↑, in→weɪ↓ p⁼i↓tʃ⁼iŋ↓.
+./custom_character_voice/Taffy/processed_532.wav|0|s`a↑ t⁼oʊ→ p⁼u↓ʃiɑŋ↓↑ k⁼wan↓↑, ts`⁼ɹ`↓↑ʃiɑŋ↓↑ wan↑xwən↑ san→ t⁼ə ts`⁼uɑŋ↓tʰaɪ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_533.wav|0|ts`⁼ə↓t⁼jɛn↓↑ɛ↓↑tʃʰɥ↓tʰi↓si→ nəŋ↑ maɪ↓↑ tʰə↓p⁼iɛ↑ s`oʊ↓↑ts`⁼ʊŋ→ t⁼ə pʰiŋ↑k⁼wo↓↑ tʰiɑʊ↑ ma? p⁼u↓ʃiŋ↑ tʃ⁼joʊ↓ waɪ↓ts`⁼ɹ`↓, əɹ`↓t⁼əŋ↓↑ ts`⁼əŋ↓miŋ↑ iɑʊ↓ k⁼eɪ↓↑ ni↓↑ ja!
+./custom_character_voice/Taffy/processed_534.wav|0|kʰeɪ↓pʰi→ɛ↑o↓ t⁼ə ja→li↓ s`ən↑mə t⁼ə u↑swo↓↑weɪ↓ t⁼ə u↑swo↓↑weɪ↓ t⁼ə  meɪ↑joʊ↓↑kʰeɪ↓pʰi→ɛ↑o↓ iɑʊ→tʃʰjoʊ↑.
+./custom_character_voice/Taffy/processed_535.wav|0|t⁼əŋ↓↑ k⁼əŋ↓xɑʊ↓↑ i↓t⁼jɛn↓↑ ts⁼aɪ↓ ts`⁼an↓↑s`ɹ`↓ ʃjɛn↓ts⁼aɪ↓ nəŋ↑ kʰan↓ i→jɛn↓↑ ts⁼ɑʊ↓↑ s`ən↑məiɑŋ↓.
+./custom_character_voice/Taffy/processed_536.wav|0|na↓ iŋ→k⁼aɪ→ iɑʊ↓ k⁼ɑʊ↓↑ k⁼ə↓ kʰaɪ→k⁼wan→ tʰa→mən k⁼an↓↑tʃ⁼ɥɛ↑ xaɪ↑ tʰiŋ↓↑ ʃiɑŋ↓ t⁼ə tʃʰi↑s`ɹ`↑.
+./custom_character_voice/Taffy/processed_537.wav|0|p⁼ən↓↑tʰi↓↑ t⁼oʊ→ meɪ↑ xɑʊ↓↑, tʰə↓p⁼iɛ↑ xən↓↑man↓ na↓, tʰə↓p⁼iɛ↑ man↓k⁼ʊŋ→ ts`ʰu→tʃʰi↓, xɑʊ↓↑p⁼u↓xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_538.wav|0|a, ni↓↑ kʰə↓↑i↓↑ xu→xu→ t⁼ə tʰa→mən tʃ⁼in→tʰjɛn→ i↓↑tʃ⁼iŋ→ k⁼ən→ ni↓↑ tʃ⁼iɑŋ↓↑ lə xɑʊ↓↑t⁼wo→ tʃ⁼ɥ↓ xwa↓ lə.
+./custom_character_voice/Taffy/processed_539.wav|0|ts⁼an↑tsʰaɪ↑ iɑʊ↓ p⁼eɪ→s`ɑŋ→ i↓t⁼jɛn↓↑ wo↓↑ p⁼u↓xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_540.wav|0|p⁼iɛ↑tʃ⁼i↑ jo→ ts⁼an↑mən ʃjɛn↓ts⁼aɪ↓ iɑʊ↓ xɑʊ↓↑ lə tʰa→ meɪ↑ xɑʊ↓↑ a.
+./custom_character_voice/Taffy/processed_541.wav|0|tʰa→ mən ts`⁼ən→t⁼ə tʃʰɥ↓njɛn↑ ljoʊ↑k⁼wo↓ i→k⁼ə↓ tʃ⁼iɑʊ↓ nə ʃiɛ↓ʃiɛ↓ ɥæn↓ tʰa→ nəŋ↑naɪ↓ naɪ↓ʃiɛ↓ʃiɛ↓ ts`⁼u↓nin↑ kʰwaɪ↓lə↓ miŋ↑kʰwaɪ↓ lə↓miŋ↑.
+./custom_character_voice/Taffy/processed_542.wav|0|k⁼an↓↑kʰwaɪ↓ ʃjɛn→iŋ→fu↓ lə p⁼u↑s`ɹ`↓ iɑʊ↓ t⁼əŋ↓↑ wan↓s`əŋ↓tʃ⁼iɛ↑ ma s`ɹ`↓ iɑʊ↓ t⁼əŋ↓↑ wan↓s`əŋ↓tʃ⁼iɛ↑ meɪ↑ na↓mə kʰwaɪ↓ la.
+./custom_character_voice/Taffy/processed_543.wav|0|wo↓↑ iɛ↓↑ tʃ⁼ja↓↑ts`⁼uɑŋ→ p⁼u↓ ʃi↓↑xwan→ ni↓↑  ts`⁼ən→t⁼ə ni↓↑ ts`⁼ən→t⁼ə ʃi↓↑xwan→  tʰʊŋ↓p⁼i↓↑.
+./custom_character_voice/Taffy/processed_544.wav|0|wo↓↑san→k⁼ə↓ ɥɛ↓ lə ʃiŋ↓fu↑ s`ɹ`↓ wan↓s`əŋ↓tʃ⁼iɛ↑ ts⁼u↓↑tʃ⁼i↑ ma.
+./custom_character_voice/Taffy/processed_545.wav|0|p⁼u↑iɑʊ↓ i→tʰjɛn→ t⁼a↓↑mɑʊ↓t⁼a↑, p⁼a↓↑ tʰa→ iɛ↓↑ p⁼jɛn↓ts`ʰəŋ↑ ts`ʰu↓ tsʰɑʊ↓↑tʃ⁼i→, ɹ`an↑xoʊ↓ ɹ`ɑŋ↓ tʰa→ ts⁼ɹ↓tʃ⁼i↓↑ tʰiɑʊ↑kʰan↓↑ ts⁼ɹ↓tʃ⁼i↓↑.
+./custom_character_voice/Taffy/processed_546.wav|0|ts⁼ən↓↑məiɑŋ↓ na↓k⁼ə↓ s`ən↑mə tʃ⁼iɑʊ↓ wan↑tʃʰɥæn↑ lwan↓ xə↑ miŋ↑ts⁼ɹ↓ lwan↓kʰwaɪ↓ lə.
+./custom_character_voice/Taffy/processed_547.wav|0|na↓↑li↓↑ joʊ↓↑ u↓↑k⁼ə↓ ʃiɑʊ↓↑s`ɹ`↑  tʃ⁼joʊ↓ ts`⁼ə↓li↓↑ joʊ↓↑ u↓↑k⁼ə↓ ʃiɑʊ↓↑s`ɹ`↑ tʰə↓p⁼iɛ↑ ʃja↓ p⁼wo→fa→ i↑k⁼ə↓.
+./custom_character_voice/Taffy/processed_548.wav|0|wo↓↑ ts⁼weɪ↓tʃ⁼in↓ xaɪ↑ ts`⁼ən→s`ɹ`↓ kʰɑʊ↓↑s`ɹ`↓ ts`⁼ə ts`⁼ə↓tʰjɛn→ ts`⁼ʊŋ→ɥ↑ iɑʊ↓laɪ↑ ʃja↓ xɑʊ↓↑ tʰan↓↑p⁼wo→ mjɛn↓tʰan↓↑p⁼wo→ mjɛn↓tʰan↓↑p⁼wo→ mjɛn↓tʰan↓↑p⁼wo→mjɛn↓.
+./custom_character_voice/Taffy/processed_549.wav|0|kʰwaɪ↓ tʰɑŋ↓↑, tʰa→mən joʊ↓↑t⁼wo→tʃʰiɑŋ↑ ɹ`ən↑k⁼ə↑ a.
+./custom_character_voice/Taffy/processed_550.wav|0|swo↓↑i↓↑ ʃɥɛ↑ʃi↑ iɛ↓↑xɑʊ↓↑ t⁼ə in→weɪ↓ ʃɥɛ↑ʃi↑ tʃ⁼joʊ↓s`ɹ`↓ xən↓↑leɪ↓ ja ʃɥɛ↑ʃi↑ ja.
+./custom_character_voice/Taffy/processed_551.wav|0|nəŋ↑ i↓ts`⁼ɹ`↑ ts`⁼ə↓iɑŋ↓ p⁼ɑŋ↓↑ ts`⁼u↓ ʃja↓tʃʰɥ↓ ma? ni↓↑mən ts⁼aɪ↓ t⁼an→ʃin→ s`ən↑mə ja?
+./custom_character_voice/Taffy/processed_552.wav|0|tʰə↓p⁼iɛ↑ kʰə↓↑i↓↑ xwan↓p⁼ən↓↑ lə ma, p⁼u↓xɑʊ↓↑ a.
+./custom_character_voice/Taffy/processed_553.wav|0|ts`⁼ə↓ s`weɪ↑ nə joʊ↓ meɪ↑joʊ↓↑ weɪ↑fan↓↑ s`ən↑mə s`ən↑mə s`ən↑mə t⁼ʊŋ→ʃi→ a əɹ`↑tʃʰiɛ↓↑ iɛ↓↑ meɪ↑joʊ↓↑ iɛ↓↑ meɪ↑joʊ↓↑ s`ən↑mə ɹ`ən↑xweɪ↓ k⁼eɪ↓↑ tʰa→mən ʃja↓ s`ən↑məkʰeɪ↓pʰi→ɛ↑o↓.
+./custom_character_voice/Taffy/processed_554.wav|0|p⁼u↓ i↑t⁼iŋ↓ nəŋ↑ tʃʰi↓↑laɪ↑, fan↓↑ts`⁼əŋ↓ tʃ⁼joʊ↓s`ɹ`↓ p⁼u↓ i↑t⁼iŋ↓ nəŋ↑tʃʰi↓↑ laɪ↑ ʃiŋ↓↑ p⁼u↓laɪ↑ la.
+./custom_character_voice/Taffy/processed_555.wav|0|i→.  iɑʊ↓ xɑʊ↓↑xɑʊ↓↑ t⁼a↓↑ts`⁼ɑʊ→xu→  əɹ`↓.  tʃ⁼in↓↑liɑŋ↓ p⁼u↑iɑʊ↓ fɑŋ↓tʃʰi↓.
+./custom_character_voice/Taffy/processed_556.wav|0|p⁼u↑iɑʊ↓ p⁼u↑iɑʊ↓ a a p⁼u↑iɑʊ↓ p⁼u↑iɑʊ↓ p⁼u↑iɑʊ↓.
+./custom_character_voice/Taffy/processed_557.wav|0|laɪ↑p⁼u↓tʃ⁼i↑ t⁼oʊ→ p⁼u↑s`ɹ`↓ pʰeɪ↓in→ t⁼oʊ→ p⁼u↑s`ɹ`↓ na↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_558.wav|0|t⁼oʊ→ s`wo→ lə tʰa→ p⁼jɛn↓ts`ʰəŋ↑ a→ts`ʰə↓↑ iɑŋ↑ la a→ts`ʰə↓↑ iɑŋ↑iɑŋ↑.
+./custom_character_voice/Taffy/processed_559.wav|0|p⁼u↑iɑʊ↓ nan↑k⁼wo↓ miɑʊ→ iɑʊ↓ p⁼u↑iɑʊ↓ kʰaɪ→ʃin→ miɑʊ→.
+./custom_character_voice/Taffy/processed_560.wav|0|ts`⁼ʊŋ→wən↑ miɑʊ→ ts`⁼ʊŋ→wən↑, wo↓↑ t⁼iɑʊ↓ weɪ↓kʰoʊ↓↑, meɪ↑joʊ↓↑ t⁼iɑʊ↓ weɪ↓kʰoʊ↓↑ a.
+./custom_character_voice/Taffy/processed_562.wav|0|ən↑  ʃja↓mjɛn↓ ts`ʰwan→ s`ən↑mə  ʃja↓mjɛn↓  ʃja↓mjɛn↓ iɑʊ↓ lu↓ts`ʰu→ laɪ↑ k⁼eɪ↓↑.
+./custom_character_voice/Taffy/processed_563.wav|0|miɛ→ ʃiɛ↑ xweɪ↓ kʰaɪ↓↑ɛ↑sɹ↓tʃ⁼i↓ ʃiɑʊ↓↑ɹ`ən↑ tsʰan→tʃ⁼jɛn↓ tʰa↓↑t⁼iɛ→.
+./custom_character_voice/Taffy/processed_564.wav|0|weɪ↓s`ən↑mə p⁼u↓k⁼wo↓ iɑŋ↑tʃ⁼iɛ↓↑ iɑʊ↓ k⁼wo↓ t⁼ə xən↓↑ tʃ⁼joʊ↓↑ ts`⁼ɹ`→tʃʰjɛn↑ tʰiŋ→s`wo→ k⁼wo↓ tʰa→mən t⁼ə miŋ↑ts⁼ɹ↓ tʃʰɥɛ↓ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ s`ɹ`↓ s`weɪ↑.
+./custom_character_voice/Taffy/processed_565.wav|0|naɪ↓↑naɪ↓↑, ts`⁼ə↓liɑŋ↓↑tʰjɛn→ tʃ⁼joʊ↓ tʰiŋ↓↑ leɪ↓ t⁼ə ts⁼ən↓↑mə tʰu→ɹ`an↑ meɪ↑t⁼ʊŋ↓li↓ lə p⁼ɑʊ→kʰwo↓ ʃɥɛ↑iŋ→ɥ↓↑ iɛ↓↑ s`ɹ`↓ iɛ↓↑ meɪ↑s`ən↑mə t⁼ʊŋ↓li↓ lə.
+./custom_character_voice/Taffy/processed_566.wav|0|wo↓↑ ɥ↓tʃ⁼jɛn↓ lə ts⁼weɪ↓ aɪ↓ t⁼ə t⁼a↓tʃ⁼ja→tʰiŋ↑, xɑʊ↓↑ aɪ↓ ni↓↑ aɪ↓ mi→ ja, ʃi→uɑŋ↓ ts`⁼ə↓fən↓ aɪ↓nəŋ↑ ts`ʰɹ`↑tʃ⁼joʊ↓↑ mi→.
+./custom_character_voice/Taffy/processed_567.wav|0|meɪ↑joʊ↓↑ meɪ↑ joʊ↓↑ meɪ↑ joʊ↓↑ meɪ↑ joʊ↓↑ meɪ↑ joʊ↓↑ meɪ↑ joʊ↓↑ ə↓ k⁼u→ meɪ↑ joʊ↓↑ ə↓ k⁼u→ tʰa→mən iɑʊ↓ ts`⁼u↓ts`⁼ʊŋ↓ s`ən→tʰi↓↑ tʃ⁼jɛn↓kʰɑŋ→ tʰa→mən xən↓↑ ts`⁼u↓ts`⁼ʊŋ↓ s`ən→tʰi↓↑ tʃ⁼jɛn↓kʰɑŋ→ t⁼ə p⁼u↓xweɪ↓ ə↓ t⁼ə.
+./custom_character_voice/Taffy/processed_568.wav|0|tʰa→mən joʊ↓↑ joʊ↑ʃi↓ s`ɹ`↑kʰuɑŋ→ ma? joʊ↓↑ t⁼ə miɑʊ→ in→weɪ↓ joʊ↑ʃi↓ s`ɹ`↑kʰuɑŋ→.
+./custom_character_voice/Taffy/processed_569.wav|0|i↓↑xoʊ↓ ts`ʰʊŋ↑ʃin→ t⁼iŋ↓ɥɛ↓ t⁼ə na↓k⁼ə↓ kʰə↓↑i↓↑ o↑  ʃin→ t⁼iŋ↓ɥɛ↓ li↓↑mjɛn↓.
+./custom_character_voice/Taffy/processed_570.wav|0|amina* amina*.
+./custom_character_voice/Taffy/processed_571.wav|0|wo↓↑ ts`ʰʊŋ↑ʃin→ ts`⁼ɑʊ↓↑t⁼ɑʊ↓ ts`ʰɑŋ↓↑tʃ⁼ja→ k⁼eɪ↓↑ tʰu↓↑t⁼oʊ↓ tʃ⁼i→ kʰan↓ i→jɛn↓↑.
+./custom_character_voice/Taffy/processed_572.wav|0|ən↑ ən↑ ni↓↑ t⁼ɑŋ→s`ɹ`↑ xən↓↑ tʃʰi↑k⁼waɪ↓ ts⁼ən↓↑mə na↑ ts`⁼ə i→t⁼weɪ→ p⁼aɪ↑ts`⁼ɹ`↓↑ wo↓↑ t⁼ɑŋ→s`ɹ`↑ tʰə↓p⁼iɛ↑ ʃja↓i→tʰiɑʊ↓ t⁼ɑŋ→s`ɹ`↑.
+./custom_character_voice/Taffy/processed_573.wav|0|tʰa→ na↓k⁼ə↓ kʰoʊ↓↑ʃiŋ↑ t⁼weɪ↓p⁼u↓s`ɑŋ↓ tʰa→mən xaɪ↑iɑʊ↓ ʃjoʊ→ i→ʃja↓ iɑʊ↓ ʃjoʊ→fu↓ i→ʃja↓.
+./custom_character_voice/Taffy/processed_574.wav|0|ən↑, p⁼u↑iɑʊ↓ ts⁼aɪ↓ s`u↓s`ɑŋ↓ ts`⁼ə↓p⁼jɛn→ lu↓ts`ʰu→ laɪ↑ tʃ⁼joʊ↓ʃiŋ↑lə s`ɑŋ↓p⁼an↓s`ən→ xən↓↑ ts`⁼əŋ↓ts`ʰɑŋ↑.
+./custom_character_voice/Taffy/processed_575.wav|0|tʃ⁼in→tʰjɛn→ ts`ʰɑʊ→maɪ↓↑ xʊŋ↑mɑʊ↑ jɛn↓↑ niɛ↓ niɛ↓ niɛ↓, tʰa→mən aɪ↓ ts⁼wan→ tʃ⁼in→kʰwaɪ↓ t⁼ə, wo↓↑ s`ən→tʰi↓↑ ts⁼wo↓↑s`oʊ↓↑ s`wa→ t⁼ə tʃ⁼in→ɥ↑, wo↓↑ t⁼ə kʰʊŋ→tʃʰi↓ iɑʊ↓ p⁼eɪ↓ tʃʰiɑŋ↓↑ wan↑ lə.
+./custom_character_voice/Taffy/processed_576.wav|0|tʰa↓↑tʰa↓↑ ts`⁼ə↓jʊŋ↓ tʃ⁼jɛn↓s`u↓ xɑʊ↓↑nan↑ ʃiɛ↓↑.
+./custom_character_voice/Taffy/processed_577.wav|0|p⁼iŋ→ʃiɑŋ→ li↓↑ ts`⁼ɹ`↓↑joʊ↓↑ na↓ts`⁼ʊŋ↓↑ t⁼u↓↑ts⁼ɹ p⁼i↓↑tʃ⁼iɑʊ↓ t⁼i→ t⁼ə tʃ⁼joʊ↓↑, xɑʊ↓↑ ʃiɑŋ↓↑ xə→ ja.
+./custom_character_voice/Taffy/processed_578.wav|0|ts⁼aɪ↓ ts⁼wo↓ meɪ↓↑məŋ↓ ən↑.
+./custom_character_voice/Taffy/processed_579.wav|0|tʰa→mən i↓↑xoʊ↓ s`ɹ`↓pʰin↑ p⁼wo→fɑŋ↓ iɛ↓↑ iɑʊ↓ k⁼aɪ↓↑ts`ʰəŋ↑ s`ɹ`↓pʰin↑ s`ɹ`↑ts`ʰɑŋ↑ lə ni↓↑ iɑʊ↓ xən↓↑kʰwaɪ↓ s`wa→ tʰa→mən t⁼an→ tʃʰɥ↓↑mjɛn↓.
+./custom_character_voice/Taffy/processed_580.wav|0|xɑʊ↓↑ʃiɑŋ↓ p⁼an↓njɛn↑ xɑʊ↓↑ɥæn↓↑ ən↑ t⁼an↓s`ɹ`↓ iɑʊ↓ p⁼an↓njɛn↑  in→weɪ↓.
+./custom_character_voice/Taffy/processed_581.wav|0|ʃjɛn↓ts⁼aɪ↓ t⁼wan↓↑ s`ɹ`↓pʰin↑ p⁼i↓↑tʃ⁼iɑʊ↓ t⁼wo→ əɹ`↑tʃʰiɛ↓↑ iɛ↓↑xɑʊ↓↑ ts⁼wo↓ joʊ↓ xɑʊ↓↑ ts⁼wo↓ joʊ↓ p⁼wo→fɑŋ↓ liɑŋ↓ k⁼ɑʊ→ swo↓↑i↓↑ t⁼oʊ→ s`ɹ`↓ t⁼wan↓↑ s`ɹ`↓pʰin↑ ts⁼weɪ↓tʃ⁼in↓.
+./custom_character_voice/Taffy/processed_582.wav|0|ts`⁼ɹ`→leɪ↓ t⁼ə p⁼a wo↓↑ tʰə↓p⁼iɛ↑ ts`⁼ɹ`↓↑nəŋ↑ ʃiɑŋ↓↑t⁼ɑʊ↓ ts`⁼ə↓ts`⁼ʊŋ↓↑ in→weɪ↓ tʰu↓↑tsʰɑʊ↑tʃ⁼i→.
+./custom_character_voice/Taffy/processed_583.wav|0|ts`⁼ən→ts`⁼əŋ↓ t⁼ə ts`ʰu→ ts`ʰa↓tʃ⁼in↓ mi→ ts`⁼ən→ts`⁼əŋ↓ t⁼ə ts`ʰu→ ts`ʰa↓tʃ⁼in↓.
+./custom_character_voice/Taffy/processed_584.wav|0|meɪ↑joʊ↓↑, tʰa→mən tʃ⁼in→tʰjɛn→ wan↑ ts`⁼ə↓mə ljoʊ↑ts`ʰɑŋ↓.
+./custom_character_voice/Taffy/processed_585.wav|0|in→weɪ↓ p⁼u↓ t⁼a↓↑joʊ↑ʃi↓ lə, t⁼a↓↑ nə, t⁼a↓↑ nə, tʃ⁼joʊ↓ ts⁼weɪ↓tʃ⁼in↓ ts⁼ʊŋ↓↑s`ɹ`↓ fan↓kʰwən↓.
+./custom_character_voice/Taffy/processed_586.wav|0|kʰə↓↑ tʰa→mən p⁼u↑s`ɹ`↓ s`ə↓tʃ⁼jɛn↓ a.
+./custom_character_voice/Taffy/processed_587.wav|0|ən↑, ʃiɑʊ↓↑t⁼ʊŋ→ʃi→, tʃ⁼iɑŋ↓↑ t⁼ɑʊ↓ na↓↑əɹ`↑? t⁼weɪ↓, tʰa→mən s`wo→ i↓↑weɪ↑ s`ɹ`↓ ts`⁼oʊ→u↓↑, swo↓↑i↓↑ fa→lə ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ s`ɹ`↓pʰin↑.
+./custom_character_voice/Taffy/processed_588.wav|0|ts`⁼ə↓ʃiɛ→ ts`⁼əŋ↓ts`ʰɑŋ↑ i↓t⁼jɛn↓↑ ts`⁼ə↓ʃiɛ→ ts`⁼əŋ↓ts`ʰɑŋ↑ i↓t⁼jɛn↓↑ meɪ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_589.wav|0|ni↓↑ weɪ↓ s`ən↑mə nə? p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ a ɥæn↑laɪ↑ s`ɹ`↓ ts`⁼oʊ→sɹ↓ a.
+./custom_character_voice/Taffy/processed_590.wav|0|tʃ⁼jɛn↓↑t⁼ɑʊ→ t⁼oʊ→ p⁼u↓k⁼an↓↑ s`wo→xwa↓ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ s`wo→ s`ən↑mə xa→ p⁼u↑s`ɹ`↓ s`wa→t⁼a↓ lə tʃʰiɑʊ→ jɛn→ t⁼ə tʃʰjɛn→pʰjɛn↓ ma s`ən↑mə tʃʰiɑʊ→jɛn→ t⁼ə tʃʰjɛn→pʰjɛn↓ s`ɹ`↓p⁼u↑s`ɹ`↓ na↓k⁼ə↓ p⁼u↑iɑʊ↓ tʃʰiɑʊ→jɛn→ lə iɑʊ↓ tʃʰiɑʊ→ tʃ⁼joʊ↓ tʃʰiɑʊ→tʰi↓oʊ→ɛ↑mu↓ɛ↑mu↓waɪ↓ t⁼ə pʰi↓k⁼u↓↑.
+./custom_character_voice/Taffy/processed_591.wav|0|joʊ↓↑ ts`ʰɑʊ→meɪ↓↑li↓ san→t⁼i↓ nɥ↓↑ts`⁼u↓↑tʃ⁼ɥɛ↑ ts`⁼ən→ tʰə↓p⁼iɛ↑ miɑʊ↓ tʰjɛn→tsʰaɪ↑ miɑʊ↓.
+./custom_character_voice/Taffy/processed_592.wav|0|t⁼ʊŋ↓xwa↓ kʰə↓↑i↓↑ a, t⁼ʊŋ↓xwa↓ s`ɹ`↓ xən↓↑ kʰə↓↑i↓↑ a, tʰə↓p⁼iɛ↑ tʰiŋ↓↑ ʃi↓↑xwan→ ts`⁼ə↓ts`⁼ʊŋ↓↑ fəŋ→k⁼ə↑ t⁼ə.
+./custom_character_voice/Taffy/processed_593.wav|0|tʰə↓miŋ↓ t⁼ə t⁼wan↓↑ s`ɹ`↓pʰin↑ s`ɹ`↑t⁼aɪ↓, tʰə↓miŋ↓ t⁼ə t⁼wan↓↑ s`ɹ`↓pʰin↑ s`ɹ`↑t⁼aɪ↓ meɪ↑joʊ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_594.wav|0|in→weɪ↓ ɥæn↓uɑŋ↓ p⁼u↓ i↑t⁼iŋ↓ s`ɹ`↓ iɑʊ↓ s`ɹ`↑ʃjɛn↓ t⁼ə.
+./custom_character_voice/Taffy/processed_595.wav|0|pʰu↓↑tʰʊŋ→ t⁼ə tʰu↓↑t⁼oʊ↓ni↑ s`ɹ`↓ s`ən↑mə ts`⁼ʊŋ↓↑ fɑŋ↓tʃ⁼ja↓?
+./custom_character_voice/Taffy/processed_596.wav|0|meɪ↓↑k⁼ə↓ ɹ`ən↑ ʃi↓↑xwan→ t⁼ə t⁼oʊ→ p⁼u↓ i→iɑŋ↓ ma s`ɹ`↑tʃ⁼i↓s`ɑŋ↓ tʰə↓p⁼iɛ↑ ʃi↓↑xwan→ ɥæn↑tʃʰi↓ i↓t⁼jɛn↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_598.wav|0|tʰa→mən tʃ⁼joʊ↓ xweɪ↓ fu↓t⁼u↑ fu↓t⁼u↑ ts`⁼ə↓ʃiɛ→ t⁼wan↓ts⁼ɹ.
+./custom_character_voice/Taffy/processed_599.wav|0|ts`⁼ən→ts`⁼əŋ↓ s`ɹ`↓ ni↓↑ ts`⁼ə↓k⁼ə↓ aɪ↓ʃja↓ ni↓↑ ɹ`ən↑ tʃ⁼joʊ↓ xweɪ↓ p⁼jɛn↓ts`ʰəŋ↑ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ lə aɪ→ p⁼u↓xɑʊ↓↑ tʰa→mən t⁼ə fɑŋ↑tʃ⁼jɛn→ meɪ↑joʊ↓↑ tʃ⁼iŋ↓ts⁼ɹ.
+./custom_character_voice/Taffy/processed_600.wav|0|ən↑, tʰaɪ↓kʰwən↓ lə tʃ⁼in→tʰjɛn→ ʃiɑŋ↓↑ pʰaɪ→a↓ən→tʰi↓ pʰjɛn↓laɪ↑ ts`⁼ə↓ʃiɛ→.
+./custom_character_voice/Taffy/processed_601.wav|0|xə↑ k⁼əŋ↓ t⁼wo→ t⁼ə ts`⁼ʊŋ→njɛn↑ s`ɹ`↑ts`⁼oʊ→njɛn↑ sʊŋ↓ts`ʰwan↑ in↓ xa→xa→.
+./custom_character_voice/Taffy/processed_602.wav|0|tʰaɪ↓ts`ʰoʊ↓↑ lə tʰiŋ→ i↓t⁼jɛn↓↑ t⁼a↑ t⁼a↑.
+./custom_character_voice/Taffy/processed_603.wav|0|k⁼eɪ↓↑k⁼eɪ↓↑ tʰa→ ts`ʰwan→ s`ɑŋ↓.
+./custom_character_voice/Taffy/processed_604.wav|0|aɪ→jo→ la miɑʊ→ jʊŋ↓↑tʃʰɥæn↑ joʊ↓sweɪ↓ ts`ʰɹ`→ tʰa→mən t⁼ə p⁼ɑŋ↓p⁼ɑŋ↓ pʰiŋ↑k⁼wo↓↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_605.wav|0|t⁼a↓xweɪ↓ɥæn↑ meɪ↓↑ɥɛ↓ u↓↑ɥæn↑ kʰə↓↑t⁼a↓xweɪ↓ɥæn↑ t⁼ə tʃʰjɛn↑ p⁼u↓ iɛ↓↑ s`ɹ`↓.
+./custom_character_voice/Taffy/processed_606.wav|0|t⁼oʊ→ s`ɹ`↓ tʰə↓miŋ↓ iɑʊ↓ t⁼ə ts`⁼ə↓p⁼jɛn→ xweɪ↑tʰoʊ↑ tʰə↓miŋ↓ ʃiɑŋ↓↑ tʃ⁼ja↓s`ɑŋ↓ k⁼aɪ↓↑ t⁼jɛn↓↑ p⁼iɛ↑t⁼ə.
+./custom_character_voice/Taffy/processed_607.wav|0|a→i↑ ni↓↑ t⁼ə ɥ↓↑ljoʊ↑ t⁼oʊ→ ts`ʰəŋ↑ wən↓tʰi↑ a  t⁼an↓s`ɹ`↓ tʰa→ p⁼i↓↑ɹ`weɪ↓tʃʰi↑ xən↓↑ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_608.wav|0|xeɪ→xeɪ→ xeɪ→xeɪ→ wo↓↑ tʃ⁼joʊ↓ ʃi↓↑xwan→ pʰi→ tʃ⁼ɥ↑ts⁼ɹ.
+./custom_character_voice/Taffy/processed_609.wav|0|na↓ ts⁼ən↓↑mə iɑʊ↓ ts`ʰʊŋ↑ʃin→ t⁼əŋ→lu↓ nə?
+./custom_character_voice/Taffy/processed_610.wav|0|nəŋ↑ kʰan↓kʰan↓ pʰi↓mjɛn↓ ma? kʰan↓ s`ən↑mə pʰi↓mjɛn↓? tʰa→mən ts`⁼ən→t⁼ə.
+./custom_character_voice/Taffy/processed_611.wav|0|xɑʊ↓↑ʃiɑŋ↓ ts`⁼ə↓t⁼weɪ↓ s`ɹ`↓ na↓ts`⁼ʊŋ↓↑ ts`⁼wan→mən↑ maɪ↓ in→s`əŋ→ t⁼ə uɑŋ↓↑ts`⁼an↓, iɛ↓↑ p⁼u↓ ts`ʰoʊ→ts`ʰəŋ↑ t⁼ə.
+./custom_character_voice/Taffy/processed_612.wav|0|xaɪ↑tʃ⁼i↓ t⁼ə↑iɑŋ↑tsʰʊŋ→ ts⁼ən↓↑mə pʰin→ ma ts`⁼ɹ`→t⁼ɑʊ↓oʊ→ pʰi→ aɪ↓ oʊ→ pʰi→.
+./custom_character_voice/Taffy/processed_613.wav|0|tʃʰiŋ↓↑ wən↓tʃ⁼iɑʊ↓jʊŋ↓ p⁼u↓k⁼wan↓ ts`ʰu→ ʃiɑʊ↓↑tʃ⁼iɛ↓↑ xweɪ↓ p⁼u↓xweɪ↓jʊŋ↓ mjɛn↑xwa→ tʰɑŋ↑ xən↓↑ tʃ⁼jɛn↓↑t⁼an→ t⁼ə ʃiɛ↓↑ wan↑ kʰan↓t⁼ɑʊ↓ an↓njoʊ↓↑.
+./custom_character_voice/Taffy/processed_614.wav|0|tʃ⁼iɑʊ↓ ts`⁼ə wo↓↑ lɑʊ↓↑pʰwo↑ t⁼a↓tʰoʊ↑ i→kʰoʊ↓↑ mwo↓ ts`ʰɑʊ→tʃ⁼i↑ ʃi↓↑xwan→ ts`⁼ə↓k⁼ə↓ fən→weɪ↑ xən↓↑ xeɪ→man↓ t⁼ə.
+./custom_character_voice/Taffy/processed_615.wav|0|tʰa→mən iɑʊ↓ ljoʊ→ la tʰa→mən iɑʊ↓ ljoʊ→ la, tʰa→mən tʃ⁼in→tʰjɛn→ i↓↑tʃ⁼iŋ→ p⁼wo→ lə u↓↑k⁼ə↓ ʃiɑʊ↓↑s`ɹ`↑ la.
+./custom_character_voice/Taffy/processed_616.wav|0|wan↑ t⁼ə kʰə↓↑ tʰaɪ↓xɑʊ↓↑lə  na↓ ni↓↑ ts⁼wo↓ p⁼a kʰan↓ na↓k⁼ə↓ mwo↑ʃiŋ↑ xən↓↑s`waɪ↓ a ʃiɑʊ↓↑ feɪ→nəŋ↑ na↑k⁼ə↓ p⁼eɪ↓mjɛn↓ tʰu↑ ma.
+./custom_character_voice/Taffy/processed_617.wav|0|o↑ʃiɾi↓jamija ʃi↑ɾi↓jamija ɯ↓ɯ.
+./custom_character_voice/Taffy/processed_618.wav|0|ən↑, ts`⁼ə↓ tʃ⁼joʊ↓s`ɹ`↓ tʰa→mən ʃjɛn↓ts⁼aɪ↓ t⁼ə fɑŋ↑tʃ⁼jɛn→.
+./custom_character_voice/Taffy/processed_620.wav|0|p⁼aɪ↓p⁼aɪ↓ miɑʊ→  p⁼aɪ↓p⁼aɪ↓ miɑʊ→ oʊ↓↑ʃiɑŋ↓ mɑʊ→əɹ`↓↑tʃ⁼i→ i↓↑tʃ⁼iŋ→ meɪ↑ joʊ↓↑ lə ma tʃʰi↑s`ɹ`↑ s`ɹ`↓ joʊ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_621.wav|0|p⁼u↓ɹ`an↑ iɛ↓↑ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ fa→lə t⁼jɛn↓↑ s`ən↑mə.
+./custom_character_voice/Taffy/processed_622.wav|0|liɑŋ↓↑ njɛn↑tʃʰjɛn↑ ts`ʰa↓p⁼u↓t⁼wo→ s`ɹ`↓ ts`⁼ə↓k⁼ə↓ s`ɹ`↑xoʊ↓ p⁼a tʰa→ s`ɹ`↓ s`wa→ s`ɹ`↓pʰin↑, ɹ`an↑xoʊ↓tʃʰɥ↓ t⁼ɑʊ↓s`weɪ↓↑ xaɪ↑s`ɹ`↓ ts⁼ən↓↑məiɑŋ↓, p⁼u↓ ʃiɑʊ↓↑ʃin→ ts⁼ɹ↓t⁼ʊŋ↓ ljɛn↑lwo↓ t⁼ɑʊ↓ tʰə↓miŋ↓ t⁼ə s`ɹ`↓pʰin↑.
+./custom_character_voice/Taffy/processed_623.wav|0|ts⁼an↑mən tʃ⁼in→wan↓↑ p⁼u↓ t⁼əŋ↓↑ tʃ⁼i↓↑njɛn↑.
+./custom_character_voice/Taffy/processed_624.wav|0|k⁼wo↓tʃ⁼iɛ↑ t⁼wo→ kʰaɪ→ʃin→ ja  k⁼wo↓tʃ⁼iɛ↑ t⁼ə fən→weɪ↑.
+./custom_character_voice/Taffy/processed_625.wav|0|ɹ`an↑xoʊ↓tʃ⁼joʊ↓ nəŋ↑ t⁼ə↑t⁼ɑʊ↓ lə xaɪ↑nəŋ↑ kʰan↓ tʃ⁼jɛn↓xoʊ↓nɑʊ↓↑ s`ɑʊ↑.
+./custom_character_voice/Taffy/processed_626.wav|0|tʰa→mən ʃiɑŋ↓↑ ts`ʰɹ`→xwo↓↑k⁼wo→ a tsʰaɪ↑ p⁼a→t⁼jɛn↓↑  tsʰaɪ↑ p⁼a→t⁼jɛn↓↑.
+./custom_character_voice/Taffy/processed_627.wav|0|p⁼u↓ t⁼weɪ↓ p⁼u↓ t⁼weɪ↓ i↓p⁼aɪ↓↑ wan↓joʊ↓↑ ts`ʰɑʊ→ meɪ↓↑t⁼ə tʃ⁼ja→tʰiŋ↑ ma meɪ↑ joʊ↓↑ t⁼ə tʰa→mən s`ɹ`↓ əɹ`↓tsʰɹ↓ɥæn↑.
+./custom_character_voice/Taffy/processed_628.wav|0|ts`⁼ə↓s`ɹ`↓ s`ɹ`↑p⁼a→ tʃ⁼iŋ→ma xɑʊ↓↑ʃiɑŋ↓ fan↓↑ts`⁼əŋ↓ ts`⁼ə↓s`ɹ`↓ su↓ts⁼ɑʊ↓ t⁼ə t⁼ʊŋ→ʃi→.
+./custom_character_voice/Taffy/processed_629.wav|0|joʊ↓↑t⁼jɛn↓↑ ʃiɑŋ↓↑ tʃʰɥæn↑s`ɹ`↓ tʃʰiŋ→wa→ t⁼ə tsʰwo↓ tʃ⁼in→tʰjɛn→ tʃ⁼joʊ↓ k⁼ən→ tʃʰiŋ→wa→ k⁼wo↓p⁼u↓tʃʰɥ↓ lə.
+./custom_character_voice/Taffy/processed_630.wav|0|əɹ`↓ i↑niɑŋ↑ ts⁼aɪ↓ ʃiɑŋ↓↑ k⁼ɑʊ↓↑tʃʰjɛn↑.
+./custom_character_voice/Taffy/processed_631.wav|0|xwo↓ts`⁼ə↓↑ ɹ`ən↓ts`⁼ən→ ts`ʰʊŋ→ s`əŋ↑ xən↓↑s`ɑʊ↓↑, tʰa→mən p⁼u↓ tʰaɪ↓ liɑʊ↓↑tʃ⁼iɛ↓↑ kʰə↓↑nəŋ↑ kʰə↓↑nəŋ↑ xweɪ↓ li↓↑tʃ⁼iɛ↓↑ tsʰwo↓ a.
+./custom_character_voice/Taffy/processed_632.wav|0|tʃʰi↑s`ɹ`↑ tʰa→ p⁼i↓↑ i→kʰaɪ→s`ɹ`↓↑ p⁼u↓ts`⁼ɑŋ↓↑ ts`⁼ə↓iɑŋ↓.
+./custom_character_voice/Taffy/processed_633.wav|0|pʰi→t⁼u↑ t⁼ə s`ɹ`↑xoʊ↓, tʰa→mən k⁼ɑʊ↓↑ lə xɑʊ↓↑t⁼wo→xɑʊ↓↑t⁼wo→ t⁼ʊŋ↓ts⁼wo↓, t⁼an↓ tʃʰi↑s`ɹ`↑ tʰa→mən.
+./custom_character_voice/Taffy/processed_634.wav|0|ʃiɑŋ↓↑ kʰan↓ tsʰʊŋ→miŋ↑ i↓p⁼aɪ↓↑wan↓ ʃiŋ→ʃiŋ→ ts`⁼ɹ`↑p⁼wo→? kʰan↓, kʰan↓!
+./custom_character_voice/Taffy/processed_635.wav|0|ts`⁼ə↓ s`oʊ↓↑fa↓↑ meɪ↑k⁼aɪ↓↑ xɑʊ↓↑, iŋ→k⁼aɪ→ s`ɹ`↓ ni↓↑ an↓waɪ↓i↓ɛ↑sɹ↓, ni↓↑ tʃ⁼joʊ↓ p⁼jɛn↓ts`ʰəŋ↑ s`ən↑mə mwo↑ʃiŋ↑ na↓? t⁼ɑʊ↓s`ɹ`↑xoʊ↓ fan↓↑ts`⁼əŋ↓ xweɪ↓ k⁼aɪ↓↑ts`ʰəŋ↑ ts`⁼ə↓iɑŋ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_636.wav|0|ɥæn↑p⁼ən↓↑ wo↓↑ xaɪ↑tʃ⁼i↓ t⁼ə↑ wo↓↑ kʰan↓ lə tʃ⁼i↓↑tʃ⁼i↑ xaɪ↑meɪ↑kʰan↓ nə tsʰaɪ↑ ts`⁼ə↓liɑŋ↓↑tʃ⁼i↑.
+./custom_character_voice/Taffy/processed_637.wav|0|ts⁼aɪ↓ xaɪ↓↑ts⁼aɪ→p⁼jɛn→, aɪ↓ʃin→ jɛn↓↑, aɪ↓ʃin→ jɛn↓↑, k⁼ən→ ts`ʰu→ts`ʰɑŋ↓↑ tʃ⁼i→.
+./custom_character_voice/Taffy/processed_638.wav|0|ts⁼weɪ↓tʃ⁼in↓ joʊ↓↑ɛ↑sɹ↓ tʃʰi→ t⁼əɛ↑sɹ↓ tʃʰi→ tʰan↓↑p⁼aɪ↑s`wo→p⁼i↓tʃ⁼i↓ɛ↑mu↓ s`ɹ`↓ s`ən↑mə k⁼ə→ nə.
+./custom_character_voice/Taffy/processed_639.wav|0|in→weɪ↓ mi↑ an↓xweɪ↓ xɑʊ↓↑ʃjɛn↓↑ xən↓↑t⁼wo→ sweɪ→ɹ`an↑ xaɪ↑s`ɹ`↓ joʊ↓↑t⁼jɛn↓↑ k⁼weɪ↓↑xwa↓fu↑ miɑʊ↑ tʰa→ p⁼u↓miɛ↓.
+./custom_character_voice/Taffy/processed_640.wav|0|an↓ts⁼an↓  t⁼jɛn↓↑ kʰwaɪ↓lə↓  miɑʊ→ s`wo→ts`ʰu→ tʃ⁼ɥ↓ xwa↓ xaɪ↑ weɪ↓ k⁼eɪ↓↑ ni↓↑ p⁼ɑʊ↓mi↓↑ p⁼u↓kʰə↓↑sɹ→i↓  miɑʊ→.
+./custom_character_voice/Taffy/processed_641.wav|0|ən↑ ts⁼ən↓↑mə tʰu→ɹ`an↑ joʊ↓ ʃiɑŋ↓↑ʃɥɛ↑ iɛ↓ɥ↑ lə tʃʰjɛn↑ tʃ⁼i↓↑tʰjɛn→ p⁼u↓ tʃ⁼joʊ↓ ts⁼aɪ↓ ʃɥɛ↑ ma ɹ`an↑xoʊ↓ ts`⁼ə↓ liɑŋ↓↑tʰjɛn→ tʃ⁼joʊ↓ p⁼u↓ʃɥɛ↑ lə.
+./custom_character_voice/Taffy/processed_642.wav|0|ʃiɑŋ↓↑ p⁼u↓ ts`ʰu→laɪ↑.
+./custom_character_voice/Taffy/processed_643.wav|0|ʃiɑŋ→jɛn→ ts`ʰɑŋ↓t⁼a↓ u↑s`u↓, ɹ`ə↓tʃ⁼joʊ↓↑ xə→ t⁼ɑʊ↓ ʃiɑŋ↓↑ tʰu↓↑, p⁼u↓nəŋ↑ ɹ`ə↓tʃ⁼joʊ↓↑ xə→ t⁼ɑʊ↓ ʃiɑŋ↓↑ tʰu↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_644.wav|0|ən↑ tʰu→ɹ`an↑ an↓ lə  a  t⁼an→ts`ʰwən↑ s`ɹ`↓ tʰa→mən xaɪ↑tʃ⁼ɥɛ↑ t⁼ə↑ s`ɹ`↓.
+./custom_character_voice/Taffy/processed_645.wav|0|xaɪ↑joʊ↓↑ u↓↑t⁼ʊŋ↓ t⁼ə xweɪ↓ɥæn↑ xaɪ↑joʊ↓↑ ts`⁼ən→t⁼ə t⁼ʊŋ↓ t⁼ə xweɪ↓ɥæn↑ xɑʊ↓↑ʃiɑŋ↓ ts`⁼ɹ`↓↑ wan↑ lə liɑŋ↓↑tʰjɛn→.
+./custom_character_voice/Taffy/processed_646.wav|0|ʃjɛn↓ts⁼aɪ↓ ts`⁼ə↓iɑŋ↓ iɛ↓↑ tʰiŋ↓↑ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_647.wav|0|ts⁼ən↓↑mə t⁼oʊ→ s`ɹ`↓ p⁼eɪ↓s`ɑŋ↓ t⁼ə p⁼iŋ→tʃʰi↑lin↑ a p⁼u↑iɑʊ↓.
+./custom_character_voice/Taffy/processed_648.wav|0|t⁼oʊ→ s`ɹ`↓ wo↓↑ t⁼ə miŋ↑əɹ`↑ xə↑ t⁼a↓iɛ↑ swan↓s`ɹ`↓ joʊ↓↑ tʃ⁼i↓↑k⁼ə↓ t⁼a↓ts⁼ɹ↓.
+./custom_character_voice/Taffy/processed_649.wav|0|s`ɹ`↑tʃ⁼i↓s`ɑŋ↓ i→ts`⁼oʊ→ t⁼wo→, s`ɹ`↑tʰjɛn→ ts⁼wo↓↑joʊ↓ miɑʊ→ na↓ xwan↑tʃ⁼ja↓ xɑʊ↓↑ xɑʊ↓↑wan↑ a!
+./custom_character_voice/Taffy/processed_650.wav|0|xɑʊ↓↑ʃiɑŋ↓ na↑ t⁼ə t⁼oʊ→ tʰiŋ↓↑ ts`ʰən↑wən↓↑ t⁼ə a ts`ʰəŋ↑s`u↑ wən↓↑ts`⁼ʊŋ↓.
+./custom_character_voice/Taffy/processed_651.wav|0|k⁼ə↑ɹ`ɹ`↓ p⁼i↓s`u→ xɑʊ↓↑ ts`ʰəŋ↑tʃ⁼i→ miɑʊ→ tʃ⁼in→tʰjɛn→ s`ɹ`↓kʰeɪ↓joʊ→eɪ→a↓kʰeɪ↓ əɹ`↓p⁼aɪ↓↑san→s`ɹ`↑ san→ t⁼ə joʊ↑ʃi↓.
+./custom_character_voice/Taffy/processed_652.wav|0|t⁼ɑʊ↓t⁼i↓↑ s`ɹ`↓foʊ↓↑ ts`⁼əŋ↓t⁼u↓ ts`ʰu→t⁼u↓ t⁼ə.
+./custom_character_voice/Taffy/processed_653.wav|0|ni↓↑ tʃ⁼iɑŋ↓↑k⁼wo↓ lə miɑʊ→ miɑʊ→ tʰa→ meɪ↑tʃ⁼jɛn↓ xɑʊ↓↑ts`ʰoʊ↓↑ ma→tʃʰɥ↓ miɑʊ→ miɑʊ→.
+./custom_character_voice/Taffy/processed_654.wav|0|ts`⁼ə↓p⁼jɛn→ p⁼u↑s`ɹ`↓ miɑʊ→ ts`⁼ə↓p⁼jɛn→ p⁼u↑s`ɹ`↓ miɑʊ→ tʃ⁼in→tʰjɛn→ kʰʊŋ→t⁼iɑʊ↓tʃ⁼iɛ↑ ɑʊ↓t⁼a↓iɛ↑ na↓ʃiɛ→ k⁼əŋ↓ p⁼eɪ→s`ɑŋ→ t⁼ə ts⁼weɪ↓ p⁼eɪ→s`ɑŋ→ i→ʃiɛ→.
+./custom_character_voice/Taffy/processed_655.wav|0|ən↑, p⁼i↑ʃjɛn↓ s`ɑʊ↓↑ p⁼u↓xɑʊ↓↑ ən↑, wo↓↑ p⁼u↓ ts`⁼an→ts`⁼ə wan↑.
+./custom_character_voice/Taffy/processed_656.wav|0|joʊ↓↑tʃʰjoʊ↑ iɑʊ↓ swan↓ ts`ʰɹ`→ p⁼ɑŋ↓p⁼ɑŋ↓ pʰiŋ↑k⁼wo↓↑ tʰɑŋ↑ miɑʊ→ ʃiɛ↓ʃiɛ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_657.wav|0|p⁼u↓tʃ⁼jɛn↓ t⁼ə↑ tsʰʊŋ↑ na↓↑tʃ⁼jɛn↓ ts`⁼ɹ`→waɪ↓ t⁼ə p⁼u↓tʃ⁼jɛn↓ t⁼ə↑ tsʰʊŋ↑ na↓↑tʃ⁼jɛn↓ ts`⁼ɹ`→waɪ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_658.wav|0|ʃiɑŋ↓↑ p⁼u↓ ts`ʰu→laɪ↑.
+./custom_character_voice/Taffy/processed_659.wav|0|fu↑li↓ ɥæn↑tʃ⁼iŋ↓↑pʰaɪ↓ lə i↓tʃʰi↓↑ i→iɑŋ↓.
+./custom_character_voice/Taffy/processed_660.wav|0|s`ɹ`↓↑jʊŋ↓ t⁼ə pʰin↑lɥ↓ iɛ↓↑ p⁼u↓ k⁼ɑʊ→ tʃ⁼joʊ↓ meɪ↑ joʊ↓↑ k⁼ɑʊ→ xən↓↑t⁼wo→ miɑʊ↓↑.
+./custom_character_voice/Taffy/processed_661.wav|0|i↑k⁼ə↓ ɹ`ən↑ t⁼ʊŋ↓↑ i↑k⁼ə↓ t⁼ʊŋ→ʃi→, ɹ`an↑xoʊ↓ tʃʰɥæn↑ k⁼ɑʊ↓su↓ tʰa→mən, tʰa→mən tʃ⁼joʊ↓ tʃʰɥæn↑ t⁼ʊŋ↓↑ lə.
+./custom_character_voice/Taffy/processed_662.wav|0|tʃʰi↑s`ɹ`↑ s`wo→ t⁼ɑʊ↓ ts`⁼ə↓k⁼ə↓ pʰi→pʰiŋ↑, tʰa→mən t⁼ɑʊ↓ s`ɹ`↓ kʰə↓↑i↓↑ k⁼eɪ↓↑ni↓↑mən tʰiŋ→ i→ʃja↓ na↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_663.wav|0|tʰa→mən xweɪ↓ p⁼u↑xweɪ↓ s`ɹ`↓ k⁼ɑŋ→k⁼ɑŋ→ ts`ʰwan→ts`⁼ə jʊŋ↓↑ts`⁼uɑŋ→, ɹ`an↑xoʊ↓ ts⁼aɪ↓ xaɪ↓↑tʰan→ p⁼jɛn→ na↓iɑŋ↓.
+./custom_character_voice/Taffy/processed_664.wav|0|p⁼u↑iɑʊ↓ tʃ⁼iŋ↓tʃ⁼i↓ joʊ↑ʃi↓  p⁼u↑xweɪ↓ wan↑ tʃ⁼iŋ↓tʃ⁼i↓ joʊ↑ʃi↓ wo↓↑ meɪ↓↑tʰjɛn→ t⁼oʊ→ xweɪ↓ ts⁼aɪ↓ məŋ↓li↓↑ t⁼u↓k⁼wo↓ t⁼ə.
+./custom_character_voice/Taffy/processed_665.wav|0|ts⁼ʊŋ↓↑ ts`⁼ɹ`→ mwo↓miŋ↑tʃʰi↑miɑʊ↓ ɥn↓ʃiŋ↑xweɪ↓ xən↓↑ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_666.wav|0|tʃʰɥɛ↓ meɪ↑s`wa→ lɑʊ↓↑ ts`⁼ɹ`→tʃʰjɛn↑ nəŋ↑ kʰan↓kʰan↓ tʰə↓p⁼iɛ↑ t⁼ə iɑŋ↓ts⁼ɹ ma kʰə↓↑s`ɹ`↓ tʰə↓p⁼iɛ↑ s`ɹ`↓ əɹ`↓tsʰɹ↓ jɛn↓↑.
+./custom_character_voice/Taffy/processed_667.wav|0|ʃiɑŋ↓↑ p⁼u↓ ts`ʰu→laɪ↑ p⁼ɑŋ→ tʰa→ na↑ i→tʃ⁼jɛn↓ kʰə↓↑aɪ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_668.wav|0|sɯ*↑ko↓ʃina, sɯ*↑ko↓ʃina, a↓nn^a, a↓nn^a, a↓nn^a.
+./custom_character_voice/Taffy/processed_669.wav|0|xən↓↑tʃ⁼joʊ↓↑meɪ↑ joʊ↓↑ k⁼wan→ts`⁼ʊŋ↓ tsʰan→ɥ↓ xweɪ↓ lə tʰə↓p⁼iɛ↑ ts⁼ən↓↑mə xaɪ↑ k⁼an↓↑tʃ⁼ɥɛ↑ k⁼ɑŋ→ t⁼a↓↑k⁼wo↓ ma↑tʃ⁼iɑŋ→ s`ən↑mə t⁼ə nə.
+./custom_character_voice/Taffy/processed_670.wav|0|t⁼əŋ↓↑ k⁼ə↓ ʃiŋ→tʃʰi→, p⁼u↑iɑʊ↓ ljɛn↑ ts`⁼ə ljɛn↑ ts`⁼ə wan↑ ts`⁼ə↓mətʃ⁼joʊ↓↑.
+./custom_character_voice/Taffy/processed_671.wav|0|kʰan↓ p⁼iɛ↑ɹ`ən↑ wan↑ ʃiɑʊ↓↑ t⁼ə ts`⁼ə↓ pʰaɪ↑liɛ↓ t⁼jɛn↓↑t⁼jɛn↓↑ t⁼jɛn↓↑ kʰə↓↑i↓↑ pʰiŋ↑pʰiŋ↑ p⁼iɛ↑ɹ`ən↑ wan↑tʃ⁼ja→ xweɪ↑tʰoʊ↑tʰi↓i↓ɛ↑sɹ↓tʰi↓ i→ʃja↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_672.wav|0|xaɪ↑joʊ↓↑ ts⁼ɹ↓tʃ⁼i↓↑ t⁼ə na↓k⁼ə↓ oʊ↓↑ʃiɑŋ↓ fu↑ xɑʊ↓↑ʃiɑŋ↓ s`ɹ`↓ tʰa→ miŋ↓miŋ↑ joʊ↓↑p⁼i↓joʊ→tʃ⁼i↓.
+./custom_character_voice/Taffy/processed_673.wav|0|ts⁼aɪ↓ p⁼an↓njɛn↑ meɪ↑ kʰan↓k⁼wo↓ na↓p⁼jɛn→ t⁼ə jɛn↑sə↓ s`u↓ lə ə↓......
+./custom_character_voice/Taffy/processed_674.wav|0|p⁼u↓ t⁼weɪ↓.
+./custom_character_voice/Taffy/processed_675.wav|0|ʃiɛ↓ʃiɛ↓ k⁼wan→s`ɑŋ↓↑ ts`⁼ɹ`→ts`ʰɹ`↑ wo↓↑ t⁼ə pʰin↑t⁼ɑʊ↓, p⁼iŋ↓tʃʰiɛ↓↑ p⁼iɛ↑ uɑŋ↓ lə t⁼jɛn↓↑ts⁼an↓, t⁼iŋ↓ɥɛ↓, kʰaɪ→tʃʰi↓↑ ʃiɑʊ↓↑liŋ↑t⁼ɑŋ→!
+./custom_character_voice/Taffy/processed_676.wav|0|a? tʰə↓miŋ↓ p⁼u↑s`ɹ`↓ s`wo→ i↓p⁼aɪ↓↑wan↓ i↓ ts`⁼ɑŋ↓mu↓ tʃ⁼iɛ↑s`u↓ lə ma?
+./custom_character_voice/Taffy/processed_677.wav|0|ɯ↑ɯ↓N.
+./custom_character_voice/Taffy/processed_678.wav|0|fən→p⁼jɛn↓ ni↓↑ miŋ↑tʰjɛn→ liɑŋ↓↑k⁼ə↓ xweɪ↓, t⁼aɪ↓ jɛn↑sə↓ liŋ↑ts`ʰən↑ u↓↑t⁼jɛn↓↑ tʃʰi↓↑laɪ↑, xə↑ mwo↑ s`wa↓↑ kʰwaɪ↓ əɹ`↓ ts`⁼oʊ→njɛn↑ s`ɹ`↓foʊ↓↑ joʊ↓↑t⁼jɛn↓↑ mwo↑tʃ⁼i→ lə?
+./custom_character_voice/Taffy/processed_679.wav|0|t⁼an↓ tʰa→mən iɑʊ↓ ʃiɑŋ↓↑, iɑʊ↓s`ɹ`↓ tʰu→ɹ`an↑ p⁼eɪ↓ la→ts`⁼a↑ lə ts⁼ən↓↑məp⁼an↓.
+./custom_character_voice/Taffy/processed_680.wav|0|ən↑ ts`⁼ən→t⁼ə p⁼u↓ liɑʊ↓↑tʃ⁼iɛ↓↑ lə p⁼u↓ liɑʊ↓↑tʃ⁼iɛ↓↑ a.
+./custom_character_voice/Taffy/processed_681.wav|0|xaɪ↑ ʃiɑŋ↓↑ p⁼aɪ↓↑t⁼jɛn↓↑ t⁼ʊŋ→ʃi→  tsʰʊŋ↑ ts⁼ɑʊ↓↑tʃʰjɛn↑ s`ɹ`↓p⁼u↑s`ɹ`↓ tʃ⁼ɥɛ↑t⁼ə ts`⁼ə↓k⁼ə↓ joʊ↓↑t⁼jɛn↓↑ an↓ ja.
+./custom_character_voice/Taffy/processed_682.wav|0|ni↓↑ p⁼u↓xweɪ↓ ts⁼ɹ↓tʃ⁼i↓↑ san→- i→i→ k⁼ə↓ pʰjɛn→tʰoʊ↑ ma  xaɪ↑iɑʊ↓ ni↓↑ tʰa↓↑ tʃ⁼iɛ↑tʃʰin→ ts⁼ɹ↓k⁼eɪ↓↑ ni↓↑ lu↓.
+./custom_character_voice/Taffy/processed_683.wav|0|tʰə↓p⁼iɛ↑ ɥn↓tʃʰi↓ ts`⁼ən→t⁼ə xɑʊ↓↑xɑʊ↓↑ tʰə↓p⁼iɛ↑ ts⁼ʊŋ↓↑ k⁼an↓↑tʃ⁼ɥɛ↑.
+./custom_character_voice/Taffy/processed_684.wav|0|joʊ↓↑ t⁼ə p⁼aɪ↓p⁼aɪ↓ miɑʊ→ p⁼aɪ↓p⁼aɪ↓ miɑʊ→ p⁼aɪ↓p⁼aɪ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_685.wav|0|ʃin→njɛn↑ oʊ↓↑ʃiɑŋ↓ tʰə↓fa→ s`ɹ`↑, jʊŋ↓↑ts`⁼u→tʰa↓↑meɪ↑, jʊŋ↓↑ts`⁼u→tʰa↓↑meɪ↑ t⁼i↓ljoʊ↓miŋ↑.
+./custom_character_voice/Taffy/processed_686.wav|0|ən↑, joʊ↓↑ niɑʊ↓↑ aɪ→, p⁼u↓xɑʊ↓↑, ts`⁼ə↓s`ɹ`↓ lwo↑nɥ↓↑.
+./custom_character_voice/Taffy/processed_687.wav|0|wo↓↑ tʰə↓t⁼i↓ tʰweɪ→ wan↓↑s`ɑŋ↓ t⁼ə mi↑ sweɪ↑s`ɹ`↑ joʊ↓↑ iŋ↑iɛ↓ ɹ`ə↓tʃʰiŋ↑.
+./custom_character_voice/Taffy/processed_688.wav|0|tʰu↓↑tsʰɑʊ↑tʃ⁼i→ xaɪ↑nəŋ↑ ts⁼aɪ↓ ts`⁼ə↓p⁼jɛn→ ʃɥæn↓↑ts⁼ə↑ aɪ→ja→ p⁼u↓ p⁼u↓ p⁼u↓ p⁼u↓ p⁼u↓ p⁼u↓ ən↑.
+./custom_character_voice/Taffy/processed_689.wav|0|xə→xə→ ʃiɛ↓ʃiɛ↓  tʃ⁼iɛ↓↑tʃ⁼iɛ↓↑ xɑʊ↓↑ leɪ  ʃiɛ↓ʃiɛ↓ wo↓↑mən ʃiɑʊ↓↑t⁼oʊ↓ k⁼ə→ t⁼ə meɪ↓↑k⁼ə↓ pʰiŋ↑fan↑ t⁼ə ɹ`ɹ`↓ts`ʰɑŋ↑.
+./custom_character_voice/Taffy/processed_690.wav|0|nəŋ↑ p⁼u↓nəŋ↑ p⁼a↓↑ k⁼ʊŋ→tʃ⁼i→ʃiŋ↓ ts⁼weɪ↓tʃʰiɑŋ↑ t⁼ə ɹ`ən↑ k⁼eɪ↓↑ na↑ ts`ʰu→laɪ↑ p⁼u↓xɑʊ↓↑ lə  p⁼u↓xɑʊ↓↑ lə.
+./custom_character_voice/Taffy/processed_692.wav|0|tʰoʊ↑s`ɑŋ↓ ts⁼aɪ↓ tʰɑŋ↓ k⁼ə↓ p⁼wo→ts⁼ɹ p⁼wo→ts⁼, p⁼u↑iɑʊ↓ p⁼u↑iɑʊ↓ t⁼əŋ↓↑tʰoʊ↑ fa↓ p⁼u↓p⁼jɛn↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_693.wav|0|ɛ↑sɹ↓ tʃʰi→fa→ p⁼u↓ ts`ʰu→laɪ↑, ts⁼ən↓↑mə s`u→ts`ʰu→ ts`⁼ə↓mə jɛn↑ ts⁼ən↓↑mə na↓mə kʰaɪ→ʃin→ əɹ`↑tʃʰiɛ↓↑ k⁼ɑŋ→k⁼ɑŋ→ na↓k⁼ə↓ɛ↑sɹ↓ tʃʰi→ kʰaɪ→ʃin→ tʰə↓p⁼iɛ↑ p⁼ɑʊ↓t⁼a↓tʃ⁼iŋ↓ ts`ʰu→laɪ↑ lə.
+./custom_character_voice/Taffy/processed_694.wav|0|ən↑ ən↑ ən↑ ən↑ ən↑ ən↑ ən↑ ən↑ ən↑ ən↑ ən↑ ən↑ ən↑.
+./custom_character_voice/Taffy/processed_695.wav|0|ts`ʰu→ njɛn↑ts`ʰu→ k⁼ɑʊ→xɑʊ↓↑ ts`ʰəŋ↑tʃ⁼i→ ts⁼ən↓↑məiɑŋ↓? ən↑.
+./custom_character_voice/Taffy/processed_696.wav|0|tʰa→mən t⁼ə k⁼an↓↑tʃ⁼ɥɛ↑ xaɪ↑xɑʊ↓↑ ma? iɛ↓↑ meɪ↑joʊ↓↑ na↓mə an↓ a.
+./custom_character_voice/Taffy/processed_697.wav|0|wan↑ ts`⁼ə↓iɑŋ↓ t⁼wo→ kʰə↓↑i↓↑ ma ts`ʰoʊ→jɛn→ xə→tʃ⁼joʊ↓↑ t⁼a↓↑pʰaɪ↑ s`ən↑mə ts`⁼ʊŋ→ lɑʊ↓↑njɛn↑tʃʰi→ pʰaɪ↑fɑŋ→.
+./custom_character_voice/Taffy/processed_698.wav|0|ɹ`an↑xoʊ↓ xə→ʃja↓tʃʰɥ↓ xaɪ↑ tʰiŋ↓↑ s`uɑŋ↓↑ t⁼ə a p⁼u↓xɑʊ↓↑ ts`ʰu→ nɑʊ↓↑tʃ⁼in→ p⁼iɛ↑tʃ⁼i↓↑ tʃ⁼iŋ↓↑k⁼ɑʊ↓.
+./custom_character_voice/Taffy/processed_699.wav|0|k⁼ɑŋ→k⁼ɑŋ→ nəŋ↑ kʰan↓t⁼ɑʊ↓ t⁼ə iɑʊ↓↑ tʃ⁼i↓↑ʃja↓  ts⁼ən↓↑mə ʃjɛn↓ts⁼aɪ↓ kʰan↓p⁼u↑tʃ⁼jɛn↓  iɑʊ↓↑t⁼ə↑ p⁼u↓k⁼oʊ↓ li↓xaɪ↓.
+./custom_character_voice/Taffy/processed_700.wav|0|s`wa→s`wa→ s`oʊ↓↑iɛ↓ p⁼eɪ↓ tʰweɪ→t⁼ɑʊ↓ t⁼ə tʃʰjɛn→pʰjɛn↓ ma wan↓↑s`ɑŋ↓ joʊ↓↑ ɹ`ə↓s`weɪ↓↑ tʃ⁼in↓ts`⁼u↓↑p⁼wo→ ma.
+./custom_character_voice/Taffy/processed_701.wav|0|ʃiɛ↓ʃiɛ↓ ni↓↑ nəŋ↑k⁼oʊ↓ ts`ʰu→ʃjɛn↓ ts⁼aɪ↓ wo↓↑mən t⁼ə s`əŋ→xwo↑ ts`⁼ʊŋ→ i↑ i↑ i↑ i↑ ʃi→uɑŋ↓ i↓↑xoʊ↓ meɪ↓↑tsʰɹ↓ nɥ↓↑uɑŋ↑ t⁼oʊ→ nəŋ↑ xə↑ tʰə↓mi→ xaɪ↑joʊ↓↑ ts`ʰʊŋ→sa→t⁼i↑mən i↓tʃʰi↓↑ t⁼u↓k⁼wo↓ ən↑.
+./custom_character_voice/Taffy/processed_702.wav|0|na↓ ni↓↑ tsʰaɪ↑nəŋ↑ ts`ʰəŋ↑tʃ⁼i→ iɛ↓↑ kʰə↓↑i↓↑ p⁼a↓↑ xwa↓xwa↓ xə↑ in→lə↓ t⁼ɑŋ→ts⁼wo↓ ʃiŋ↓tʃʰɥ↓ aɪ↓.
+./custom_character_voice/Taffy/processed_703.wav|0|tʰə↓mi↓↑ ʃiɑŋ↓↑ ts`ʰɹ`→ la↓ t⁼ə tʰə↓mi↓↑ ʃiɑŋ↓↑iɑʊ↓ i↓t⁼jɛn↓↑ tsʰɹ↓tʃ⁼i→ mi→ ja.
+./custom_character_voice/Taffy/processed_704.wav|0|ts`⁼ə↓p⁼jɛn→ kʰan↓kʰan↓ p⁼i↓li→ p⁼i↓li→ soʊ→swo↓↑ tʃ⁼i↓lu↓ ts⁼ən↓↑mə kʰan↓ ts`⁼u↓ ni↓↑ p⁼i↓li→ p⁼i↓ soʊ→swo↓↑ tʃ⁼i↓lu↓.
+./custom_character_voice/Taffy/processed_705.wav|0|wa↑ɾamjaNNwaɾamja.
+./custom_character_voice/Taffy/processed_706.wav|0|ts`⁼ə↓s`ɹ`↓ tʰa→mən k⁼ʊŋ→tʃ⁼ja→ ts`⁼ɹ`→ts`ʰəŋ↑ maɪ↓↑ t⁼ə kʰə↓↑nəŋ↑ k⁼ən→ tʰa→mən fɑŋ↑tʃ⁼jɛn→ joʊ↓↑t⁼jɛn↓↑ k⁼ə↑k⁼ə↑p⁼u↓ɹ`u↓ t⁼an↓s`ɹ`↓ tʰa→mən.
+./custom_character_voice/Taffy/processed_707.wav|0|wo↓↑ tʃʰjɛn→wan↓ ts⁼a↓↑ tʃ⁼joʊ↓ miɑʊ↑ p⁼u↓ts`⁼wən↓↑ ən↑.
+./custom_character_voice/Taffy/processed_708.wav|0|na↓ kʰə↓↑i↓↑ fa→ joʊ↑ʃi↓ s`ɹ`↑kʰuɑŋ↓ lə fa→ joʊ↑ʃi↓ s`ɹ`↓pʰin↑ ja.
+./custom_character_voice/Taffy/processed_709.wav|0|ts`ʰɑŋ↑ laɪ↑ kʰan↓kʰan↓ tʰan↓ mi↓mi↓ a tʃ⁼in→tʰjɛn→ s`ɹ`↓p⁼u↑s`ɹ`↓ p⁼eɪ↓ tʃ⁼iŋ↓↑k⁼ɑʊ↓ k⁼wo↓ ən↑.
+./custom_character_voice/Taffy/processed_710.wav|0|wo↓↑ t⁼oʊ→ tʃʰɥ↓ p⁼an→ t⁼ʊŋ→ʃi→ t⁼oʊ→ s`ɹ`↓ ʃiɑʊ↓↑ feɪ→t⁼an↓ a.
+./custom_character_voice/Taffy/processed_711.wav|0|tʃʰi↑s`ɹ`↑ tʰu↓↑ɹ`ɑŋ↓↑ ts`⁼ʊŋ→ t⁼ə p⁼iŋ↓  p⁼ɑʊ↓miŋ↑ ʃiɑʊ↓↑xa→  tʃ⁼i→ɹ`oʊ↓ aɪ↓ɹ`ən↑  tʃ⁼in→tʰjɛn→ nəŋ↑ kʰaɪ→ʃin→ ma  ts⁼aɪ↓tʃ⁼jɛn↓ la  ʃiɛ↓ʃiɛ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_712.wav|0|ˈəˈhə.
+./custom_character_voice/Taffy/processed_713.wav|0|tʰə↓p⁼iɛ↑ s`ɹ`↓ ts`⁼əŋ↓ nəŋ↑liɑŋ↓ t⁼a↓s`ɹ`→  na↓ kʰən↓↑t⁼iŋ↓ iɑʊ↓ ts`⁼əŋ↓ nəŋ↑liɑŋ↓ iɑʊ↓ ts`⁼əŋ↓ nəŋ↑liɑŋ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_714.wav|0|ni↓↑ tʃ⁼ɥɛ↑t⁼ə↑ na↓ s`ɹ`↑xoʊ↓ tʰɑŋ→p⁼i↓↑ iɛ↓↑ xən↓↑t⁼a↓? na↓s`ɹ`↑xoʊ↓ p⁼u↓t⁼a↓ p⁼a? na↓s`ɹ`↑xoʊ↓ k⁼ən→ əɹ`↓s`ɹ`↑ wan↓fən↓↑ iŋ→k⁼aɪ→.
+./custom_character_voice/Taffy/processed_715.wav|0|nəŋ↑ ts`ʰɹ`→ ma? ts`⁼ə↓iɛ↓↑ p⁼u↓xɑʊ↓↑ s`wo→ p⁼a, kʰə↓↑nəŋ↑ tʰweɪ→s`ɑŋ↓ laɪ↑ ts⁼aɪ↓ tʃʰiɛ→pʰjɛn↓ s`ɹ`↓ xɑʊ↓↑s`ɹ`↓.
+./custom_character_voice/Taffy/processed_716.wav|0|kʰoʊ↓↑ k⁼ən→ an↓njoʊ↓↑ kʰə↓↑i↓↑ t⁼iɑʊ↓tʃ⁼iɛ↑ liɑŋ↓↑t⁼u↓ t⁼ə t⁼i↓p⁼an↓↑ xweɪ↓fɑŋ↓mu↓ ts`⁼ə↓ t⁼i↓p⁼an↓↑ ma? kʰə↓↑ tʰə↓t⁼i↓ p⁼ən↓↑laɪ↑ tʃ⁼joʊ↓s`ɹ`↓ ts`⁼ə↓ts`⁼ʊŋ↓↑ t⁼i↓p⁼an↓↑.
+./custom_character_voice/Taffy/processed_717.wav|0|kʰan↓ i→ʃja↓ t⁼wan→tʃʰjɛn↓ t⁼ə tʃ⁼in↓t⁼u↓ ts`⁼u↑ ts`⁼u↑ ni↓↑ t⁼ʊŋ↓↑ ɹ`ɹ`↓wən↑ a tʰa→ p⁼eɪ↓ ni↓↑ s`wo→ xwa↓k⁼eɪ↓↑ wo↓↑mən ni↓↑ t⁼ə fɑŋ↑tʃ⁼jɛn→ nə.
+./custom_character_voice/Taffy/processed_718.wav|0|tʃ⁼iŋ→ts`ʰɑŋ↑ kʰan↓ t⁼oʊ↓↑in→ ma ʃiɑŋ↓↑ kʰan↓t⁼ʊŋ↓xwa↓ ma.
+./custom_character_voice/Taffy/processed_719.wav|0|mi→ mi→mi→ tʰa→mən ts`⁼ə↓tsʰɹ↓ t⁼ɑʊ↓ meɪ↑joʊ↓↑ ts`⁼uɑŋ→ xən↓↑t⁼wo→.
+./custom_character_voice/Taffy/processed_720.wav|0|ən↑  wən↓tʰi↑ ʃiŋ↓ fa→jɛn↑  p⁼ɑʊ↓ts`⁼a↓ t⁼ə fa→jɛn↑  ts⁼aɪ↓ ts`⁼ɹ`↑p⁼wo→tʃ⁼jɛn→ t⁼ə fa→jɛn↑ t⁼oʊ→ p⁼u↓xɑʊ↓↑ lə.
+./custom_character_voice/Taffy/processed_721.wav|0|s`ən↑mə t⁼wan↓ ts⁼ʊŋ↓↑ tʃ⁼jɛn↓↑t⁼an→ tʰan↓↑tʃ⁼jɛn→, tʰaɪ↓ ʃi↓↑xwan→ lə, p⁼u↓, tʰa→mən t⁼ʊŋ↓↑t⁼ə xən↓↑s`ɑʊ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_722.wav|0|xwən↑ san→ wan↑wan↑ ts`⁼ɹ`→tʃʰjɛn↑ s`ɹ`↓ i↑k⁼ə↓ ɹ`ən↑ s`ɹ`↓ i↑k⁼ə↓ na↓ts`⁼ʊŋ↓↑ ts`⁼uɑŋ↓tʰaɪ↓ s`a↑ t⁼oʊ→ p⁼u↓ʃiɑŋ↓↑ k⁼an↓, ts`⁼ɹ`↓↑ʃiɑŋ↓↑ wan↑xwən↑ san→ t⁼ə ts`⁼uɑŋ↓tʰaɪ↓.
+./custom_character_voice/Taffy/processed_723.wav|0|sweɪ↑tʃ⁼i→, p⁼u↓wan↑ ja ts`⁼ə↓k⁼ə↓ ts`⁼ə↓s`ɹ`↓ tʰə↓miŋ↓ t⁼əɛ↑sɹ↓oʊ→ɛ↑o↓oʊ→ la.
+./custom_character_voice/Taffy/processed_724.wav|0|ts`⁼ə↓ p⁼u↓xɑʊ↓↑ tsʰɑʊ→ts⁼wo↓, na↑ s`u↓↑p⁼iɑʊ→ iɑʊ↓s`ɹ`↓ jʊŋ↓mi↑an↓ t⁼əxwa↓, ni↓↑ ts⁼ən↓↑mə na↑ ts`⁼ə ts`⁼ə↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_725.wav|0|ən↑ ɹ`ən↑tʃ⁼ja→ xɑʊ↓↑miɑʊ↓.
+./custom_character_voice/Taffy/processed_726.wav|0|ʃiɛ↓ʃiɛ↓ tʰa→mən xaɪ↑laɪ↑ p⁼ɑŋ→ miɑʊ→ miɑʊ→ t⁼ə ts`⁼ɹ`→ts`ʰɹ`↑ tʰə↓p⁼iɛ↑ ʃiɛ↓ʃiɛ↓ kʰə↓↑ aɪ↓ miɑʊ→ ən↑, kʰə↓↑aɪ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_727.wav|0|joʊ↓↑ t⁼ə ɹ`ən↑ ʃi↓↑xwan→ na↓ts`⁼ʊŋ↓↑ ts⁼ən↓↑mə s`wo→ fan↓↑ts`⁼əŋ↓ meɪ↓↑k⁼ə↓ ɹ`ən↑ ʃi↓↑xwan→ t⁼ə tʃʰiŋ↑ʃiŋ↑ p⁼u↓ i→iɑŋ↓.
+./custom_character_voice/Taffy/processed_728.wav|0|soʊ→swo↓↑ tʃ⁼i↓lu↓ meɪ↑ ts`⁼ɑʊ↓↑ s`ən↑mə k⁼waɪ↓ t⁼ʊŋ→ʃi→ ma.
+./custom_character_voice/Taffy/processed_729.wav|0|ts`⁼ə↓ɹ`ən↑ ɥ↓↑ t⁼ʊŋ↓u↓ tʃ⁼iɛ↑s`u↓  t⁼an↓ ts`⁼ɹ`→xoʊ↓ iŋ→k⁼aɪ→ iɛ↓↑ p⁼u↑xweɪ↓ joʊ↓↑ s`ən↑mə tʃʰɥ→p⁼iɛ↑.
+./custom_character_voice/Taffy/processed_730.wav|0|na↓... na↓ts`⁼ʊŋ↓↑ k⁼an↓↑tʃ⁼ɥɛ↑ ən↑... fan↓↑ts`⁼əŋ↓ ts`⁼ə↓ts`⁼ʊŋ↓↑ k⁼an↓↑tʃ⁼ɥɛ↑ joʊ↓↑ i→ts`⁼ʊŋ↓↑ fu↑li↓.
+./custom_character_voice/Taffy/processed_731.wav|0|xaɪ↑nəŋ↑ p⁼ɑʊ↓ ʃiɑʊ↓↑ ə↓ɥ↑ ma? xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_732.wav|0|ts`⁼ən→t⁼ə kʰə↓↑i↓↑ t⁼ɑʊ↓ tʃ⁼joʊ↓↑, tʰa→mən tʃ⁼ja→ tʃ⁼in↓ts`ʰəŋ↑ maɪ↓↑ t⁼ə, xaɪ↑ nəŋ↑ xə→tʃ⁼joʊ↓↑.
+./custom_character_voice/Taffy/processed_733.wav|0|ts`⁼ə↓ʃiɛ→ iɛ→ts⁼, ts`⁼ə↓ʃiɛ→ iɛ→ts⁼, ts`⁼ə↓ t⁼oʊ→ s`ɹ`↓ tʰa→mən ʃi↓↑xwan→ t⁼ə.
+./custom_character_voice/Taffy/processed_734.wav|0|feɪ→ʃi↓↑xwan→ nɥ↓↑ xə↑ ts`ʰəŋ↑weɪ↓ tsʰʊŋ↑ na↓↑ njɛn↑ s`əŋ→wan↑ ts`⁼ə↓p⁼eɪ↓ts⁼ɹ ts⁼weɪ↓ kʰaɪ→ʃin→ ts⁼weɪ↓ ʃiŋ↓fu↑ t⁼ə s`ɹ`↓.
+./custom_character_voice/Taffy/processed_735.wav|0|ʃjɛn↓ts⁼aɪ↓ ts`ʰa↓t⁼jɛn↓↑ p⁼u↓tʃ⁼jɛn↓, ʃjɛn→ k⁼ɑʊ↓i↑t⁼wan↓lwo↓ lə, ʃiɛ↓ʃiɛ↓ ʃiɛ↓ʃiɛ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_736.wav|0|p⁼ən↓↑tʰi↓↑ t⁼oʊ→ meɪ↑ joʊ↓↑ ts⁼wo↓xɑʊ↓↑ p⁼ən↓↑tʰi↓↑ iɑʊ↓ əɹ`↓tʃʰjɛn→ liŋ↑ əɹ`↓s`ɹ`↑u↓↑njɛn↑ xoʊ↓ p⁼iɛ↑ tʃ⁼i↑p⁼iɛ↑ tʃ⁼i↑.
+./custom_character_voice/Taffy/processed_737.wav|0|ən↑, xa→xa→, pʰiŋ↑k⁼wo↓↑ tʰɑŋ→meɪ↑joʊ↓↑ lə, wo↓↑ maɪ↓k⁼eɪ↓↑ ni↓↑ ts`ʰʊŋ→ tʰɑŋ→tʃʰɥ↓ la.
+./custom_character_voice/Taffy/processed_738.wav|0|t⁼əŋ↓↑ ni↓↑ s`ən↑mə s`ɹ`↑xoʊ↓ kʰaɪ→ aaa.
+./custom_character_voice/Taffy/processed_739.wav|0|ə↓ tʃʰi↓↑ t⁼ə↑ tʰaɪ↓wan↓↑ t⁼əxwa↓  k⁼an↓↑tʃ⁼ɥɛ↑ s`ɑʊ↓↑ iɑʊ↓s`ɹ`↓ tʃʰi↓↑t⁼ə↑ ts⁼ɑʊ↓↑ t⁼əxwa↓  ts⁼ʊŋ↓↑ k⁼an↓↑tʃ⁼ɥɛ↑ ʃja↓u↓↑ nəŋ↑p⁼wo→  wan↓↑s`ɑŋ↓ iɛ↓↑ nəŋ↑p⁼wo→.
+./custom_character_voice/Taffy/processed_740.wav|0|ən↑ tʰa→mən joʊ↓↑ meɪ↑ joʊ↓↑ meɪ↓li↓ t⁼ə xwa↓ p⁼u↓xweɪ↓ tʰiŋ→ts`ʰəŋ↑ ts`⁼ə↓mə t⁼wo→ ɹ`ən↑ t⁼ə.
+./custom_character_voice/Taffy/processed_741.wav|0|tʃ⁼in→ts`ʰan↑ ts`⁼ə↓ s`ən↑mə tʃ⁼in→ts`ʰan↑ s`ən↑mə ts`⁼ɹ`→ tʃ⁼in→ts`ʰan↑ ts⁼ən↓↑mə tʃʰi↓↑ ja.
+./custom_character_voice/Taffy/processed_742.wav|0|tʃʰi→tʃʰjɛn→ əɹ`↓p⁼aɪ↓↑ əɹ`↓s`ɹ`↑əɹ`↓  ɥɛ↓xaɪ↓↑ʃja↑ fəŋ→ t⁼ə t⁼jɛn↓tʰaɪ↑  ʃin→ʃjɛn→ miɑʊ→  ʃin→ʃjɛn→tʃʰi↓↑ tʃ⁼i→ t⁼an↓  fəŋ→kʰuɑŋ↑ ʃin→t⁼ʊŋ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_743.wav|0|k⁼wo↓ts`⁼ən↓ts⁼ɹ p⁼a tʰa→mən ts⁼weɪ↓tʃ⁼in↓ p⁼u↓ʃiɑŋ↓↑ kʰaɪ→mi↓↑ja↓ lə tʃ⁼iɛ↓ t⁼iɑʊ↓ lə.
+./custom_character_voice/Taffy/processed_744.wav|0|wən↓ p⁼u↓ tʃʰiŋ↓↑wən↓ i→ʃja↓ s`ən↑mə s`əŋ→in→ p⁼iɛ↑tʃ⁼i↓↑ niɛ→ p⁼iɛ↑tʃ⁼i↓↑ niɛ→.
+./custom_character_voice/Taffy/processed_745.wav|0|wo↓↑ tʃ⁼in→tʰjɛn→ i→tʰjɛn→ t⁼ə ɹ`ən↓u↓swan↓ wan↑ts`ʰəŋ↑ lə, wan↓↑an→ miɑʊ→, xu→xu→ miɑʊ→.
+./custom_character_voice/Taffy/processed_746.wav|0|tʰə↓p⁼iɛ↑ ɹ`ɑŋ↓ ts`⁼oʊ→njɛn↑ kʰwaɪ↓lə↓, ʃi→uɑŋ↓ ts⁼aɪ↓tʃ⁼jɛn↓ ts⁼aɪ↓tʃ⁼jɛn↓ weɪ↓s`ən↑mə na↑k⁼ə↓ ma↓↑tʰʊŋ↓↑ swan→ts⁼ɹ ʃjɛn↓ts⁼aɪ↓ meɪ↑joʊ↓↑ lə, maɪ↓ k⁼eɪ↓↑ ts`ʰu→ts`ʰɑŋ↓↑ tʃ⁼i→lə, ma↓↑tʰʊŋ↓↑ swan→ts⁼ɹ.
+./custom_character_voice/Taffy/processed_747.wav|0|t⁼əŋ↓↑ ni↓↑ nəŋ↑ k⁼an↓↑ sʊŋ↓t⁼ɑʊ↓ ts⁼ʊŋ→tʰɑŋ↑ tʃʰɥ↓ la miɑʊ→.
+./custom_character_voice/Taffy/processed_748.wav|0|p⁼u↑iɑʊ↓ nan↑k⁼wo↓ p⁼u↑iɑʊ↓ nan↑k⁼wo↓ p⁼u↑iɑʊ↓.
+./custom_character_voice/Taffy/processed_749.wav|0|ɹ`ɑŋ↓ ts⁼ɹ↓tʃ⁼i↓↑ ʃiɑŋ↓↑tʃʰi↓↑ lə kʰaɪ→ʃin→ t⁼ə s`ɹ`↓mjɛn↓ tʃ⁼in→tʰjɛn→ feɪ→tʰu↓↑ t⁼aɪ↓tʰi↓ t⁼iɛ→.
+./custom_character_voice/Taffy/processed_750.wav|0|tʰa→mən s`wo→ tʃ⁼in→tʰjɛn→ t⁼ə s`ɹ`↑kʰuɑŋ↓ xən↓↑ u↑liɑʊ↑ tʃ⁼in→tʰjɛn→ s`ɹ`↑kʰuɑŋ↓ ts⁼aɪ↓ tʰan↓tʰɑʊ↓↑.
+./custom_character_voice/Taffy/processed_751.wav|0|tʰa→ miŋ↑tʰjɛn→ iŋ→k⁼aɪ→ s`əŋ→tʃʰjɛn↑ tʃ⁼jɛn↓t⁼ɑʊ↓ ts⁼ən↓↑məiɑŋ↓ t⁼ə ə↓ ts⁼ʊŋ↓↑ k⁼an↓↑tʃ⁼ɥɛ↑ meɪ↑s`ən↑mə t⁼ʊŋ↓li↓ xən↓↑t⁼wo→ s`ɹ`↓ meɪ↑s`ən↑mə t⁼ʊŋ↓li↓ t⁼ə ts⁼weɪ↓tʃ⁼in↓ xɑʊ↓↑leɪ↓ a.
+./custom_character_voice/Taffy/processed_752.wav|0|wo↓↑mən k⁼eɪ↓↑ s`u→s`u→ p⁼ɑʊ↓ ts`⁼ə p⁼eɪ.
+./custom_character_voice/Taffy/processed_753.wav|0|tʰə↓p⁼iɛ↑ ts`⁼ɑʊ↓↑ ts`⁼ɑʊ↓↑ tsʰɑʊ↓↑meɪ↑ ts`⁼ɹ`→k⁼ə→.
+./custom_character_voice/Taffy/processed_754.wav|0|tʃ⁼jɛn↓↑ p⁼u↑t⁼ɑʊ↓ t⁼əŋ→ lə, ʃiɛ↓ʃiɛ↓ ts`ʰɑŋ↑an→ t⁼ə ʃiɛ↓ʃiɛ↓ s`oʊ↓↑xu↓ miɑʊ↑, ʃiɛ↓ʃiɛ↓ məŋ↓ʃiɑŋ↓↑ tʰə↓p⁼iɛ↑ ts`ʰu→t⁼a↓.
+./custom_character_voice/Taffy/processed_755.wav|0|wo↓↑ xaɪ↑s`ɹ`↓ ts⁼ən↓↑mə tʰə↓p⁼iɛ↑ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ o↑ p⁼i↓li→ p⁼i↓li→.
+./custom_character_voice/Taffy/processed_756.wav|0|ni↓↑ ɹ`ən↓t⁼ə kʰə↓↑aɪ↓ ma ʃjɛn↓ts⁼aɪ↓ joʊ↓↑meɪ↑joʊ↓↑ ni↓↑xɑʊ↓↑ ts`ʰʊŋ→ a wo↓↑ p⁼u↓ts`ʰʊŋ→ a ts`⁼ə↓ s`ɹ`↓ əɹ`↓tsʰɹ↓ɥæn↑ ts`⁼ə↓ s`ɹ`↓ əɹ`↓ əɹ`↓tsʰɹ↓ɥæn↑.
+./custom_character_voice/Taffy/processed_757.wav|0|ʃiɛ↓ʃiɛ↓ ni↓↑ a, miɑʊ→ miɑʊ→ ən↑...
+./custom_character_voice/Taffy/processed_758.wav|0|xweɪ↓ p⁼eɪ↓ ɹ`ən↑ tʃʰjɛn↓pʰjɛn↓ nə? ən↑ p⁼u↓k⁼wan↓↑ na↓↑li↓↑ t⁼oʊ→ p⁼u↓nəŋ↑ s`wo→.
+./custom_character_voice/Taffy/processed_759.wav|0|sɯ↑mimase↓N na↑ŋkana↓ŋka so↑o i↓eba ʃa↑amoN da↑i ʃ ɯda↓moN.
+./custom_character_voice/Taffy/processed_760.wav|0|tʃ⁼in→tʰjɛn→ tʰa↓↑feɪ→ s`ɹ`↓ wo↓↑ t⁼iɛ→ t⁼ə ɹ`ɹ`↓ts⁼, tʰa↓↑feɪ→ wan↓↑an→ miɑʊ→, əɹ`↑ts⁼ɹ wan↓↑an→ miɑʊ→.
+./custom_character_voice/Taffy/processed_761.wav|0|ta↓bɯN, mj e! ta↓bɯN mj e! ta↓bɯN mj e! mj e!
+./custom_character_voice/Taffy/processed_762.wav|0|ən↑, wan↑p⁼u↓tʃʰi↓↑ la tʰa→ tʃ⁼joʊ↓ wan↑ p⁼u↓tʃʰi↓↑ la.
+./custom_character_voice/Taffy/processed_763.wav|0|t⁼a↓tʃ⁼ɥn→ ts⁼ɹ kʰɑʊ↓↑s`ɹ`↓ na↓.
+./custom_character_voice/Taffy/processed_764.wav|0|tʰa→mən ts`⁼ə↓p⁼jɛn→ fɑŋ↓ lə p⁼i↓↑! fɑŋ↓ lə p⁼i↓↑mjɛn↓!
+./custom_character_voice/Taffy/processed_765.wav|0|i↓↑xoʊ↓ts⁼aɪ↓ s`wo→ ma ni↓↑ p⁼a↓p⁼a↓ ts⁼aɪ↓ joʊ↑ʃi↓xweɪ↓ joʊ↓↑t⁼i↓ɛ↑o↓t⁼i↓ ma.
+./custom_character_voice/Taffy/processed_766.wav|0|tʰa→mən xwan↑k⁼eɪ↓↑ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ maɪ↓↑ lə i→fu↑ xaɪ↑ ts`⁼wən↓↑p⁼eɪ↓ ts⁼wo↓tʰɑʊ↓ ʃiɑʊ↓ fu↑laɪ↑ ts`⁼ə.
+./custom_character_voice/Taffy/processed_767.wav|0|s`ɹ`↓ ts`⁼ə↓məiɑŋ↓ k⁼eɪ↓↑ ts`⁼u↓↑t⁼a↓↑ tʃ⁼i→kʰan↓ i→jɛn↓↑ p⁼a ʃjɛn↓ts⁼aɪ↓ ts`⁼uɑŋ→ʃjoʊ→ ts`ʰəŋ↑ s`ən↑məiɑŋ↓ iɑʊ↓p⁼u↓ɹ`an↑ ts`⁼u↓↑t⁼a↓↑ tʃ⁼i→iɑʊ↓ wən↓.
+./custom_character_voice/Taffy/processed_768.wav|0|ən↑ ən↑  xweɪ↑tʰoʊ↑ fɑŋ↓k⁼ə↓ tʃ⁼iŋ↓ts⁼ɹ.
+./custom_character_voice/Taffy/processed_769.wav|0|ljɛn↑ts`⁼ə↓wan↑ ts`⁼ə↓mə tʃ⁼joʊ↓↑ t⁼ə tʰə↓miŋ↓ p⁼iŋ→ʃjɛn↓ t⁼oʊ→ tʰaɪ↓s`ɑʊ↓↑ lə, p⁼u↓xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_770.wav|0|ʃi→uɑŋ↓ tʃ⁼in→tʰjɛn→ p⁼u↓xweɪ↓ s`ɹ`→mjɛn↑ ən↑ s`ɹ`→mjɛn↑ tʃ⁼joʊ↓ kʰan↓t⁼ɑʊ↓ xwa↓mjɛn↓.
+./custom_character_voice/Taffy/processed_771.wav|0|in→weɪ↓ tʰa→mən p⁼u↑s`ɹ`↓ xən↓↑t⁼wo→ miɑʊ↓↑ tʃʰɥ↓ wan↑ tʃ⁼joʊ↓ kʰə↓↑i↓↑ lu↓ ʃja↓mjɛn↓ lə ən↑ ən↑.
+./custom_character_voice/Taffy/processed_772.wav|0|tʰɑŋ↓↑ ts⁼aɪ↓ s`əŋ→ɹ`ɹ`↓kʰwaɪ↓lə↓ mjɛn↓ p⁼u↑s`ɹ`↓ s`əŋ→ɹ`ɹ`↓, ts`⁼ə↓s`ɹ`↓ ts`⁼oʊ→njɛn↑, ts`⁼oʊ→njɛn↑ k⁼ən→ s`əŋ→ɹ`ɹ`↓ joʊ↓↑p⁼iɛ↑ miɑʊ↓.
+./custom_character_voice/Taffy/processed_773.wav|0|t⁼an→ mjɛn↓ xaɪ↑s`ɹ`↓ ʃi↓↑xwan→ jʊŋ↓ mjɛn↑xwa→ tʰɑŋ↑t⁼an→ mjɛn↓ ts`ʰu↑lə mjɛn↑xwa→ tʰɑŋ↑ tʃʰi↑tʰa→ t⁼ə.
+./custom_character_voice/Taffy/processed_774.wav|0|ts`ʰu↓↑nan↑ s`u→s`u→ ən↑ a  tʰa→mən iɑʊ↓ p⁼u↑iɑʊ↓ ts`⁼ə↓iɑŋ↓ ja.
+./custom_character_voice/Taffy/processed_775.wav|0|s`ən→fən↓ ts`⁼əŋ↓s`u→ ts⁼ən↓↑mə s`ɹ`↓ ts`⁼ə↓iɑŋ↓ t⁼ə ts⁼ən↓↑mə p⁼u↓ ʃiɛ↓↑ lə nə.
+./custom_character_voice/Taffy/processed_776.wav|0|tʰa→mən meɪ↓↑tʰjɛn→ t⁼oʊ→ t⁼a↓xan↓↑t⁼a↓tʃ⁼iɑʊ↓ xən↓↑ɥæn↑tʃʰi↓.
+./custom_character_voice/Taffy/processed_777.wav|0|na↓ ts`⁼ə↓iɑŋ↓t⁼əxwa↓, i→njɛn↑sɹ↓tʃ⁼i↓ s`ən↑mə s`ɹ`↑xoʊ↓ ʃiɑŋ↓↑ ts`ʰwan→, sweɪ↑s`ɹ`↑ tʃ⁼joʊ↓ nəŋ↑ tʰɑʊ→ts`ʰu→ laɪ↑ ts`ʰwan→mjɛn↓.
+./custom_character_voice/Taffy/processed_778.wav|0|ʃiɑʊ↓↑t⁼u↓↑ts⁼ɹ ʃiɑʊ↓↑t⁼u↓↑ts⁼ɹ ni↓↑ nəŋ↑ kʰan↓t⁼ɑʊ↓ t⁼u↓tʃʰi↑.
+./custom_character_voice/Taffy/processed_779.wav|0|tʃ⁼in→tʰjɛn→ s`ɑŋ↓p⁼wo→ tʃʰjɛn↑tʰi↓i↓a↓ɛ↑mu↓aɪ↓ xaɪ↑tʃ⁼jɛn↓↑ts`ʰa↑ nə tʰa→ joʊ↓↑t⁼jɛn↓↑ wən↓tʰi↑tʰi↓i↓a↓ɛ↑mu↓aɪ↓ xaɪ↑iɑʊ↓ fan↓↑kʰweɪ↓k⁼eɪ↓↑ mwo↑ʃiŋ↑ s`ɹ`→.
+./custom_character_voice/Taffy/processed_781.wav|0|tʰa→ kʰə↓↑i↓↑ ts⁼ɹ↓t⁼ʊŋ↓s`əŋ→ts`ʰan↓↑ɛ↑o↓ɛ↑mu↓ɛ↑mu↓t⁼i↓ tʰiɑʊ↓u↓↑ t⁼an↓s`ɹ`↓ tʰa→mən s`ɹ`↓ lə i→ʃja↓ ʃiɑʊ↓↑ʃiɑʊ↓↑ ʃiɑʊ↓↑ʃiɑʊ↓↑ t⁼ʊŋ→ʃi→ xaɪ↑joʊ↓↑.
+./custom_character_voice/Taffy/processed_782.wav|0|tʰa→mən tʃ⁼joʊ↓ p⁼u↓ʃiɑŋ↓↑ ts`ʰwan→ jʊŋ↓↑ts`⁼uɑŋ→ lə tʰa→mən ʃiɑŋ↓↑ ts`ʰwan→ ʃin→ i→fu↑.
+./custom_character_voice/Taffy/processed_783.wav|0|ni↓↑tʃ⁼ja→ ʃiɑʊ↓↑xaɪ↑ ts`ʰu→ t⁼ɑʊ↓ ni↓↑tʃ⁼ja→ ʃiɑʊ↓↑xaɪ↑ mjɛn↓ ts`⁼ə↓p⁼jɛn→ tʃʰjɛn→ tʃ⁼joʊ↓iɑʊ↓ p⁼eɪ↓ fəŋ→ ts`⁼ɹ`↑p⁼wo→tʃ⁼jɛn→ lə.
+./custom_character_voice/Taffy/processed_784.wav|0|weɪ↓ts`ʰəŋ↑njɛn↑ tʃ⁼in↓ts`⁼ɹ`↓↑ in↓↑tʃ⁼joʊ↓↑, tʃʰiŋ↓↑ kʰɑʊ↓ tʃʰiŋ↓↑ kʰɑʊ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_785.wav|0|ni↓↑mən kʰan↓ tʰa→mən t⁼ə t⁼a↓mu↓ tʃ⁼i→joʊ↓↑ waɪ↓k⁼wən↓↑ ts`ʰu→laɪ↑ i→tʰiɑʊ↑.
+./custom_character_voice/Taffy/processed_786.wav|0|tʰa→mən i↓↑tʃ⁼iŋ→ tʃ⁼ɥɛ↑t⁼iŋ↓ lə, tʃ⁼joʊ↓swan↓ i↓↑ xoʊ↓, ə↓......
+./custom_character_voice/Taffy/processed_787.wav|0|nəŋ↑ t⁼ə  nəŋ↑ t⁼ə  joʊ↓↑ t⁼u↓↑ts⁼ɹ t⁼ə  tʰa→mən kʰan↓tʃ⁼jɛn↓ lə t⁼wo→mə tʃʰjɛn↓↑la↓mjɛn↓.
+./custom_character_voice/Taffy/processed_788.wav|0|meɪ↑ wən↓tʰi↑, ts⁼aɪ↓ laɪ↑ s`ɹ`↓s`ɹ`↓tʰi↓i↓ɛ↑sɹ↓tʰi↓ s`ɹ`↓, i↓↑xoʊ↓ ts`⁼ə↓ts`⁼ʊŋ↓↑ ljɛn↑tʃ⁼i→ t⁼ə t⁼ʊŋ→ʃi→ t⁼oʊ→tʰi↓i↓ɛ↑sɹ↓tʰi↓ s`ɹ`↓i→ʃja↓.
+./custom_character_voice/Taffy/processed_789.wav|0|a→ni↑ ʃiŋ→ts`ʰən↑ tʃʰi→tʃʰjɛn→kʰeɪ↓ liŋ↑kʰeɪ↓ liŋ↑a↓ liŋ↑eɪ→p⁼i↓tʰi↓ɛ→kʰu↓sɹ↓a↓ i↓p⁼aɪ↓↑san→s`ɹ`↑p⁼a→si→waɪ↓si→waɪ↓.
+./custom_character_voice/Taffy/processed_790.wav|0|ɯ↑NɯN↓ɯN.
+./custom_character_voice/Taffy/processed_791.wav|0|ts`⁼ɹ`↑tʃ⁼iɛ→ tʃ⁼iɑʊ↓aɪ↓, ts`⁼ɹ`↑tʃ⁼iɛ→ tʃ⁼iɑʊ↓aɪ↓,t⁼a↓p⁼u↓ljoʊ↓,eɪ→,aɪ↓ a→sɹ→tʰa↓↑, sɹ↓↑ t⁼joʊ→ lə.
+./custom_character_voice/Taffy/processed_792.wav|0|s`əŋ→tsʰwən↑ ts⁼ɑʊ↓↑tʃ⁼joʊ↓ tʰaɪ↓ʃi↓↑xwan→ ni↓↑ lə miɑʊ→ ən↑  xɑʊ↓↑ miɑʊ→ a ts⁼an↑mən iɛ↓↑ ts`⁼ɹ`→t⁼ɑʊ↓ miɑʊ→.
+./custom_character_voice/Taffy/processed_793.wav|0|ən↑? tʰa→ na↓ ljoʊ↑lan↓↑tʃʰi↓ nə?
+./custom_character_voice/Taffy/processed_794.wav|0|tʰə↓p⁼iɛ↑ na↓k⁼ə↓ k⁼wan→tʃ⁼iɛ↑ s`ɹ`↓xə↑ ts⁼u↓↑aɪ↓, əɹ`↑tʃʰiɛ↓↑ s`ɹ`↓ nəŋ↑ k⁼eɪ↓↑ ts`ʰʊŋ↓↑t⁼ɑŋ↓ ʃiŋ↓ʃiŋ↓ t⁼ə ts⁼u↓↑aɪ↓ t⁼ə.
+./custom_character_voice/Taffy/processed_795.wav|0|dʑa↓anoo!
+./custom_character_voice/Taffy/processed_796.wav|0|i→ s`oʊ↓↑na↑ts`⁼ə ts`⁼ə↓k⁼ə↓, i→s`oʊ↓↑ ts⁼aɪ↓ na↑ ts`⁼ə ts`⁼ə↓k⁼ə↓ ɹ`an↑xoʊ↓, ɹ`an↑xoʊ↓ ni↓↑ tʃ⁼joʊ↓ kʰə↓↑i↓↑.
+./custom_character_voice/Taffy/processed_797.wav|0|xɑʊ↓↑ts`ʰɹ`→ miɑʊ→ miɑʊ→ miɑʊ→ xɑʊ↓↑ts`ʰɹ`→ miɑʊ→.
+./custom_character_voice/Taffy/processed_798.wav|0|ts`⁼ɹ`↓↑s`ɹ`↓ meɪ↑joʊ↓↑ t⁼ɑŋ↓ts⁼wo↓ ts`⁼u↓↑i↓ əɹ`↑i↓↑ xaɪ↑s`ɹ`↓ nəŋ↑ʃɥɛ↑ t⁼ə ma.
+./custom_character_voice/Taffy/processed_799.wav|0|ʃiɛ↓ʃiɛ↓, joʊ↓↑ tʃʰjoʊ↑ tʃʰin→ts⁼ɹ↓ laɪ↑, ʃiɛ↓ʃiɛ↓ wo↓↑ kʰə↓↑i↓↑ ts⁼wo↓k⁼ə↓ t⁼oʊ↓ t⁼oʊ↓jɛn↓↑ san→t⁼i↓ ɥn↓iŋ↑ ʃiɑʊ↓↑feɪ→ ma?
+./custom_character_voice/Taffy/processed_800.wav|0|a tʰa→mən ʃiɑŋ↓↑ t⁼a↓↑k⁼ə↑.
+./custom_character_voice/Taffy/processed_801.wav|0|ʃiɑŋ↓↑tʃ⁼jɛn↓ i→ʃja↓ tʰa→mən fa→tʃ⁼joʊ↓↑ fəŋ→ t⁼ə iɑŋ↓ts⁼ɹ tʰu→ɹ`an↑ tʃ⁼ɥɛ↑t⁼ə↑ tʰiŋ↓↑xɑʊ↓↑wan↑ t⁼ə tʰa→mən tʃ⁼i↓t⁼ə↑ joʊ↓↑ fa→tʃ⁼joʊ↓↑ fəŋ→ t⁼ə tʃʰiɛ→pʰjɛn↓ a.
+./custom_character_voice/Taffy/processed_802.wav|0|xɑʊ↓↑ kʰʊŋ↓↑p⁼u↓, p⁼u↑iɑʊ↓ p⁼a↓↑ tʰa→mən tʃ⁼joʊ↓ fən→kʰaɪ→ tʰa→mən tʃ⁼joʊ↓ p⁼u↓ʃiɑŋ↓↑ kʰan↓ xən↓↑ tʃʰjɛn↑mjɛn↓.
+./custom_character_voice/Taffy/processed_803.wav|0|xɑʊ↓↑ ʃiɑŋ↓↑ xə→ xɑʊ↓↑ ʃiɑŋ↓↑ xə→ t⁼an↓ ts`ʰɑʊ→s`ɹ`↓ maɪ↓↑ p⁼u↑t⁼ɑʊ↓ s`ən↑mə tʃ⁼joʊ↓↑.
+./custom_character_voice/Taffy/processed_804.wav|0|i↑? ts⁼ən↓↑mə meɪ↑joʊ↓↑ p⁼iŋ→ʃiɑŋ→?
+./custom_character_voice/Taffy/processed_805.wav|0|na↓ts`⁼ʊŋ↓↑ s`ɑŋ↓ p⁼u↓ s`ɑŋ↓tʃ⁼iŋ↓ t⁼oʊ→ xən↓↑ ts`⁼ʊŋ↓iɑʊ↓ in→weɪ↓ iɑʊ↓s`ɹ`↓ kʰʊŋ→t⁼iɑʊ↓ i→p⁼wo→ ljoʊ↑liɑŋ↓ ɹ`an↑ xoʊ↓ ts⁼ɹ↓tʃ⁼i↓↑ meɪ↑ p⁼a↓↑wo↓ts`⁼u↓ t⁼ə xwa↓.
+./custom_character_voice/Taffy/processed_806.wav|0|ʃin→ t⁼ə in→ fəŋ→niɑʊ↓↑ ən↑ wo↓↑ ʃjɛn↓ts⁼aɪ↓ i↓↑tʃ⁼iŋ→ t⁼a↓↑man↓↑ lə k⁼ə↓ p⁼aɪ↑xwa→ ɹ`oʊ↓niɑʊ↓↑.
+./custom_character_voice/Taffy/processed_807.wav|0|p⁼u↓ɹ`an↑ tʃ⁼joʊ↓s`ɹ`↓ wo↓↑ tsʰaɪ→ ts`⁼ə nə.
+./custom_character_voice/Taffy/processed_808.wav|0|joʊ↓↑ ʃi↓↑xwan→ an→tʃ⁼iŋ↓ t⁼ə, joʊ↓↑ ʃi↓↑xwan→ ts`ʰɑʊ↓↑nɑʊ↓ t⁼ə joʊ↓↑ ʃi↓↑xwan→ ɥæn↑ʃiŋ↑ t⁼ə, joʊ↓↑ ʃi↓↑xwan→ wən→ɹ`oʊ↑ t⁼ə.
+./custom_character_voice/Taffy/processed_809.wav|0|p⁼u↑s`ɹ`↓, tʰə↓p⁼iɛ↑ k⁼an↓↑tʃ⁼ɥɛ↑ p⁼u↑iɑʊ↓ k⁼ɑʊ↓↑ ts`⁼ə↓ts`⁼ʊŋ↓↑ tʃ⁼i↓tʃ⁼iɛ↑ʃiŋ↓ t⁼ə p⁼i↓↑tʃ⁼iɑʊ↓ xɑʊ↓↑.
+./custom_character_voice/Taffy/processed_810.wav|0|nəŋ↑ p⁼u↓nəŋ↑ na↑ ʃja↓mjɛn↓ ʃiɑʊ↓↑ts`ʰən→ p⁼u↓t⁼ʊŋ↓↑s`ɹ`↓ ɹ`ən↑tʃ⁼ja→ swan↓lə na↓ s`ɹ`↓ ts`⁼ɹ`→xoʊ↓tʰu↑pʰjɛn↓.
+./custom_character_voice/Taffy/processed_811.wav|0|a  tʃʰɥɛ↓s`ɹ`↑ ʃjɛn↓mu↓ s`ɹ`↓ s`ɹ`↓ s`ɹ`↓  kʰən↓↑t⁼iŋ↓ ʃjɛn↓mu↓.
+./custom_character_voice/Taffy/processed_812.wav|0|wo↓↑ t⁼oʊ→ xən↓↑ p⁼ɑʊ↓tʃʰjɛn↓ la.
+./custom_character_voice/Taffy/processed_813.wav|0|tʰə↓p⁼iɛ↑ iɑʊ↓ kʰaɪ→ʃin→ t⁼ə.
+./custom_character_voice/Taffy/processed_814.wav|0|ni↓↑mən s`wo→ na↓↑p⁼jɛn→ s`ɹ`↓ t⁼i↓ljoʊ↓miŋ↑ t⁼ə ʃin↓jʊŋ↓ ʃiɑŋ↓.
+./custom_character_voice/Taffy/processed_815.wav|0|joʊ↓↑s`ɹ`↑ joʊ↓↑, t⁼an↓s`ɹ`↓ s`ɹ`↓p⁼u↑s`ɹ`↓ s`wo→ s`əŋ→ɹ`ɹ`↓ ts⁼aɪ↓ kʰaɪ→ ja?
+./custom_character_voice/Taffy/processed_816.wav|0|tʰa→mən ʃja↓p⁼wo→ lə miɑʊ→ ʃja↓p⁼wo→ lə miɑʊ→.
+./custom_character_voice/Taffy/processed_817.wav|0|aɪ→ja→ ni↓↑xɑʊ↓↑ ts`ʰwən↓↑ a a p⁼u↓ t⁼weɪ↓ iɛ↓↑ p⁼u↓ts`ʰwən↓↑ tʰa→mən ts⁼ən↓↑mə xweɪ↓ ts`ʰwən↓↑ nə.
+./custom_character_voice/Taffy/processed_818.wav|0|t⁼əŋ↓↑t⁼aɪ↓ s`ɹ`↑tʃ⁼i↓s`ɑŋ↓ ʃjɛn↓ts⁼aɪ↓ s`ɹ`↓ p⁼jɛn↓ts`ʰəŋ↑ lə ʃiɑʊ↓↑t⁼ʊŋ→ʃi→.
+./custom_character_voice/Taffy/processed_819.wav|0|nəŋ↑ kʰwən↓t⁼ə↑ ts⁼aɪ↓ i↑k⁼ə↓ ʃiɑʊ↓↑ɹ`ən↑ tʃ⁼joʊ↓ kʰwən↓t⁼ə↑ ts⁼aɪ↓ i↑k⁼ə↓ ʃiɑʊ↓↑ɹ`ən↑ t⁼an↓ nəŋ↑ p⁼u↓ ts`ʰɑʊ→k⁼wo↓ i→k⁼ə↓p⁼an↓ ʃiɑʊ↓↑s`ɹ`↑ tʃ⁼joʊ↓ p⁼u↑iɑʊ↓ ts`ʰɑʊ→k⁼wo↓ i→k⁼ə↓p⁼an↓ ʃiɑʊ↓↑s`ɹ`↑.
+./custom_character_voice/Taffy/processed_820.wav|0|ts`⁼ə↓ts`⁼ʊŋ↓↑ t⁼ʊŋ↓xwa↓ fəŋ→k⁼ə↑ t⁼ə joʊ↑ʃi↓, tsʰan↑p⁼eɪ→ tʰoʊ↑ iɛ↓↑ s`ɹ`↓.
+./custom_character_voice/Taffy/processed_821.wav|0|ts`⁼ən→tʰiŋ↓↑ ʃiɑŋ↓ t⁼ə, tʃ⁼joʊ↓ ts⁼aɪ↓ s`ɑŋ↓mjɛn↓ ts⁼wo↓ lə t⁼jɛn↓↑ k⁼aɪ↓↑t⁼ʊŋ↓.
+./custom_character_voice/Taffy/processed_822.wav|0|t⁼əŋ↓↑ wo↓↑ pʰan↓t⁼wan↓ xaɪ↑s`ɹ`↓ ts⁼u↓↑ts`⁼ɹ`→ pʰəŋ↑joʊ↓↑ i↓tʃʰi↓↑ kʰə↓↑i↓↑ ts⁼u↓↑ts`⁼ɹ`→ ts`ʰu→ts`ʰɑŋ↓↑ tʃ⁼i→.
+./custom_character_voice/Taffy/processed_823.wav|0|tʰa→mən iɑʊ↓k⁼eɪ↓↑ ts⁼ɹ↓tʃ⁼i↓↑ fa→t⁼an↓ mu↓ p⁼a↓↑ ɹ`ən↑ p⁼ɑʊ↓tʃ⁼in→p⁼i↓ lə.
+./custom_character_voice/Taffy/processed_824.wav|0|tʃ⁼in→tʰjɛn→ tsʰaɪ↑ ts`⁼ə↓mə t⁼wo→p⁼wo→ ən↑ tʃ⁼in→tʰjɛn→ tsʰaɪ↑ ts`⁼oʊ→tʃʰi→ a a tʃ⁼in→tʰjɛn→ tsʰaɪ↑ ts`⁼oʊ→sɹ↓ nə ma.
+./custom_character_voice/Taffy/processed_825.wav|0|na↓ts`⁼ʊŋ↓↑ s`ə↓tʃ⁼iɑʊ→ fɑŋ↑tʃ⁼jɛn→ p⁼u↓ tʃʰɥ↓ lə p⁼u↓ tʃʰɥ↓ lə p⁼u↓ tʃʰɥ↓ lə.
+./custom_character_voice/Taffy/processed_826.wav|0|p⁼iɛ↑tʃ⁼i↑ tʰa→mən ts⁼wo↓ lə k⁼ə↓ mjɛn↑xwa→ tʰɑŋ↑.
+./custom_character_voice/Taffy/processed_827.wav|0|miŋ↑tʰjɛn→ wan↑ s`ən↑mə p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓  miŋ↑tʰjɛn→ wan↑ s`ən↑mə ja.
+./custom_character_voice/Taffy/processed_828.wav|0|ʃiɑʊ↓↑t⁼ʊŋ→ʃi→, p⁼u↓ t⁼weɪ↓ a, ts⁼ən↓↑mə xaɪ↑s`əŋ↓ ts`ʰan↓↑pʰin↓↑ a ən↑.
+./custom_character_voice/Taffy/processed_829.wav|0|xweɪ↓ joʊ↓↑ ts⁼ɑʊ↓xwa↓ a tʰʊŋ→p⁼jɛn→ an↓ an↓njoʊ↓↑ ts`⁼ɹ`↓↑nəŋ↑ k⁼oʊ↓ ni↓↑ ts`ʰu→ts`ʰɑŋ↓↑ tʃ⁼i↓↑miɑʊ↓↑.
+./custom_character_voice/Taffy/processed_830.wav|0|ən↑, p⁼u↑iɑʊ↓ tʰjɛn→tʰjɛn→ k⁼wan↓la↓ liɑŋ↓↑njɛn↑ s`əŋ→xwo↑.
+./custom_character_voice/Taffy/processed_831.wav|0|tʰa→mən tʃ⁼joʊ↓s`ɹ`↓ ʃi↓↑xwan→ ts`ʰweɪ→ p⁼i↑tʰi↓ t⁼ə ʃi↓↑xwan→ ts`ʰweɪ→.
+./custom_character_voice/Taffy/processed_832.wav|0|xən↓↑t⁼wo→ ɹ`ɹ`↓p⁼i↓ k⁼ɑʊ↓↑ k⁼wo↓ tʃʰɥɛ↓s`ɹ`↑ tʰə↓p⁼iɛ↑ kʰan↓waɪ↓oʊ→joʊ→tʰi↓joʊ→p⁼i↓i↓ s`ɑŋ↓ na↓ʃiɛ→ ɹ`ɹ`↓p⁼i↓ t⁼oʊ→ xweɪ↓ k⁼ɑʊ↓↑.
+./custom_character_voice/Taffy/processed_833.wav|0|wo↓↑mən tʃ⁼jɛn↓ na↓↑əɹ`↑ ja? tʰa→mən iɑʊ↓ p⁼eɪ↓k⁼a↓ sɹ↓↑ lə.
+./custom_character_voice/Taffy/processed_834.wav|0|o↑  p⁼u↑xweɪ↓  ts`⁼ə↓p⁼jɛn→ s`ɹ`↓ən→ k⁼eɪ↓↑ts`ʰu→ t⁼a↓↑tʃ⁼i→ tʰiŋ→ t⁼ə.
+./custom_character_voice/Taffy/processed_835.wav|0|ni↓↑ an↓ʃiɑʊ↓↑liŋ↑ p⁼u↑t⁼ɑʊ↓ k⁼wan→ts`⁼u↓ tʰə↓p⁼i↓ t⁼ə ni↓↑xɑʊ↓↑ lɑʊ↓↑ o↑ lɑʊ↓↑fən↓↑ miɛ→.
+./custom_character_voice/Taffy/processed_836.wav|0|tʃʰɥæn↑tʃ⁼iɑʊ↓ ni↓↑ kʰan↓kʰan↓ t⁼i↓san→ts`⁼ɑŋ→ uɑŋ↓↑xoʊ↓ p⁼u↓ ts`⁼ɑʊ↑tʃ⁼i↑ p⁼u↓ ts`⁼ɑʊ↑tʃ⁼i↑ xweɪ↑tʰoʊ↑ kʰan↓.
+./custom_character_voice/Taffy/processed_837.wav|0|s`u→s`u→ nəŋ↑ p⁼u↓nəŋ↑p⁼u↓iɑʊ↓ t⁼iŋ→s`ɑŋ↓ tʰa→ miŋ↓an↓.
+./custom_character_voice/Taffy/processed_838.wav|0|əm…
+./custom_character_voice/Taffy/processed_839.wav|0|ʃiɑʊ↓↑ts`⁼ʊŋ→ pʰeɪ↓tʃʰi↑ iŋ→wən↑p⁼an↓↑ɛ↑sɹ↓ɛ↑sɹ↓ɛ↓↑tʃʰɥ↓eɪ→pʰi→t⁼i↓a↓ɛ↓↑tʃʰɥ↓ɛ↑sɹ↓ɛ↓↑tʃʰɥ↓ iŋ→ɥ↓↑ tʰiŋ→li↓.
+./custom_character_voice/Taffy/processed_840.wav|0|s`uɑŋ→ tʃʰi↑ts⁼ɹ laɪ↑ a, ts`⁼əŋ↓↑k⁼ə↓ t⁼a↓ xuɑŋ↑tʃ⁼in→ njoʊ↑ maɪ↓↑maɪ↓.
+./custom_character_voice/Taffy/processed_841.wav|0|ts⁼weɪ↓tʃ⁼in↓ xaɪ↑xweɪ↓ k⁼ɑʊ↓↑ mjɛn↑xwa→ tʰɑŋ↑xweɪ↓ ma? p⁼u↑xweɪ↓ tʰə↓p⁼iɛ↑.
+./custom_character_voice/Taffy/processed_842.wav|0|p⁼u↓ i↑t⁼iŋ↓ s`ɹ`↓ joʊ↓↑ wən↓tʰi↑, kʰə↓↑nəŋ↑ mi↓↑ a→ʃi→ meɪ↑joʊ↓↑ p⁼iɑʊ↓↑tʃʰiŋ↑ jʊŋ↓ na↓k⁼ə↓ ts`⁼ə↓k⁼ə↓ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓, jɛn↑tʃ⁼joʊ→ i→ʃja↓.
+./custom_character_voice/Taffy/processed_843.wav|0|ni↓↑ kʰan↓kʰan↓ ts`⁼ə↓k⁼ə↓ tʃʰiɛ↑ts⁼, tʰiŋ↓↑nən↓ t⁼ə.
+./custom_character_voice/Taffy/processed_844.wav|0|əɹ`↓s`ɹ`↑i→njɛn↑ t⁼ə t⁼ʊŋ→ʃi→ xɑʊ↓↑k⁼a↓ ja p⁼an↓↑p⁼ən↓↑ t⁼oʊ→ p⁼jɛn↓ lə ʃjɛn↓ts⁼aɪ↓ kʰan↓xɑʊ↓↑ k⁼a↓.
+./custom_character_voice/Taffy/processed_845.wav|0|go↑menna↓a.
+./custom_character_voice/Taffy/processed_846.wav|0|xwən↑san→p⁼u↓k⁼wo↓ tʃ⁼in→tʰjɛn→ xwən↑san→xɑʊ↓↑ u↑liɑʊ↑ tʃ⁼in→tʰjɛn→ xwən↑ san→ meɪ↑ joʊ↓↑ t⁼a↓↑p⁼i↓oʊ→ɛ↑sɹ↓ɛ↑sɹ↓.
+./custom_character_voice/Taffy/processed_847.wav|0|wo↓↑ p⁼u↑s`ɹ`↓ ts`⁼ə↓iɑŋ↓ t⁼ə i→fu↑ tʰa→mən iɑʊ↓ k⁼eɪ↓↑ ts⁼u↓↑ts`⁼ɑŋ↓↑ tʃʰɥ↓ kʰan↓.
+./custom_character_voice/Taffy/processed_848.wav|0|ə↓  fɑŋ↓ts⁼aɪ↓ na↓əɹ`↑ ja nəŋ↑ p⁼u↓nəŋ↑ ts⁼aɪ↓ li↓↑mjɛn↓ fɑŋ↓ t⁼jɛn↓↑ ʃiɑʊ↓↑joʊ↑ʃi↓ s`ən↑mə ʃiɑʊ↓↑joʊ↑ʃi↓.
+./custom_character_voice/Taffy/processed_849.wav|0|ən↑, wo↓↑ wan↑tʃʰɥæn↑ p⁼u↓pʰa↓, xweɪ↑tʰoʊ↑ kʰan↓tʃ⁼jɛn↓ lə tʃ⁼joʊ↓ p⁼u↓ ljoʊ↑t⁼an↓↑ lə.
+./custom_character_voice/Taffy/processed_850.wav|0|mu↓↑tʃʰin→ fan↓maɪ↓ xweɪ↓ ts⁼ɹ↓tʃ⁼i↓↑ san→ʃɥæn↓↑ i→joʊ↓↑ ts`ʰu↑joʊ→ ts⁼weɪ↓miŋ↑.
+./custom_character_voice/Taffy/processed_851.wav|0|nan↑t⁼ɑʊ↓ tʰu↑t⁼i↓ i↓↑tʃ⁼iŋ→ xən↓↑ ʃi↓↑xwan→ kʰan↓xən↓↑ tʃ⁼iɛ↓↑meɪ↓ miɛ→?
+./custom_character_voice/Taffy/processed_852.wav|0|tʃʰi→t⁼aɪ↓ kʰan↓t⁼ɑʊ↓ tʰa→mən t⁼ə p⁼aɪ↓↑wan↓ fən↓↑ tʃ⁼in→tʰjɛn→ xweɪ↓ ts⁼oʊ↓↑ ts`⁼ə nə! ts⁼oʊ↓↑ ts`⁼ə nə!
+./custom_character_voice/Taffy/processed_853.wav|0|meɪ↑joʊ↓↑ p⁼jɛn↓mjɛn↓ tʰu↑ a! meɪ↑joʊ↓↑ p⁼jɛn↓mjɛn↓ tʰu↑ a!
+./custom_character_voice/Taffy/processed_854.wav|0|ən↑, tʃʰi↑s`ɹ`↑ ʃja↓mjɛn↓ t⁼ə tʰu↑ t⁼əxwa↓, weɪ→p⁼wo↑ t⁼oʊ→ fa→ t⁼ə ts`ʰu→laɪ↑.
+./custom_character_voice/Taffy/processed_855.wav|0|k⁼eɪ↓↑ ni↓↑ ts`⁼u↓ ni↓↑ p⁼i↓iɛ↓ kʰwaɪ↓lə↓ p⁼a p⁼i↓iɛ↓ kʰwaɪ↓lə↓ t⁼oʊ→ p⁼u↑iɑʊ↓ tʃ⁼iɑʊ↓ ni↓↑ kʰwaɪ↓lə↓ p⁼u↑iɑʊ↓ tʰan↑p⁼u↓mjɛn↓ iɑʊ↓ iɛ↓↑ aɪ↓ ni↓↑ p⁼u↑iɑʊ↓.
+./custom_character_voice/Taffy/processed_856.wav|0|ʃiɑʊ↓↑meɪ↓ ts⁼ən↓↑mə lə ni↓↑ ʃiɑʊ↓↑meɪ↓ meɪ↑joʊ↓↑ ʃiɑʊ↓↑meɪ↓ kʰwaɪ↓ pʰɑʊ↓↑.
+./custom_character_voice/Taffy/processed_857.wav|0|t⁼a↓njɛn↑ts`ʰu→i→ xɑʊ↓↑ t⁼ə, t⁼a↓njɛn↑ts`ʰu→i→ t⁼a↓njɛn↑ts`ʰu→i→, mi→ ja.
+./custom_character_voice/Taffy/processed_858.wav|0|wo↓↑tsʰɑʊ→ ɹ`ən↑oʊ↓↑ meɪ↓ t⁼ə t⁼oʊ↓↑pʰəŋ↑, ə↓ p⁼u↑s`ɹ`↓ tʃ⁼iɛ↓ tʃ⁼jɛn↓ tʃ⁼iɛ↓ tʃ⁼jɛn↓ ɹ`ən↑oʊ↓↑ meɪ↓ t⁼ə t⁼oʊ↓↑pʰəŋ↑ miɑʊ→.
+./custom_character_voice/Taffy/processed_859.wav|0|a s`ən↑mə tʃʰɥ↓ wan↓↑ meɪ↑ joʊ↓↑ t⁼ə s`ən↑mə wan↓↑ tʰa→mən ts`⁼ɹ`↓↑ ts⁼aɪ↓ p⁼i↓li→ p⁼i↓li→.
+./custom_character_voice/Taffy/processed_861.wav|0|p⁼u↓wan↑ lə p⁼u↓ wan↑ lə tʰu↓↑ tsʰɑʊ↑ tʃ⁼i→ p⁼u↓ wan↑ lə.
+./custom_character_voice/Taffy/processed_862.wav|0|ts⁼wo↓ s`a↑ ja ts⁼wo↓ s`a↑ ja p⁼a↓↑ pʰiŋ↑k⁼wo↓↑ tʰɑŋ↑ t⁼ə ts`⁼ə↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_863.wav|0|so↑odane, ba↓ibai, mja↓N. ba↓ibai, mja↓N. ba↓ibai, mja↓N.
+./custom_character_voice/Taffy/processed_864.wav|0|meɪ↑ ʃiɑŋ↓↑t⁼ɑʊ↓ ʃjɛn↓ts⁼aɪ↓ nəŋ↑k⁼wo↑ i→miŋ↑ t⁼ə→ t⁼ə→ t⁼ə→ t⁼ə→ t⁼ə→ t⁼ə→ t⁼ə→ t⁼ə→ t⁼ə→ ni↓↑ kʰə↓↑i↓↑ s`wo→ s`ɹ`↓.
+./custom_character_voice/Taffy/processed_865.wav|0|xɑʊ↓↑ joʊ↓↑tʃʰiŋ↑ xə↑li↓↑ ɥæn↑laɪ↑ tʰə↓p⁼iɛ↑ ʃiɑŋ↓↑iɑʊ↓ ts`⁼ə↓iɑŋ↓ xweɪ↓ ʃi↓↑xwan→ ʃi↓↑ s`ən↑mə ja.
+./custom_character_voice/Taffy/processed_866.wav|0|ʃiɑŋ↓↑ tʃʰɥ↓ k⁼ɑʊ→xaɪ↓↑joʊ↑lan↓↑ ma p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ tʰa→mən xoʊ↓ tʃʰi→ s`ɹ`↓ s`ən↑mə t⁼ʊŋ→ʃi→ kʰan↓ lə i→ʃja↓ na↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_867.wav|0|kʰwaɪ↓t⁼jɛn↓↑ s`weɪ↓ miŋ↑tʰjɛn→ miŋ↑tʰjɛn→ kʰan↓tʃʰiŋ→ tʃʰiŋ→ wan↓↑s`ɑŋ↓ kʰan↓ t⁼a↓↑mi↓↑ ma p⁼u↓ kʰan↓.
+./custom_character_voice/Taffy/processed_868.wav|0|a iɑʊ↓ xwan↓ ʃin→ tʰoʊ↑ʃiɑŋ↓ ma tʰa→mən meɪ↑ ʃiɑŋ↓↑fa↓↑ eɪ↑ a iɑʊ↓ xwan↓ ʃin→ tʰoʊ↑ʃiɑŋ↓ ma.
+./custom_character_voice/Taffy/processed_869.wav|0|kʰə↓↑i↓↑ lə ma? p⁼u↓k⁼wo↓ t⁼ɑŋ→ts`ʰu→ k⁼ʊŋ→ tʃʰi↑ li↓jʊŋ↓ t⁼ə tʃ⁼joʊ↓s`ɹ`↓ lə.
+./custom_character_voice/Taffy/processed_870.wav|0|ts`ʰu↑lə li↑kʰaɪ→ ɹ`ən↑s`əŋ→ iɛ↓↑ iɛ↓məŋ↓ lə p⁼u↑iɑʊ↓ iɛ↓məŋ↓.
+./custom_character_voice/Taffy/processed_871.wav|0|ʃiŋ→ʃiŋ→, məŋ↓tʃ⁼jɛn↓ t⁼əɛ↑sɹ↓ ʃiŋ→, ts⁼aɪ↓ p⁼eɪ↓ i↑uɑŋ↓ t⁼ə in→an↓ tʃ⁼iɑʊ↓↑lwo↓li↓↑, i→ts`⁼ɹ`→ ts`ʰu↓↑tsʰɑŋ↑ tʃ⁼joʊ↓ joʊ↓ i→tsʰɹ↓ kʰan↓t⁼ɑʊ↓ tʰa→mən k⁼wo↓ lə ʃin→ t⁼ə ts`⁼oʊ→njɛn↑.
+./custom_character_voice/Taffy/processed_872.wav|0|ʃiɑʊ↓↑p⁼eɪ↓laɪ↑ ts`ʰəŋ↑t⁼an→  ʃiɑʊ↓↑p⁼eɪ↓laɪ↑ p⁼eɪ↓fu↓.
+./custom_character_voice/Taffy/processed_873.wav|0|tʰa→ p⁼eɪ↓ soʊ→ lə k⁼ʊŋ→xaɪ↓↑ joʊ↑lwən↑, mwo↑ni↓↑ s`an→ja↑.
+./custom_character_voice/Taffy/processed_874.wav|0|na↓xaɪ↑ ts`⁼ən→s`ɹ`↓ wan↓↑s`ɑŋ↓ t⁼ə mi↑, wan↓↑s`ɑŋ↓ t⁼ə mi↑tʰə↓mi↑ t⁼a↓t⁼wo→ lə t⁼ə.
+./custom_character_voice/Taffy/processed_875.wav|0|wo↓↑ ts`⁼ən→ i↓↑weɪ↑ tʰaɪ↓aɪ↓↑ lə.
+./custom_character_voice/Taffy/processed_876.wav|0|xaɪ↑ tʰiŋ↓↑ ʃi↓↑xwan→ t⁼an↓ ts`⁼ɹ`↓ts⁼wo↓ tʃʰi↓↑laɪ↑ xɑʊ↓↑xwa→ s`ɹ`↑tʃ⁼i↓.
+./custom_character_voice/Taffy/processed_877.wav|0|t⁼ʊŋ↓u↓ pʰaɪ↓t⁼weɪ↓ s`wo→s`ɹ`↑xwa↓ tʰə↓p⁼iɛ↑ joʊ↓↑t⁼jɛn↓↑ xaɪ↓pʰa↓ ts`⁼a↓t⁼an↓ ʃiɑŋ↓↑ tʃ⁼in→tʰjɛn→ na↓k⁼ə↓.
+./custom_character_voice/Taffy/processed_878.wav|0|N↑N, pe↑edʑiijoo.
+./custom_character_voice/Taffy/processed_879.wav|0|xweɪ↓... xweɪ↓ ts⁼aɪ↓ na↓p⁼jɛn→ tʃ⁼iɑʊ↓ ʃi↓↑xwan→ kʰan↓ xwo↑li↓ tʃ⁼iɛ↓↑nəŋ↑ p⁼eɪ↓ k⁼an↓↑ɹ`an↓↑ ja.
+./custom_character_voice/Taffy/processed_880.wav|0|p⁼iɛ↑s`wo→ s`ən↑mə ja tʰa→mən lja↓↑ ɹ`ən↑ t⁼oʊ→ meɪ↑s`ən↑mə məŋ↓ʃiɑŋ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_881.wav|0|mi→, tʰa→ ts⁼aɪ↓ tʃ⁼iɛ→lu↓ ts⁼ɹ↓tʃ⁼i↓↑ t⁼ə iŋ↑s`oʊ→, tʰa→ tʃ⁼joʊ↓↑ɥɛ↓ i→k⁼ə↓ ɥɛ↓ s`oʊ→ lə.
+./custom_character_voice/Taffy/processed_882.wav|0|ʃi↓↑xwan→ tsʰaɪ↓↑xʊŋ↑ ma? ən↑, p⁼i↓↑tʃ⁼iɑʊ↓ tʃ⁼joʊ↓↑ t⁼ə s`ɹ`↑xoʊ↓ ʃi↓↑xwan→ tsʰaɪ↓↑xʊŋ↑.
+./custom_character_voice/Taffy/processed_883.wav|0|wo↓↑ t⁼ə ma→nəŋ↑ tsʰan↓ tsʰan↓ ni↓↑ t⁼ə pʰiŋ↑ k⁼wo↓↑tʰɑŋ↑ ma wo↓↑ iɑʊ↓ na↑ ts`ʰu↑t⁼iɑʊ↓ ni↓↑ t⁼ə tʰɑŋ↑ laɪ↑xwan↓.
+./custom_character_voice/Taffy/processed_884.wav|0|p⁼u↑iɑʊ↓ tʃ⁼ɥ↓li↑ ni↓↑ na↓mə ɥæn↓↑  ts⁼aɪ↓ kʰɑʊ↓tʃ⁼in↓ i↓t⁼jɛn↓↑ ən↑  kʰɑʊ↓tʃ⁼in↓ i↓t⁼jɛn↓↑ ʃiɛ↓ lə ma.
+./custom_character_voice/Taffy/processed_885.wav|0|ə↓  p⁼u↑xweɪ↓ ts`⁼ɑʊ↑xwo↓↑ a t⁼a↓njɛn↑ts`ʰu→i→.
+./custom_character_voice/Taffy/processed_886.wav|0|joʊ↓↑ niɑʊ↓↑ weɪ↓s`ən↑mə s`ɹ`↓ niɑʊ↓↑.
+./custom_character_voice/Taffy/processed_887.wav|0|na↓p⁼jɛn→ ts`⁼ə↓xwa→ lə xɑʊ↓↑tʃ⁼joʊ↓↑ ts`⁼ɹ`→tʃʰjɛn↑ t⁼ə joʊ↑ʃi↓ lə.
+./custom_character_voice/Taffy/processed_888.wav|0|ni↓↑ tʃʰjɛn→wan↓ t⁼oʊ→ p⁼u↓ tʃʰɥ↓ na↓↑, p⁼u↓tʃʰɥ↓ na↓↑, p⁼u↓tʃʰɥ↓ na↓↑, p⁼u↓tʃʰɥ↓ na↓↑.
+./custom_character_voice/Taffy/processed_889.wav|0|ʃiɛ↓ʃiɛ↓ ʃin→ʃin→  wan↓↑an→ ts`⁼ə↓ s`ɹ`↓ tʃʰjɛn↑ i→tʃ⁼i↑ na↓ʃiɛ→ tʰə↓p⁼iɛ↑ wo↓↑ tʃ⁼in→tʰjɛn→ t⁼a↓ʃɥɛ↑p⁼i↓iɛ↓ lə wo↓↑ k⁼ʊŋ→ʃi↓↑ p⁼i↓iɛ↓ lə.
+./custom_character_voice/Taffy/processed_890.wav|0|i↓↑xoʊ↓nəŋ↑ wan↓↑t⁼jɛn↓↑ p⁼a→t⁼jɛn↓↑p⁼wo→ ma?  p⁼u↓nəŋ↑ tʃ⁼in→tʰjɛn→ t⁼a↓↑swan↓ ts`ʰɹ`→ s`ən↑mə?
+./custom_character_voice/Taffy/processed_891.wav|0|ts`⁼ə↓k⁼ə↓ joʊ↓ xɑʊ↓↑ts⁼a↑ a  ts⁼ən↓↑mə xweɪ↑s`ɹ`↓.
+./custom_character_voice/Taffy/processed_892.wav|0|kʰan↓ ts`⁼ə↓k⁼ə↓k⁼a↓ t⁼ə p⁼u↑iɑʊ↓ kʰan↓ lə p⁼u↑iɑʊ↓ kʰan↓ lə p⁼u↑iɑʊ↓ kʰan↓ lə p⁼u↑iɑʊ↓ kʰan↓ lə.
+./custom_character_voice/Taffy/processed_893.wav|0|tsʰʊŋ↑ joʊ↑ʃi↓ miŋ↑t⁼ɑʊ↓ s`ɹ`↓jɛn↓ miŋ↑t⁼ɑʊ↓ pʰeɪ↑p⁼an↓ miŋ↑ sweɪ↑p⁼jɛn↓ tʰa→mən pʰeɪ↓ ts`ʰu→ t⁼ɑʊ↓tʃ⁼ɥ↓.
+./custom_character_voice/Taffy/processed_894.wav|0|ɹ`ɑŋ↓ tʰa→ ts`ʰəŋ↑weɪ↑ tʰa→ ts`⁼ɹ`→tʃʰjɛn↑ tʰiɑʊ↑kʰan↓↑ t⁼ə ɹ`ən↑ kʰwaɪ↓ ʃiɑŋ↓↑ p⁼an↓fa↓↑ p⁼a↓↑ tʰa→ ʃi↓↑nɑʊ↓↑ ts`ʰəŋ↓ts`ʰu→ tʰa→ əɹ`↓↑tʃ⁼i→.
+./custom_character_voice/Taffy/processed_895.wav|0|waɪ↓mjɛn↓ s`ɹ`↓tʃ⁼iɛ↓ p⁼u↑s`ɹ`↓ kʰʊŋ↓↑p⁼u↓ ma? tʃ⁼joʊ↓s`ɹ`↓ xweɪ↓ joʊ↓↑ i↓waɪ↓.
+./custom_character_voice/Taffy/processed_896.wav|0|t⁼əŋ↓↑t⁼əŋ↓↑ t⁼əŋ↓↑t⁼aɪ↓ pʰaɪ↓ t⁼weɪ↓ ts`ʰu→laɪ↑ t⁼ə s`ɹ`↑xoʊ↓ ts`ʰu→laɪ↑ kʰan↓kʰan↓ p⁼a.
+./custom_character_voice/Taffy/processed_897.wav|0|joʊ↓↑meɪ↑joʊ↓↑ əɹ`↓s`ɹ`↑wan↓ ja fan↓↑ts`⁼əŋ↓ tʰiŋ↓↑ ʃiɑʊ↓↑ t⁼ə.
+./custom_character_voice/Taffy/processed_898.wav|0|N↑N.
+./custom_character_voice/Taffy/processed_899.wav|0|i↓go ma↓i o↓o e↓sɯ* tʃe↓N dʑo↓nno tʃe↓ndaada! i↑e↓ei.
+./custom_character_voice/Taffy/processed_900.wav|0|ɹ`an↑xoʊ↓tʃ⁼joʊ↓ p⁼i↓↑tʃ⁼iɑʊ↓ ʃi↓↑xwan→ kʰan↓, ɹ`an↑xoʊ↓ɥɛ↓ kʰan↓k⁼eɪ↓↑ tʰə↓miŋ↓ tʰweɪ→ t⁼ə tʃ⁼joʊ↓ ɥɛ↓ t⁼wo→ la.
+./custom_character_voice/Taffy/processed_901.wav|0|t⁼a↓↑miɑʊ↓ tʃʰɥæn↑ joʊ↓↑ t⁼ə  kʰən↓↑t⁼iŋ↓ joʊ↓↑ kʰən↓↑t⁼iŋ↓ joʊ↓↑ kʰən↓↑t⁼iŋ↓ joʊ↓↑.
+./custom_character_voice/Taffy/processed_902.wav|0|a! wo↓↑ ts`ʰa↓t⁼jɛn↓↑ tʰu→ɹ`an↑ ʃiɑŋ↓↑t⁼ɑʊ↓.
+./custom_character_voice/Taffy/processed_903.wav|0|iɑʊ↓ ts`⁼wən↓↑p⁼eɪ↓ s`u→maɪ↓ p⁼a tʰa→mən s`ɹ`↑ʃjɛn↓ lə xən↓↑t⁼wo→ ni↓↑ ʃiɑŋ↓↑ k⁼wo↓ tʃʰɥɛ↓ ts⁼wo↓ p⁼u↑t⁼ɑʊ↓ t⁼ə məŋ↓ʃiɑŋ↓↑.
+./custom_character_voice/Taffy/processed_904.wav|0|joʊ↓↑tʃ⁼jɛn↓ɥ↓↑tʃ⁼jɛn↓ɥ↓↑.
+./custom_character_voice/Taffy/processed_905.wav|0|wo↓↑ t⁼əŋ↓↑ i→ʃja↓, xwən↑ san→ wan↑wan↑ wan↑xwən↑ i→ma, ən↑ ən↑, ʃiɑŋ↓↑ i→ʃja↓, t⁼əŋ↓↑ k⁼ə↓ s`ɹ`↓tʃ⁼iɛ↓ p⁼a!
+./custom_character_voice/Taffy/processed_906.wav|0|wo↓↑ ʃjɛn→ tʃ⁼iɑʊ↓ meɪ↓↑tʃʰin↑ na↓tʰɑŋ↑ wo↓↑ t⁼weɪ↓ s`weɪ↓↑ xə→s`weɪ↓↑.
+./custom_character_voice/Taffy/processed_907.wav|0|swo↓↑i↓↑ k⁼eɪ↓↑ts`ʰu→ t⁼ɑʊ↓tʃ⁼ɥ↓ kʰan↓ i→jɛn↓↑ ts`⁼ə↓p⁼jɛn→ ʃiɑŋ↓↑ʃiɑŋ↓↑ k⁼aɪ↓↑xɑʊ↓↑ lə ts`⁼ə↓.
+./custom_character_voice/Taffy/processed_908.wav|0|wo↓↑ t⁼ə fa→ts⁼, kʰə↓↑nəŋ↑ joʊ↓↑t⁼jɛn↓↑ʃiɑŋ↓.
+./custom_character_voice/Taffy/processed_909.wav|0|ljoʊ↑ts`⁼ə t⁼ɑŋ→ts`ʰu→ tʰa→ tʃ⁼jɛn↓mjɛn↓ meɪ↓↑k⁼ə↓ ɹ`ən↑ mu↑iɑŋ↓.
+./custom_character_voice/Taffy/processed_911.wav|0|ts`⁼ən→pʰa↓ tʰa→mən pʰa↑ tʃʰi↓↑laɪ↑ kʰan↓ lə tʃ⁼iɛ↑k⁼wo↓↑ tsʰʊŋ↑ na↓↑əɹ`↑ tʃ⁼joʊ↓ p⁼u↓ ts`⁼ɹ`→t⁼ɑʊ↓ meɪ↑joʊ↓↑ kʰə↓↑nəŋ↑ ja.
+./custom_character_voice/Taffy/processed_912.wav|0|kʰan↓ tʰa→mən meɪ↓↑tʰjɛn→ t⁼oʊ→ ən↑ ən↑ ən↑ t⁼ə ts⁼ɹ↓tʃ⁼i↓↑ mwo→ i↓tʃʰi↓↑ iɑʊ↓ fan↓↑iŋ→ ma?
+./custom_character_voice/Taffy/processed_913.wav|0|t⁼a↓tʃ⁼ja→ ts⁼aɪ↓ ts`⁼ə↓əɹ`↑ nəŋ↑ xən↓↑ an→ʃin→  tʰʊŋ→k⁼wo↓ na↓p⁼jɛn→ tʰʊŋ→k⁼wo↓ na↓p⁼jɛn→.
+./custom_character_voice/Taffy/processed_914.wav|0|ɑʊ↓t⁼i↓ xən↓↑ ɹ`ʊŋ↑i↓ s`weɪ↓ t⁼ə, meɪ↑joʊ↓↑ ɑʊ↓t⁼i↓ k⁼wo↓, t⁼an↓s`ɹ`↓ ɑʊ↓t⁼i↓ xən↓↑ ɹ`ʊŋ↑i↓ s`weɪ↓ xən↓↑ tʃ⁼joʊ↓↑.
+./custom_character_voice/Taffy/processed_915.wav|0|tʰa→mən ts`⁼ən→t⁼ə p⁼u↓nəŋ↑ xweɪ→s`oʊ↓↑ xwan↓k⁼ə↓ laɪ↑xweɪ→s`oʊ↓↑.
+./custom_character_voice/Taffy/processed_916.wav|0|ən↑ ɹ`u↑k⁼wo↓↑ ɹ`u↑k⁼wo↓↑ ts⁼aɪ↓ ɹ`u↑k⁼wo↓↑ joʊ↓↑ɹ`ən↑ k⁼wan↓↑ t⁼ə xwa↓.
+./custom_character_voice/Taffy/processed_917.wav|0|ts⁼weɪ↓tʃ⁼in↓ ɹ`ən↑ miŋ↑miŋ↑ xweɪ↓t⁼ʊŋ↓ t⁼an↓ tʰa→ kʰan↓ p⁼u↓tʃ⁼jɛn↓ xɑʊ↓↑ kʰə↓↑ʃi→.
+./custom_character_voice/Taffy/processed_918.wav|0|xaɪ↑iɑʊ↓ ts`ʰɹ`↑ʃɥ↓ t⁼wo→tʃ⁼joʊ↓↑ nə?
+./custom_character_voice/Taffy/processed_919.wav|0|t⁼əŋ↓↑ i→ʃja↓ la miɑʊ→ t⁼əŋ↓↑ i→ʃja↓ la.
+./custom_character_voice/Taffy/processed_920.wav|0|ts`⁼ə↓k⁼ə↓ ts`⁼ʊŋ→  ts`⁼ə↓k⁼ə↓ ts`⁼ʊŋ→  ts⁼an↓s`ɹ`↑ meɪ↑joʊ↓↑ ts⁼ɹ↓↑ts`⁼ən→  ʃjɛn→ fɑŋ↓ts⁼aɪ↓ i→p⁼jɛn→ la.
+./custom_character_voice/Taffy/processed_921.wav|0|ən↑, ts`⁼ə↓k⁼ə↓ t⁼ɑʊ↓ s`ɹ`↓ tʃʰjɛn↓ sɹ↓↑ lə.
+./custom_character_voice/Taffy/processed_922.wav|0|ts`ʰu↑lə ni↓↑ p⁼u↑iɑʊ↓ s`oʊ↓↑tʃ⁼i→, pʰiŋ↑mjɛn↓ tʰaɪ↓ t⁼wo→ t⁼ʊŋ→ʃi→ ma.
+./custom_character_voice/Taffy/processed_923.wav|0|a, na↓ tʰa→mən iɛ↓↑ meɪ↑joʊ↓↑ feɪ↓xwa↓ ja.
+./custom_character_voice/Taffy/processed_924.wav|0|ɯ↑N↓ɯN.
+./custom_character_voice/Taffy/processed_925.wav|0|wo↓↑ iɛ↓↑ kʰan↓, in→weɪ↓ tʰə↓p⁼iɛ↑ ʃi↓↑xwan→ kʰan↓ joʊ↓↑ xwo↑li↓ t⁼ə na↓ts`⁼ʊŋ↓↑.
+./custom_character_voice/Taffy/processed_926.wav|0|ən↑, s`ɹ`↑tʃʰi→ a→i↑ ʃjɛn↓ts⁼aɪ↓ ts⁼wo↓ t⁼ə ts⁼ən↓↑məiɑŋ↓ tʃʰi↑s`ɹ`↑ ts`⁼ɹ`→tʃʰjɛn↑ weɪ↓s`ən↑mə tʰu→ɹ`an↑ iɑʊ↓ʃɥɛ↑ iŋ→ɥ↓↑.
+./custom_character_voice/Taffy/processed_927.wav|0|xə→tʃ⁼joʊ↓↑ xə→ts⁼weɪ↓ p⁼eɪ↓ sʊŋ↓t⁼ɑʊ↓ i→ɥæn↓ tʃʰɥ↓ t⁼ə wo↓↑ t⁼a↓↑ t⁼ɑʊ↓ i→s`əŋ→ tʃ⁼joʊ↓ wən↓ tʰa→ ɹ`ən↓ p⁼u↓ ɹ`ən↓s`ɹ`↑ joʊ↓↑ ts`⁼u→tʰa↓↑feɪ→.
+./custom_character_voice/Taffy/processed_928.wav|0|ʃjɛn↓ts⁼aɪ↓ nin↑ xwan↑xwan↑ xwan↑ t⁼ə i↓sɹ→ s`ɹ`↓, p⁼ɑʊ↓↑p⁼ɑʊ↓↑ nəŋ↑ p⁼u↓nəŋ↑ ts⁼aɪ↓ ts`⁼ə↓k⁼ə↓ p⁼eɪ↓tʃ⁼iŋ↓↑ ʃja↓.
+./custom_character_voice/Taffy/processed_929.wav|0|ɹ`ɑŋ↓ tʰa→ k⁼aɪ↓↑ i↑k⁼ə↓ t⁼ʊŋ→ʃi→, tʰa→ k⁼aɪ↓↑ lə xɑʊ↓↑ tʃ⁼i↓↑tsʰɹ↓ tʰa→ t⁼oʊ→ meɪ↑ k⁼aɪ↓↑xɑʊ↓↑, ʃjɛn↓ts⁼aɪ↓ xwan↓ liɑŋ↓↑k⁼ə↓ ts`ʰɑŋ↓↑ts⁼ɹ↓↑.
+./custom_character_voice/Taffy/processed_930.wav|0|ts⁼weɪ↓tʃ⁼in↓ wan↑xweɪ↑ wan↑ t⁼ə t⁼oʊ→ meɪ↑joʊ↓↑ ʃiɑʊ↓↑t⁼ʊŋ→ʃi→ t⁼ə s`ɹ`↓pʰin↑ lə.
+./custom_character_voice/Taffy/processed_931.wav|0|meɪ↑joʊ↓↑ na↓ tsʰʊŋ↑ na↓↑ tʃ⁼joʊ↓ xu→xu→ loʊ↑ xu→xu→ loʊ↑.
+./custom_character_voice/Taffy/processed_932.wav|0|tʰə↓p⁼iɛ↑ wo↓↑ ʃiɑŋ↓↑t⁼ɑʊ↓ ni↓↑ t⁼ə tsʰə↓swo↓↑ ni↓↑ ts⁼ən↓↑mə t⁼ɑŋ→ tsʰə↓swo↓↑.

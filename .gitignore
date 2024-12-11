@@ -1,0 +1,8 @@
+/.idea/
+/__pycache__/
+/text/__pycache__/
+/OUTPUT_MODEL/
+/sampled_audio4ft/
+/pretrained_models/
+/custom_character_voice/
+/vc/
